@@ -1,0 +1,180 @@
+{
+    "688": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "688",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 154000",
+                "codigo_verificacao": "B16C73D79"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.462.862/0001-95",
+                "cpf_cnpj_sem_mascara": "33462862000195",
+                "telefone": null,
+                "prestador_inscricao": "4337",
+                "inscricao_estadual": null,
+                "razao_social": "SÃO MARCOS TERRAPLENAGEM E CONSTRUÇÃO LTDA.",
+                "nome_fantasia": "Endereço",
+                "endereco": "RUA DAS MARGARIDAS ,578 ,SANTA DALILA - Magé-RJ",
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "09.542.728/0001-10",
+                "cpf_cnpj_sem_mascara": "09542728000110",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "CONSORCIO ZADAR - ENGETECNICA",
+                "endereco": "RUA SENADOR DANTAS, 75 Nº 75 SALA 1903 BAIRRO CENTRO CIDADE RIO DE JANEIRO - RJ CEP 20031914",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviço de Pavimentação Asfáltica. Linha Vermelha, conf Med 13/23. M.Obra (10%)=R$ 3.596,97 Retenção p/ Prev. Social = R$ 395,67 BANCO : ITAU AGÊNCIA: 0726 C/ICORRENTE: 35410-3"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 35969.7
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4313400 - OBRAS DE TERRAPLENAGEM                                                                                                                                                                                                                                                                                      ",
+                "item_lista_servicos": "7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRÁULICA OU ELÉTRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAGEM E IRRIGAÇÃO, TERRAPLANAGEM, PAVIMENTAÇÃO, CONCRETAGE                                             "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 35969.7,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 35969.7,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 719.39,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 395.67,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 34854.64
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Sim",
+                "local_incidencia": "Macaé - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "- ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 09.542.728/0001-10 Valor Aproximado dos Tributos Federais R$ 4687,95 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1718,33 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nf_688___consor_zadar__engetecnica_enza_1.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "processo": "PDF_Raster"
+    },
+    "689": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "689",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "02/08/2023 162900",
+                "codigo_verificacao": "OCDD6FB51"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.462.862/0001-95",
+                "cpf_cnpj_sem_mascara": "33462862000195",
+                "telefone": null,
+                "prestador_inscricao": "4337",
+                "inscricao_estadual": null,
+                "razao_social": "SÃO MARCOS TERRAPLENAGEM E CONSTRUÇÃO LTDA.",
+                "nome_fantasia": "Endereço",
+                "endereco": "RUA DAS MARGARIDAS ,578 ,SANTA DALILA - Magé-RJ",
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "29.115.474/0001-60",
+                "cpf_cnpj_sem_mascara": "29115474000160",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "MUNICÍPIO DE MACAÉ",
+                "endereco": "PRESIDENTE FELICIANO SODRÉ Nº 534 PAÇO MUNICIPAL BAIRRO CENTRO CIDADE MACAÉ - RJ CEP 27913080",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviço de Recomposição do Pavimento Asfáltico (Tapa Buraco), na cidade de Macaé/RJ, abrangendo Perímetro Urbano, Região Serrana, conf Boletim de Medição 08 — CO 022/2022 — Contrato 045/2022 - . Empenhos 501/2023 e 502/2023. M. Obra (10%)= R$ 104.468,45 Retenção p/ Prev. Social=R$ 11.491,53 Banco: ITAU Agência: 0726 C/Corrente: 35410-3"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1044684.55
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4313400 - OBRAS DE TERRAPLENAGEM                                                                                                                                                                                                                                                                                      ",
+                "item_lista_servicos": "7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRÁULICA OU ELÉTRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAGEM E IRRIGAÇÃO, TERRAPLANAGEM, PAVIMENTAÇÃO, CONCRETAGE                                             "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 1044684.55,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1044684.55,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 20893.69,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 11491.53,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1012299.33
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Sim",
+                "local_incidencia": "Macaé - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "- ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 29.115.474/0001-60 Valor Aproximado dos Tributos Federais R$ 136154,26 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 49906,36 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nf_689__pmmacae__8a_med_co_22_22_tb_contrato_045_22_1.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "processo": "PDF_Raster"
+    }
+}

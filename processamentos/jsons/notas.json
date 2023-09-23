@@ -1,0 +1,87 @@
+"27": {
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "27",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "26/07/2023 16:56:00",
+            "codigo_verificacao": "08539AEBA"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "44.884.090/0001-04",
+            "cpf_cnpj_sem_mascara": "44884090000104",
+            "inscricao_municipal": "1006037",
+            "inscricao_estadual": "NONE",
+            "telefone": "NONE",
+            "razao_social": "JOAO MACHADO NETO 13429334780",
+            "nome_fantasia": "MACHADO NETO PROMOCAO DE VENDAS",
+            "endereco": "RUA Solange ,632 ,Praia do Anil (Guia de Pacobaíba) - Magé-RJ",
+            "email": "MACHADONETO123@HOTMAIL.COM"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "29.793.164/0001-03",
+            "cpf_cnpj_sem_mascara": "29793164000103",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_municipal": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "V6 EMPREENDIMENTOS IMOBILIARIOS LTDA",
+            "endereco": "DO SACARRÃO N° 860 FUTURO 862 A 1,2KM DA ESTRADA DOS BANDEIRANTES BAIRRO: VARGEM GRANDE CIDADE: RIO DE JANEIRO -",
+            "email": "NÃO INFORMADO"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "REFERENTE A VENDA DA UNIDADE 401, BLOCO 1 CLIENTE: Carlos Eduardo Pereira Alvaro Santos CPF: 17457292756 DADOS BANCARIOS: RAZAO SOCIAL: J MACHADO NETO IMOVEIS CNPJ: 44884090000104 Banco: 336 - BANCO C6 S.A. Agência: 0001 Conta Corrente: 15098040-0 PIx: 44884090000104"
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 10752.0
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "7319002 - PROMOÇÃO DE VENDAS",
+            "item_lista_servicos": "P17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DEPUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS."
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 10752.0,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 10752.0,
+            "aliquota": 0.0,
+            "valor_iss": 0.0,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 10752.0
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Microempresário Individual",
+            "simples_nacional": "Sim ( 0% )",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 0 %) Valor Aproximado dos Tributos Federais R$ 1446,14 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 504,27 (Alíq IBPT 4,69 IBPT)"
+        }
+    },
+    "batch_name": "Batch_20",
+    "diretorio": "11778530",
+    "nome_arquivo": "Nota Fiscal Nº27 VITALE ECO.pdf"

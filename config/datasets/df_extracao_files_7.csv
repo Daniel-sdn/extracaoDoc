@@ -1,0 +1,51 @@
+,index,Batch,diretorio_origem,nome_arquivo_origem,nome_arquivo_destino,data_processamento,tipo_pdf,qut_paginas
+0,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1155_2023_Lexmar.pdf,nfs_1155_2023_lexmar.pdf,28/08/2023 18:40:57,True,1
+1,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1148_2023_Geocoba.pdf,nfs_1148_2023_geocoba.pdf,28/08/2023 18:40:57,True,1
+2,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1145_2023_Normatel.pdf,nfs_1145_2023_normatel.pdf,28/08/2023 18:40:57,True,1
+3,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1156_2023_Ikinha.pdf,nfs_1156_2023_ikinha.pdf,28/08/2023 18:40:57,True,1
+4,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001144_2023_Ambientalix.pdf,nfs_1001144_2023_ambientalix.pdf,28/08/2023 18:40:57,True,1
+5,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001143_2023_Rodocon.pdf,nfs_1001143_2023_rodocon.pdf,28/08/2023 18:40:57,True,1
+6,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1146_2023_Nova_America.pdf,nfs_1146_2023_nova_america.pdf,28/08/2023 18:40:57,True,1
+7,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1150_2023_Irm╞os_Haddad.pdf,nfs_1150_2023_irmos_haddad.pdf,28/08/2023 18:40:57,True,1
+8,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1147_2023_Ambiensys.pdf,nfs_1147_2023_ambiensys.pdf,28/08/2023 18:40:57,True,1
+9,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1152_2023_Cond_Rio_Design_Barra.pdf,nfs_1152_2023_cond_rio_design_barra.pdf,28/08/2023 18:40:57,True,1
+10,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001145_2023_Tekno.pdf,nfs_1001145_2023_tekno.pdf,28/08/2023 18:40:57,True,1
+11,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1153_2023_Renove.pdf,nfs_1153_2023_renove.pdf,28/08/2023 18:40:57,True,1
+12,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001147_2023_Itaipu_Multicenter.pdf,nfs_1001147_2023_itaipu_multicenter.pdf,28/08/2023 18:40:57,True,1
+13,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1143_2023_GPC.pdf,nfs_1143_2023_gpc.pdf,28/08/2023 18:40:57,True,1
+14,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1149_2023_CRR.pdf,nfs_1149_2023_crr.pdf,28/08/2023 18:40:57,True,1
+15,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1144_2023_Op_Resgate.pdf,nfs_1144_2023_op_resgate.pdf,28/08/2023 18:40:57,True,1
+16,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001148_2023_Ambserv.pdf,nfs_1001148_2023_ambserv.pdf,28/08/2023 18:40:57,True,1
+17,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1154_2023_Metroviaria_RJ.pdf,nfs_1154_2023_metroviaria_rj.pdf,28/08/2023 18:40:57,True,1
+18,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1142_2023_Alocama.pdf,nfs_1142_2023_alocama.pdf,28/08/2023 18:40:57,True,1
+19,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1151_2023_Quaker.pdf,nfs_1151_2023_quaker.pdf,28/08/2023 18:40:57,True,1
+20,2,Batch_7,fwdnotasfiscaisemitidaslmpadalegal,NFS_1001146_2023_Irmaos_Haddad.pdf,nfs_1001146_2023_irmaos_haddad.pdf,28/08/2023 18:40:57,True,1
+21,3,Batch_7,fwdrenotafiscal,AZUL.pdf,azul.pdf,28/08/2023 18:40:57,True,1
+22,3,Batch_7,fwdrenotafiscal,SUHAI.pdf,suhai.pdf,28/08/2023 18:40:57,True,1
+23,3,Batch_7,fwdrenotafiscal,BRADESCO VIDA.pdf,bradesco_vida.pdf,28/08/2023 18:40:57,True,1
+24,3,Batch_7,fwdrenotafiscal,BRADESCO AUTO.pdf,bradesco_auto.pdf,28/08/2023 18:40:57,True,1
+25,3,Batch_7,fwdrenotafiscal,VIEGAS NOTA.pdf,viegas_nota.pdf,28/08/2023 18:40:57,True,1
+26,3,Batch_7,fwdrenotafiscal,BRADESCO SAUDE.pdf,bradesco_saude.pdf,28/08/2023 18:40:57,True,1
+27,3,Batch_7,fwdrenotafiscal,BRADESCO DENTAL.pdf,bradesco_dental.pdf,28/08/2023 18:40:57,True,1
+28,3,Batch_7,fwdrenotafiscal,TOKIO.pdf,tokio.pdf,28/08/2023 18:40:57,True,1
+29,4,Batch_7,07_2023_1,2414-228 TERE CENTRALIZADORA.pdf,2414_228_tere_centralizadora.pdf,28/08/2023 18:40:57,False,1
+30,4,Batch_7,07_2023_1,2411-110 TERE CASCATINHA.pdf,2411_110_tere_cascatinha.pdf,28/08/2023 18:40:57,False,1
+31,4,Batch_7,07_2023_1,2420-147 GREEN FRUIT BARRA.pdf,2420_147_green_fruit_barra.pdf,28/08/2023 18:40:57,False,1
+32,4,Batch_7,07_2023_1,2409-108 TERE PIABETÁ.pdf,2409_108_tere_piabeta.pdf,28/08/2023 18:40:57,False,1
+33,4,Batch_7,07_2023_1,2418-80 GREEN FRUIT MATRIZ.pdf,2418_80_green_fruit_matriz.pdf,28/08/2023 18:40:57,False,1
+34,4,Batch_7,07_2023_1,2410-109 TERE RIO BONITO.pdf,2410_109_tere_rio_bonito.pdf,28/08/2023 18:40:57,False,1
+35,4,Batch_7,07_2023_1,2405-103 CHAMY.pdf,2405_103_chamy.pdf,28/08/2023 18:40:57,False,1
+36,4,Batch_7,07_2023_1,2412-111 TERE ALTO DA SERRA.pdf,2412_111_tere_alto_da_serra.pdf,28/08/2023 18:40:57,False,1
+37,4,Batch_7,07_2023_1,2417-159 TERE HORT ESC CENTRAL.pdf,2417_159_tere_hort_esc_central.pdf,28/08/2023 18:40:57,False,1
+38,4,Batch_7,07_2023_1,2408-107 TERE BREAD.pdf,2408_107_tere_bread.pdf,28/08/2023 18:40:57,False,1
+39,4,Batch_7,07_2023_1,2422- EURO TRUCK.pdf,2422__euro_truck.pdf,28/08/2023 18:40:57,False,1
+40,4,Batch_7,07_2023_1,2415-114 TERE HORT GUAPI.pdf,2415_114_tere_hort_guapi.pdf,28/08/2023 18:40:57,False,1
+41,4,Batch_7,07_2023_1,2421-85 TOP GREEN.pdf,2421_85_top_green.pdf,28/08/2023 18:40:57,False,1
+42,4,Batch_7,07_2023_1,2407-106 TERE SÃO PEDRO.pdf,2407_106_tere_sao_pedro.pdf,28/08/2023 18:40:57,False,1
+43,4,Batch_7,07_2023_1,2413-112 TERE PÃO VÁRZEA.pdf,2413_112_tere_pao_varzea.pdf,28/08/2023 18:40:57,False,1
+44,4,Batch_7,07_2023_1,2406-50 TERE MATRIZ.pdf,2406_50_tere_matriz.pdf,28/08/2023 18:40:57,False,1
+45,4,Batch_7,07_2023_1,2416-146 TERE HORT PRAÇA SECA.pdf,2416_146_tere_hort_praca_seca.pdf,28/08/2023 18:40:57,False,1
+46,4,Batch_7,07_2023_1,2419-81 GREEN FRUIT RETA.pdf,2419_81_green_fruit_reta.pdf,28/08/2023 18:40:57,False,1
+47,5,Batch_7,notas_mage,Nota Fiscal_229_Agosto-Schneider (1).pdf,nota_fiscal_229_agosto_schneider_1.pdf,28/08/2023 18:40:57,False,1
+48,5,Batch_7,notas_mage,NF 688 - ConsoR Zadar- Engetecnica (ENZA).pdf,nf_688___consor_zadar__engetecnica_enza.pdf,28/08/2023 18:40:57,False,1
+49,5,Batch_7,notas_mage,NF 689- PMMacae- 8ª Med CO-22-22 TB Contrato 045-22.pdf,nf_689__pmmacae__8a_med_co_22_22_tb_contrato_045_22.pdf,28/08/2023 18:40:57,False,1

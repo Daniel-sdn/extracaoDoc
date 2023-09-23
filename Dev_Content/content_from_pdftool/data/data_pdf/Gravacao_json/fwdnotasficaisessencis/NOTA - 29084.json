@@ -1,0 +1,88 @@
+{
+    "diretorio": "fwdnotasficaisessencis",
+    "NOTA - 29084.pdf": {
+        "diretorio": "fwdnotasficaisessencis",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "29084",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 10:47:00",
+                "codigo_verificacao": "86A24CE55"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.263.170/0008-50",
+                "cpf_cnpj_sem_mascara": "40263170000850",
+                "inscricao_municipal": "2733",
+                "inscricao_estadual": "75.844.174",
+                "telefone": "NONE",
+                "razao_social": "ESSENCIS SOLUÇÕES AMBIENTAIS S.A",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua RIO TERESÓPOLIS ,S/N KM 121,5 BR 116 ,VILA INCA - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.567.288/0006-63",
+                "cpf_cnpj_sem_mascara": "50567288000663",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "80600410",
+                "razao_social": "SOCIEDADE MICHELIN DE PART. IND. E COM. LTDA",
+                "endereco": ". ROD PRESIDENTE DUTRA N° KM 316 LADO DIREITO - SENTIDO SP BAIRRO: ITATIAIA CIDADE: ITATIAIA - RJ CEP: 27580000",
+                "email": "miguel.rocha@michelin.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "1 - SERVIÇO DE ENGENHARIA PARA TRATAMENTO FINAL DE RESÍDUOS INDUSTRIAIS R$ 30.467,98 Vencimento: 22.10.2023 Responsável: Miguel Rocha / E-mail: miguel.rocha@michelin.com / PO 4140185920"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 30467.98
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7112000 - SERVIÇOS DE ENGENHARIA\n \n",
+                "item_lista_servicos": "- 7.01 - ENGENHARIA, AGRONOMIA, AGRIMENSURA, ARQUITETURA, GEOLOGIA, URBANISMO, PAISAGISMO E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 30467.98,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 30467.98,
+                "aliquota": 5.0,
+                "valor_iss": 1523.4,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 198.05,
+                "valor_cofins": 914.03,
+                "valor_ir": 457.02,
+                "valor_inss": 0.0,
+                "valor_csll": 304.68,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 28594.2
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade anônima",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 3845,92 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1383,96 (Alíq IBPT 4,84 IBPT)"
+            }
+        }
+    }
+}

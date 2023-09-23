@@ -1,0 +1,89 @@
+{
+    "20231": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20231",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 12:54:00",
+                "codigo_verificacao": "42BC784C8"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "51.156.898/0001-22",
+                "cpf_cnpj_sem_mascara": "51156898000122",
+                "inscricao_municipal": "952681",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995883745",
+                "razao_social": "51.156.898 EDVALDO DA COSTA NASCIMENTO",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA LIBANIA I ,112 ,VILA EMIL - Mesquita-RJ",
+                "email": "THALIITA.TCN@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.007.177/0001-10",
+                "cpf_cnpj_sem_mascara": "00007177000110",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "387092369116",
+                "razao_social": "Poli Design Projetos Promoções e Empreendimentos Ltda",
+                "endereco": "AUGUSTO FRANCISCHINELLI N° 239 BAIRRO: VILA ESPERANÇA CIDADE: ITU - SP CEP: 13311610",
+                "email": "maria.carolina@polidesign.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Prestados"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1200.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1200.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1200.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1200.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Rio de Janeiro - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 0 %) Valor Aproximado dos Tributos Federais R$ 161,4 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 59,04 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "138565",
+        "nome_arquivo": "b4066c58_f309_42e4_a992_55eb8961211e.pdf",
+        "Batch": "Batch_16",
+        "modelo": "mesquita",
+        "processo": "pdf_pesquisavel"
+    }
+}

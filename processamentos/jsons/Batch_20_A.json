@@ -1,0 +1,179 @@
+{
+    "title": "Processamento Batch_20_A - PREFEITURA MUNICIPAL DE MAGE - arq:MAGE_PDF_31282023_2254",
+    "299": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "299",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:08:00",
+                "codigo_verificacao": "8D50FD8F2"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "29.154.333/0001-57",
+                "cpf_cnpj_sem_mascara": "29154333000157",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_municipal": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC INDUSTRIA DE BRINQUEDOS LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 223 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8299799 - OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE Item da Lista de Serviços - 11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. ",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "batch_name": "Batch_20_A",
+        "diretorio": "10597",
+        "nome_arquivo": "NFS.299 07.2023 FLOC.pdf"
+    },
+    "300": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_municipal": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8299799 - OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE Item da Lista de Serviços - 11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. ",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "batch_name": "Batch_20_A",
+        "diretorio": "10597",
+        "nome_arquivo": "NFS.300 07.2023 FLOC TEXTIL.pdf"
+    }
+}

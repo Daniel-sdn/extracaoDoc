@@ -1,0 +1,25 @@
+tessedit_char_whitelist ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,.%R$
+tessedit_unrej_any_wd
+tessedit_unrej_any_wd_number
+tessedit_reject_bad_qual_wds
+tessedit_char_blacklist #~$&*<>|_{}^
+tessedit_bigram_freq_words VAF
+tessedit_bigram_debug 2
+tessedit_zero_rejection CERTB
+tessedit_word_for_word YES
+
+
+VALOR SERVIÇOS 1
+VALOR DEDUÇÃO 1
+DESC. INCOND 1
+BASE DE CÁLCULO 1
+ALÍQUOTA 1
+VALOR ISS 1
+VALOR ISS RETIDO 1
+DESC. COND 1
+VALOR PIS 1
+VALOR COFINS 1
+VALOR INSS 1
+VALOR CSLL 1
+OUTRAS RETENÇÕES 1
+VALOR LÍQUIDO 1

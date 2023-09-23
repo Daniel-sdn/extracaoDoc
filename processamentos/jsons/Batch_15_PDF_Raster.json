@@ -1,0 +1,826 @@
+{
+    "202325": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALI",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202325",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "19/07/2023 221200",
+                "codigo_verificacao": "EE699F6F8"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": "34679651000171",
+                "telefone": "2226219833",
+                "prestador_inscricao": "7718432",
+                "inscricao_estadual": null,
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIXQID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "37.054.110/0001-46",
+                "cpf_cnpj_sem_mascara": "37054110000146",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "BLUE LORD COMERCIO DE ROUPAS E ACESSORIOS LTDA",
+                "endereco": "AVENIDA IGUATEMI, 777 Nº 777 LOJA SUC 23-16 2 PISO BAIRRO VILA BRANDINA CIDADE CAMPINAS - SP CEP 13092902",
+                "email": "carolnatal(Dyahoo.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gestão de Tráfego Pago | Serviços prestados em JUN2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS .",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS.                                                                                                                              "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 1000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1000.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1000.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não incidencia",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 134,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 46,9 (Alíq IBPT 4,69 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11777624",
+        "nome_arquivo": "blue_lord.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "202326": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALI",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202326",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "26/07/2023 162700",
+                "codigo_verificacao": "79C12E052"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": "34679651000171",
+                "telefone": "2226219833",
+                "prestador_inscricao": "7718432",
+                "inscricao_estadual": null,
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIXQID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "46.152.770/0001-50",
+                "cpf_cnpj_sem_mascara": "46152770000150",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "BEE SOCIAL MARKETING, EDUCAÇÃO E TECNOLOGIA LTDA",
+                "endereco": "DEPUTADO JAMEL CECÍLIO Nº 2690 BAIRRO JARDIM GOIÁS CIDADE GOIÂNIA - GO CEP 74810100",
+                "email": "controle(Dasupernova.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gerenciamento de redes sociais | Dani Noce | JUL2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS .",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS.                                                                                                                              "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 5000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5000.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5000.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não incidencia",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 672,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 234,5 (Alíq IBPT 4,69 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11777624",
+        "nome_arquivo": "supernova.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "202328": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALI",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202328",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "26/07/2023 165100",
+                "codigo_verificacao": "B2F1BOADD"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": "34679651000171",
+                "telefone": "2226219833",
+                "prestador_inscricao": "7718432",
+                "inscricao_estadual": null,
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIXQID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.351.581/0001-34",
+                "cpf_cnpj_sem_mascara": "19351581000134",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "Bruna Caroline Galdino da Silva",
+                "endereco": "DE SÃO BENTO Nº 9550 - DE 8101/8102 AO FIM BAIRRO JARDIM JOSELY CIDADE ITAQUAQUECETUBA - SP CEP 08590315",
+                "email": "amplaGDampla.shop"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gerenciamento de redes sociais | JUL23"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2750.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS .",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS.                                                                                                                              "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 2750.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2750.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2750.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não incidencia",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 369,87 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 128,98 (Alíq IBPT 4,69 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11777624",
+        "nome_arquivo": "ampla.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "20236": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALI",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20236",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 155500",
+                "codigo_verificacao": "0D18AA21D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "44.860.067/0001-71",
+                "cpf_cnpj_sem_mascara": "44860067000171",
+                "telefone": "2288336339",
+                "prestador_inscricao": "7719219",
+                "inscricao_estadual": null,
+                "razao_social": "RODRIGO SANTOS OLIVEIRA 17676393760",
+                "nome_fantasia": "eee",
+                "endereco": "TRV DONA LOLITA ,06 *****\"*\"\"\" ESTAÇÃO - São Pedro da Aldeia-RJ",
+                "email": "RODRIGOLIVEIRASANTOS 11 GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "43.515.245/0001-64",
+                "cpf_cnpj_sem_mascara": "43515245000164",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "CAPS Media",
+                "endereco": "VITÓRIA Nº 11 BAIRRO PALMEIRAS CIDADE CABO FRIO - RJ CEP 28911210",
+                "email": "contato()capsmedia.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Desenvolvimento de websites"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5070.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8219-9/99 - PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIO",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO, EDIÇÃO, INTERPRETAÇÃO, REVISÃO, TRADUÇÃO, APOIO E INFRA-ESTRUTURA ADMINISTRATIVA E CONGÊNERES.                                                                                                           "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 5070.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5070.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5070.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11778425",
+        "nome_arquivo": "nota_07_2023.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "202363": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-a",
+                "numero_nota_fiscal": "202363",
+                "competencia": null,
+                "dt_hr_emissao": "27/07/2023 115700",
+                "codigo_verificacao": null
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": "7710957",
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "nome_fantasia": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": null,
+                "email": "Não Informado 4"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "TT REFERENTE A MENSALIDADE DO MES DE JULHO | = — -"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8595-505 - CURSOS PREPARATÓRIOS PARA CONCURSOS"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_63.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "null": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAI",
+                "tipo_nota_fiscal": "NOTA FISCAL DE S ERV",
+                "numero_nota_fiscal": null,
+                "competencia": null,
+                "dt_hr_emissao": null,
+                "codigo_verificacao": null
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "nome_fantasia": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "IF - REFERENTE A MENSALIDADE DO MÊS DE KERO l"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_61.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "IA 202358": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "secretaria": "SECRETARIA MUNICIPAL DA",
+                "numero_nota_fiscal": "IA 202358",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 105300",
+                "codigo_verificacao": "ABEB101980"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": "7710957",
+                "inscricao_estadual": null,
+                "razao_social": "80 CONCURSOS LTDA",
+                "nome_fantasia": "Endereço e cri SR",
+                "endereco": null,
+                "email": "| CORDEIROPEREIRA ADMIEGHOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "CITE Arão SOL",
+                "endereco": "DAS DÁLIAS Nº 22 BAIRRO CAMPO REDONDO CIDADE SÃO PEDRO DA ALDEIA RJ Ci",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NF - REFERENTE A MENSALIDADE DO MÊS DE JULHO207|— ["
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8595-605 - CURSOS PREPARATÓRIOS FARA CONGURSOS"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_58.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "202365": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZI",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA",
+                "numero_nota_fiscal": "202365",
+                "competencia": null,
+                "dt_hr_emissao": "27/07/2023 1514",
+                "codigo_verificacao": null
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": "T710957",
+                "inscricao_estadual": null,
+                "razao_social": "50 CONCURSOS LTDA |",
+                "nome_fantasia": "Endereço PERU ET A",
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": null,
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NF - REFERENTE A MENSALIDADE DO MÊS DE JULHOIZ029. E  |  | L]  | j E o  =, — as. cd DA a a .."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8509-605 - CURSOS PREPARATÓRIOS PARA CONCURSOS"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_65.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "IA Competência": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDI",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA",
+                "numero_nota_fiscal": "IA Competência",
+                "competencia": "e Hora da Emiasão!",
+                "dt_hr_emissao": null,
+                "codigo_verificacao": "TaTrA."
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": "7710957 |]",
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "nome_fantasia": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": "LUIS PEREIRA DOS SANTOS Nº 288 BAIRRO BAIXO GRANDE CIDADE SÃO PEDI !",
+                "email": "Não Informado Ee"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NF - REFERENTE À MENSALIDADE DO MÊS DE MILHO/2023 ] So E N"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8599-5105 - CURSOS PREPARATÓRIOS PARA CONCURSOS"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_64.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "J": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-s",
+                "numero_nota_fiscal": "J",
+                "competencia": null,
+                "dt_hr_emissao": "27/07/2023 1111",
+                "codigo_verificacao": null
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "nome_fantasia": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "KARLA DA SILVA ROSA",
+                "endereco": null,
+                "email": null
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Motimado NF - REFERENTE A MENSALIDADE DO MÊS DE JULHO/202 '"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_60.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    },
+    "| A 202362": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "| A 202362",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 1131",
+                "codigo_verificacao": "4D6AZTA"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": "7710957",
+                "inscricao_estadual": null,
+                "razao_social": "S0 CONCURSOS LTDA",
+                "nome_fantasia": "Endereço a",
+                "endereco": "RUA RUA 8, QUADRA 07, LOTE 06 «SN NOVA SÃO PEDRO - São Pedro da Aldei",
+                "email": "CORDEIROPEREIRA ADMIZHOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NF “REFERENTE A MENSALIDADE DO MES DE JULHORIZS ecoa o Paga |"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "[CNAE - B599-8/05 - CURSOS PREPARATÓRIOS PARA CONCURSOS"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual(MEI)",
+                "simples_nacional": "Sim (0% )",
+                "issqn_retido": "Não",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíg IBPT 4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_62.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "processo": "PDF_Raster"
+    }
+}

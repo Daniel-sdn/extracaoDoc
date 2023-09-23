@@ -1,0 +1,84 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "29105",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "26/07/2023 15:48:00",
+            "codigo_verificacao": "7D4810162"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "40.263.170/0008-50",
+            "cpf_cnpj_sem_mascara": "40263170000850",
+            "inscricao_municipal": "2733",
+            "inscricao_estadual": "75.844.174",
+            "telefone": "NONE",
+            "razao_social": "ESSENCIS SOLUÇÕES AMBIENTAIS S.A",
+            "nome_fantasia": "Endereço:",
+            "endereco": "rua RIO TERESÓPOLIS ,S/N KM 121,5 BR 116 ,VILA INCA - Magé-RJ",
+            "email": "NONE"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "29.503.802/0015-00",
+            "cpf_cnpj_sem_mascara": "29503802001500",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "11638910",
+            "razao_social": "SILIMED - INDUSTRIA DE IMPLANTES LTDA",
+            "endereco": ". WASHINGTON LUIZ N° SITIO 20 - DE 9602 A 10502 - LADO PAR BAIRRO: VILA ACTURA CIDADE: DUQUE DE CAXIAS - RJ CEP: 25225015",
+            "email": "paf@silimed.com.br"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "1 - SERVIÇO DE ENGENHARIA PARA TRATAMENTO FINAL DE RESÍDUOS INDUSTRIAIS R$ 16.764,30 Vencimento: 25.08.2023"
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 16764.3
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "7112000 - SERVIÇOS DE ENGENHARIA\n \n",
+            "item_lista_servicos": "- 7.01 - ENGENHARIA, AGRONOMIA, AGRIMENSURA, ARQUITETURA, GEOLOGIA, URBANISMO, PAISAGISMO E CONGÊNERES."
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 16764.3,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 16764.3,
+            "aliquota": 5.0,
+            "valor_iss": 838.22,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 108.96,
+            "valor_cofins": 502.93,
+            "valor_ir": 251.47,
+            "valor_inss": 0.0,
+            "valor_csll": 167.64,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 15733.3
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Sociedade anônima",
+            "simples_nacional": "Não",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "Valor Aproximado dos Tributos Federais R$ 2116,13 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 761,49 (Alíq IBPT 4,84 IBPT)"
+        }
+    }
+}

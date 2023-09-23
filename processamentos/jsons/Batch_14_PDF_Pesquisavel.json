@@ -1,0 +1,1515 @@
+{
+    "190": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1002479",
+        "nome_arquivo": "nota_fiscal_eletronica_190.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "188": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1002479",
+        "nome_arquivo": "nota_fiscal_eletronica_188.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "189": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1001924",
+        "nome_arquivo": "listagem_de_nfs_e___sintetico_gf_pereira.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "11": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1004403",
+        "nome_arquivo": "nf_11_igreja_evangelica_batista_eterna_vida.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "40": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1005516",
+        "nome_arquivo": "listagem_de_nfs_e__clinica_anna_stofoles.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "12": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "11789914",
+        "nome_arquivo": "nf_12_renilda.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "20": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1004813",
+        "nome_arquivo": "nf_55_jml.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": false,
+        "processo": "PDF_Pesquisavel"
+    },
+    "29": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1005075",
+        "nome_arquivo": "nf_29_gri.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "19": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1004847",
+        "nome_arquivo": "nf_19_condominio_edificio_mendes_campos.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "130": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "240746",
+        "nome_arquivo": "nf_jogos_lot_surui_07_2023.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "131": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "241538",
+        "nome_arquivo": "julh_2023_notafiscal_2.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": false,
+        "processo": "PDF_Pesquisavel"
+    },
+    "27": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "11778530",
+        "nome_arquivo": "nota_fiscal_no27_vitale_eco.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "26": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "11778530",
+        "nome_arquivo": "nota_fiscal_no26_origem.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "150": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1001204",
+        "nome_arquivo": "nota_magno_150.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "151": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "1001255",
+        "nome_arquivo": "listagem_de_nfs_e___sintetico_odonto_ja.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "299": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "10597",
+        "nome_arquivo": "nfs299_072023_floc.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "300": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %)"
+            }
+        },
+        "diretorio": "10597",
+        "nome_arquivo": "nfs300_072023_floc_textil.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    }
+}

@@ -1,0 +1,16 @@
+modelo,Referencia,Item,x0,y0,x1,y1
+mage_1,VALOR SERVI€OS:,valor_servicos,344,1950,575,2116
+mage_1,VALOR DEDU€?O:,valor_deducao,583,1950,793,2116
+mage_1,DESC. INCOND:,desc_incond,794,1950,977,2116
+mage_1,BASE DE C?LCULO:,base_calculo,979,1950,1163,2116
+mage_1,AL?QUOTA:,aliquota,1170,1950,1340,2116
+mage_1,VALOR ISS:,valor_iss,1340,1950,1529,2116
+mage_1,VALOR ISS RETIDO:,valor_iss_retido,1531,1950,1721,2116
+mage_1,DESC. COND:,desc_cond,1721,1950,1953,2116
+mage_1,VALOR PIS:,valor_pis,344,2116,575,2273
+mage_1,VALOR COFINS:,valor_cofins,583,2116,793,2273
+mage_1,VALOR IR:,valor_ir,794,2116,977,2273
+mage_1,VALOR INSS:,valor_inss,979,2116,1163,2273
+mage_1,VALOR CSLL:,valor_csll,1170,2116,1340,2273
+mage_1,OUTRAS RETEN€?ES:,outras_retencoes,1340,2116,1529,2273
+mage_1,VALOR L?QUIDO:,valor_liquido,1721,2116,1953,2273

@@ -1,0 +1,457 @@
+{
+    "11": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "11",
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "28/07/2023 13:16:00",
+                "codigo_verificacao": "3CFDF62AA"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "38.947.654/0001-08",
+                "cpf_cnpj_sem_mascara": "38947654000108",
+                "inscricao_municipal": "1004403",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "JR DE ARAUJO JIMENEZ",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA BRASIL ,116 ,PIABETA - Magé-RJ",
+                "email": "RAFAJIM3@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.329.932/0001-08",
+                "cpf_cnpj_sem_mascara": "02329932000108",
+                "rg": "NONE",
+                "inscricao_municipal": null,
+                "inscricao_estadual": null,
+                "telefone": "NONE",
+                "razao_social": "IGREJA EVANGELICA BATISTA ETERNA VIDA",
+                "endereco": "DOIS N° 05 BAIRRO: MAURIMÁRCIA (VILA INHOMIRIM) CIDADE: MAGÉ - RJ CEP: 25930630",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Prestação de serviço de elaboração de projeto e desdobro de um lote conforme regras da P.M.M"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7111100 - SERVIÇOS DE ARQUITETURA                                                                                                                                                                                                                                                                                     ",
+                "item_lista_servicos": "7.01 - ENGENHARIA, AGRONOMIA, AGRIMENSURA, ARQUITETURA, GEOLOGIA, URBANISMO, PAISAGISMO E CONGÊNERES.                                                                                                                                                                                                              "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1000.0,
+                "aliquota": 2.17,
+                "valor_iss": 21.7,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1000.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2,17% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "DADOS COMPLEMENTARES OUTRAS INFORMAÇÕES / CRITICAS EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresa municipal SIMPLES NACIONAL Sim ( 2,17% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ Observação: - Prestador Optante do Simples Nacional (Alíquota: 2,17 %) Valor Aproximado dos Tributos Federais R$ 134,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 48,4 (Alíq IBPT 4,84 IBPT)"
+            }
+        },
+        "batch": "Batch_20",
+        "diretorio": "1004403.0",
+        "nome_arquivo": "NF 11 IGREJA EVANGÉLICA BATISTA ETERNA VIDA.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "MAGE",
+        "document_unique_id": "74212c9a-0c35-4665-83e7-d48eeaaa5891"
+    },
+    "29": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "29",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissoa": "01/08/2023 13:00:00",
+                "codigo_verificacao": "F3DF71EB9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "31.721.535/0001-85",
+                "cpf_cnpj_sem_mascara": "31721535000185",
+                "inscricao_municipal": "1005075",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "ANDRE FELIPE ALMEIDA DOS SANTOS",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA 2 ,109 L 08 QD 15 ,JARDIM NOVO HORIZONTE - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.517.241/0001-63",
+                "cpf_cnpj_sem_mascara": "04517241000163",
+                "rg": "NONE",
+                "inscricao_municipal": null,
+                "inscricao_estadual": null,
+                "telefone": "NONE",
+                "razao_social": "GRI KOLETA - GERENCIAMENTO DE",
+                "endereco": "PÇ PASTOR MARTIN LUTHER KING JR N° 417 - DE 8377 A 9649 - LADO ÍMPAR BAIRRO: COLÉGIO CIDADE: RIO DE JANEIRO - RJ CEP:",
+                "email": "troza@koleta.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS EDUCACIONAIS DE INFORMÁTICA"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 895.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8592999 - ENSINO DE ARTE E CULTURA NÃO ESPECIFICADO ANTERIORMENTE                                                                                                                                                                                                                                                     ",
+                "item_lista_servicos": "8.02 - INSTRUÇÃO, TREINAMENTO, ORIENTAÇÃO PEDAGÓGICA E EDUCACIONAL, AVALIAÇÃO DE CONHECIMENTOS DE QUALQUER NATUREZA.                                                                                                                                                                                               "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 895.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 895.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 895.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "DADOS COMPLEMENTARES OUTRAS INFORMAÇÕES / CRITICAS EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ Observação: - Prestador Optante do Simples Nacional (Alíquota: 0 %) Valor Aproximado dos Tributos Federais R$ 120,38 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 27,92 (Alíq IBPT 3,12 IBPT)"
+            }
+        },
+        "batch": "Batch_20",
+        "diretorio": "1005075.0",
+        "nome_arquivo": "NF 29 GRI.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "MAGE",
+        "document_unique_id": "a707ef12-fce9-4e24-8ed4-fc9418497a2f"
+    },
+    "19": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "19",
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "31/07/2023 10:35:00",
+                "codigo_verificacao": "3319A8092"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.041.040/0001-04",
+                "cpf_cnpj_sem_mascara": "40041040000104",
+                "inscricao_municipal": "1004847",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "VITOR AGUIAR DE SOUZA 15545443789",
+                "nome_fantasia": "AGUIAR SERVIÇOS",
+                "endereco": "RUA DONA ERICA ,61 ,PIABETA - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.521.833/0001-59",
+                "cpf_cnpj_sem_mascara": "04521833000159",
+                "rg": "NONE",
+                "inscricao_municipal": null,
+                "inscricao_estadual": null,
+                "telefone": "NONE",
+                "razao_social": "CONDOMÍNIO DO EDIFÍCIO MENDES CAMPOS",
+                "endereco": "ANTÔNIO MENDES CAMPOS N° 57 BAIRRO: GLÓRIA CIDADE: RIO DE JANEIRO - RJ CEP: 22211140",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviço no apartamento 406 : *Reforma no gabinete com troca de compensado mais fórmica. * Instalação da bancada do gabinete. * Instalação do gabinete * Instalação da hidráulica"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4399103 - OBRAS DE ALVENARIA                                                                                                                                                                                                                                                                                          ",
+                "item_lista_servicos": "7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRÁULICA OU ELÉTRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAGEM E IRRIGAÇÃO, TERRAPLANAGEM, PAVIMENTAÇÃO, CONCRETAGE                                             "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1000.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1000.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "DADOS COMPLEMENTARES OUTRAS INFORMAÇÕES / CRITICAS EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ Observação: - Prestador Optante do Simples Nacional (Alíquota: 0 %) Valor Aproximado dos Tributos Federais R$ 134,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 49,3 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "batch": "Batch_20",
+        "diretorio": "1004847.0",
+        "nome_arquivo": "NF 19 CONDOMÍNIO EDIFÍCIO MENDES CAMPOS.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "MAGE",
+        "document_unique_id": "e919cfbe-5384-4785-be7a-a4e7dfb5c43c"
+    },
+    "299": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "299",
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "25/07/2023 17:08:00",
+                "codigo_verificacao": "8D50FD8F2"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "29.154.333/0001-57",
+                "cpf_cnpj_sem_mascara": "29154333000157",
+                "rg": "NONE",
+                "inscricao_municipal": null,
+                "inscricao_estadual": null,
+                "telefone": "NONE",
+                "razao_social": "FLOC INDUSTRIA DE BRINQUEDOS LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 223 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8299799 - OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE                                                                                                                                                                                                          ",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES.                                                                                                                                                                                                                                       "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "DADOS COMPLEMENTARES OUTRAS INFORMAÇÕES / CRITICAS EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresa municipal SIMPLES NACIONAL Sim ( 2% ) ISSQN RETIDO Sim LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ Observação: - Prestador Optante do Simples Nacional (Alíquota: 2 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 29.154.333/0001-57 Valor Aproximado dos Tributos Federais R$ 740,22 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 134,16 (Alíq IBPT 2,44 IBPT)"
+            }
+        },
+        "batch": "Batch_20",
+        "diretorio": "10597.0",
+        "nome_arquivo": "NFS.299 07.2023 FLOC.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "MAGE",
+        "document_unique_id": "c2155b43-b584-4a40-9039-2a1d5ecb7e40"
+    },
+    "300": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "300",
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "25/07/2023 17:14:00",
+                "codigo_verificacao": "A3EE7C7A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.860.098/0001-82",
+                "cpf_cnpj_sem_mascara": "02860098000182",
+                "inscricao_municipal": "10597",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "SPM SERVICOS DE PORTARIA LTDA S/C",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA G ,210 ,PQ.AZUL - Magé-RJ",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "39.061.296/0001-96",
+                "cpf_cnpj_sem_mascara": "39061296000196",
+                "rg": "NONE",
+                "inscricao_municipal": null,
+                "inscricao_estadual": null,
+                "telefone": "NONE",
+                "razao_social": "FLOC TEXTIL INDÚSTRIA E COMÉRCIO LTDA",
+                "endereco": "RUA LAURA MAGALHÃES TEIXEIRA N° 173 BAIRRO: BRITADOR (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25914130",
+                "email": "VRGONCALVES@HOTMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": " financeiro@floc.com.br DISCRIMINAÇÃO DOS SERVIÇOS Serviços Portaria Julho 2023 e Diárias Festa Capela R$ 250,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5610.72
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8299799 - OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE                                                                                                                                                                                                          ",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES.                                                                                                                                                                                                                                       "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5610.72,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5610.72,
+                "aliquota": 2.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 112.21,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5498.51
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "DADOS COMPLEMENTARES OUTRAS INFORMAÇÕES / CRITICAS EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresa municipal SIMPLES NACIONAL Sim ( 2% ) ISSQN RETIDO Sim LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ Observação: - Prestador Optante do Simples Nacional (Alíquota: 2 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 39.061.296/0001-96 Valor Aproximado dos Tributos Federais R$ 739,55 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 134,16 (Alíq IBPT 2,44 IBPT)"
+            }
+        },
+        "batch": "Batch_20",
+        "diretorio": "10597.0",
+        "nome_arquivo": "NFS.300 07.2023 FLOC TEXTIL.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "MAGE",
+        "document_unique_id": "e4728795-76e6-4b5f-b422-bc664825360b"
+    }
+}

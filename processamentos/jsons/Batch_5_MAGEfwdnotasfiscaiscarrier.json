@@ -1,0 +1,758 @@
+{
+    "4": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "4",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:09:00",
+                "codigo_verificacao": "C11807252"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 403/SRV/2023 SERVICOS DE APOIO EM MANUTENÇÃO PREDIAL EM LOCAIS EM ALTURA (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/01/2023 A 31/01/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 244.960,00 TOTAL DE MATERIAL DOS ITENS: R$ 367.440,00 TOTAL DOS ITENS: 612.400,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 612400.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 612400.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 612400.0,
+                "aliquota": 5.0,
+                "valor_iss": 30620.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 612400.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 82367,8 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30130,08 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 4.pdf"
+    },
+    "8": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "8",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:30:00",
+                "codigo_verificacao": "C70535EAA"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 400/SRV/2023 SERVICOS DE TRANSPORTE DE MATERIAIS DE 1ª, 2ª E 3ª CATEGORIAS, INCL CARGA E DESCARGA EM LOCAL DETERMINADO (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/02/2023 a 28/02/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 489.220,00 TOTAL DE MATERIAL DOS ITENS: R$ 733.830,00 TOTAL DOS ITENS: 1.223.050,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1223050.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1223050.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1223050.0,
+                "aliquota": 5.0,
+                "valor_iss": 61152.5,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1223050.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 8.pdf"
+    },
+    "3": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "3",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:07:00",
+                "codigo_verificacao": "E94D7E6BE"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 405/SRV/2023 SERVICO DE MANUTENCAO PREDIAL PREVENTIVA E EMERGENCIAL PERÍODO: 01/04/2023 A 30/04/2023 TOTAL DA MÃO DE OBRA DOS ITENS: R$ 244.199,13 TOTAL DE MATERIAL DOS ITENS: R$ 366.298,68"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 610497.81
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 610497.81,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 610497.81,
+                "aliquota": 5.0,
+                "valor_iss": 30524.89,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 610497.81
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 82111,96 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30036,49 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 3.pdf"
+    },
+    "6": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "6",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:17:00",
+                "codigo_verificacao": "5CE612356"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 403/SRV/2023 SERVICOS DE APOIO EM MANUTENÇÃO PREDIAL EM LOCAIS EM ALTURA (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/03/2023 A 31/03/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 243.080,00 TOTAL DE MATERIAL DOS ITENS: R$ 364.620,00 TOTAL DOS ITENS: 607.700,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 607700.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 607700.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 607700.0,
+                "aliquota": 5.0,
+                "valor_iss": 30385.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 607700.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 81735,65 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 29898,84 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 6.pdf"
+    },
+    "9": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "9",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:34:00",
+                "codigo_verificacao": "DD2E26E7B"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 400/SRV/2023 SERVICOS DE TRANSPORTE DE MATERIAIS DE 1ª, 2ª E 3ª CATEGORIAS, INCL CARGA E DESCARGA EM LOCAL DETERMINADO (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/03/2023 a 31/03/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 488.529,16 TOTAL DE MATERIAL DOS ITENS: R$ 732.793,73 TOTAL DOS ITENS: R$ 1.221.322,89"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1221322.89
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1221322.89,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1221322.89,
+                "aliquota": 5.0,
+                "valor_iss": 61066.14,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1221322.89
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 9.pdf"
+    },
+    "7": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "7",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:19:00",
+                "codigo_verificacao": "F4ECCF270"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 400/SRV/2023 SERVICOS DE TRANSPORTE DE MATERIAIS DE 1ª, 2ª E 3ª CATEGORIAS, INCL CARGA E DESCARGA EM LOCAL DETERMINADO (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/01/2023 A 31/01/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 486.112,00 TOTAL DE MATERIAL DOS ITENS: R$ 729.168,00 TOTAL DOS ITENS: 1.215.280,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1215280.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1215280.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1215280.0,
+                "aliquota": 5.0,
+                "valor_iss": 60764.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1215280.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 163455,16 (Alíq ), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 0 (Alíq IBPT 0 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 7.pdf"
+    },
+    "11": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "11",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:42:00",
+                "codigo_verificacao": "625C85FDC"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 394/SRV/2023 SERVICO DE LIMPEZA E DESOBSTRUÇÃO DE REDES, GALERIAS E DISPOSITIVOS AFINS INCLUSIVE TRANSPORTE DE DISPOSIÇÃO EM LOCAL APROPRIADO (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/02/2023 a 28/02/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 243.920,00 TOTAL DE MATERIAL DOS ITENS: R$ 365.880,00 TOTAL DOS ITENS: 609.800,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 609800.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 609800.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 609800.0,
+                "aliquota": 5.0,
+                "valor_iss": 30490.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 609800.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 82018,1 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30063,14 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 11.pdf"
+    },
+    "10": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "10",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:37:00",
+                "codigo_verificacao": "D895B58A2"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 394/SRV/2023 SERVICO DE LIMPEZA E DESOBSTRUÇÃO DE REDES, GALERIAS E DISPOSITIVOS AFINS INCLUSIVE TRANSPORTE DE DISPOSIÇÃO EM LOCAL APROPRIADO (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/01/2023 A 31/01/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 244.200,00 TOTAL DE MATERIAL DOS ITENS: R$ 366.300,00 TOTAL DOS ITENS: 610.500,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 610500.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 610500.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 610500.0,
+                "aliquota": 5.0,
+                "valor_iss": 30525.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 610500.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 82112,25 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30097,65 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 10.pdf"
+    },
+    "5": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "5",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:15:00",
+                "codigo_verificacao": "037EE44A9"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "42.046.513/0001-83",
+                "cpf_cnpj_sem_mascara": "42046513000183",
+                "inscricao_municipal": "1006043",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995543374",
+                "razao_social": "CARRIER LOCAÇÃO, TRANSPORTES E SERVIÇOS LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua DO CONTORNO ,12860 ,PARQUE SANTA RITA - Magé-RJ",
+                "email": "CONTABILBJ.FISCAL@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.024.253/0001-23",
+                "cpf_cnpj_sem_mascara": "19024253000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "NOLASCO CONSTRUCOES REFORMAS E INSTALACOES LTDA",
+                "endereco": "JOFRE SODRÉ N° 15 QUADRA:F BAIRRO: BARBUDA CIDADE: MAGÉ - RJ CEP: 25900835",
+                "email": "faturamento@gruponolasco.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONTRATO 403/SRV/2023 SERVICOS DE APOIO EM MANUTENÇÃO PREDIAL EM LOCAIS EM ALTURA (INCLUSIVE ACOMPANHAMENTO COM MÃO DE OBRA TÉCNICA ESPECIALIZADA E DIRETA , LOGISTICA, EQUIPAMENTOS, MATERIAIS E DEMAIS INSUMOS NECESSÁRIOS A EXECUÇÃO DOS SERVIÇOS) PERIODO: 01/02/2023 A 28/02/2023 TOTAL DA MAO DE OBRA DOS ITENS: R$ 246.640,00 TOTAL DE MATERIAL DOS ITENS: R$ 369.960,00 TOTAL DOS ITENS: 616.600,00"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 616600.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 616600.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 616600.0,
+                "aliquota": 5.0,
+                "valor_iss": 30830.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 616600.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 82932,7 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30336,72 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "MAGEfwdnotasfiscaiscarrier",
+        "nome_arquivo": "Nota Fiscal Eletrônica 5.pdf"
+    }
+}

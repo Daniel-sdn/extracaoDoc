@@ -1,0 +1,803 @@
+{
+    "202317": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11756286",
+        "nome_arquivo": "nf_crj_primeira_quinzena_de_julho_de_2023.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "202335": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11766341",
+        "nome_arquivo": "nota_fiscal_eletronica_quallit_24072023.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "20237": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11777624",
+        "nome_arquivo": "ampla.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": false,
+        "processo": "PDF_Pesquisavel"
+    },
+    "2023157": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11285853",
+        "nome_arquivo": "nf_2023157.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "2023158": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11359989",
+        "nome_arquivo": "nf_62.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": false,
+        "processo": "PDF_Pesquisavel"
+    },
+    "202323": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11778003",
+        "nome_arquivo": "nfse_e_23.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "202322": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11674905",
+        "nome_arquivo": "5cbb9967_367a_42ee_bcd8_a25f161906e3.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "202315": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11779053",
+        "nome_arquivo": "resposta.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "202312": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202312",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 17:57:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": "49404709000141",
+                "inscricao_municipal": "7720298",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": "02531128000107",
+                "rg": "Telef one:",
+                "telefone": "NONE",
+                "inscricao_estadual": "115249437119",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: fabio.vital@heidelberg.com DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO,   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 6.174,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Não incidencia REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO São Pedro da Aldeia - LOCAL INCIDÊNCIA São Pedro da Aldeia - RJ"
+            }
+        },
+        "diretorio": "11779531",
+        "nome_arquivo": "heidelberg_21_07_2023_nota_fiscal.pdf",
+        "Batch": "Batch_15",
+        "modelo": "pedro_aldeia",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    }
+}

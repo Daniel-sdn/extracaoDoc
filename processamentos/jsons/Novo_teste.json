@@ -1,0 +1,153 @@
+{
+    "13": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "13",
+                "competencia": "Junho/2023",
+                "dt_hr_emissao": "30/06/2023 10:49:00"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "47.070.809/0001-53",
+                "cpf_cnpj_sem_mascara": "47070809000153",
+                "inscricao_municipal": "1006695",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "PATRICK CADENA TEIXEIRA MARKETING",
+                "nome_fantasia": "INVICTUS PUBLICIDADE",
+                "endereco": "JACI ,178 ,PIABETA (INHOMIRIM) - Magé-RJ",
+                "email": "PATRICKCADENA2019@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.016.488/0001-67",
+                "cpf_cnpj_sem_mascara": "34016488000167",
+                "rg": "Telef one:",
+                "inscricao_estadual": "NONE",
+                "razao_social": "JP Santo Antonio Supermercado Eireli",
+                "endereco": "AV LINDOLFO GOMES VIDAL N° 313 BAIRRO: SANTO ANTÔNIO DO SALTO DA ONÇA CIDADE: SANTO ANTÔNIO - RN CEP: 59255000",
+                "email": "PATRICKCADENA2019@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail: NÃO INFORMADO DISCRIMINAÇÃO DOS SERVIÇOS 5x Lay outs Av ulsos 3x Top Of ertas 3x Of ertas de Atacado 1x Encarte 4x Feirão da Carne 6x Mega Feirão 1x Blackday  1x Black Saldão "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1365.0,
+                "valor_deducao": 0.0,
+                "base_calculo": 1365.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "VALOR PIS:\nR$ 0,00\nVALOR COFINS:\nR$ 0,00\nVALOR IR:\nR$ 0,00\nVALOR INSS:\nR$ 0,00\nVALOR CSLL:\nR$ 0,00\nOUTRAS RETENÇÕES:\nR$ 0,00\nVALOR LÍQUIDO:\nR$ 1.365,00"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "EXIGIBILIDADE ISS Exigivel REGIME TRIBUTAÇÃO Microempresário Individual (MEI) SIMPLES NACIONAL Sim ( 0% ) ISSQN RETIDO Não LOCAL. PRESTAÇÃO SERVIÇO Magé - RJ LOCAL INCIDÊNCIA Magé - RJ"
+            }
+        },
+        "diretorio": "teste_batch",
+        "nome_arquivo": "13 Nota Fiscal Eletrônica - Supermercado Santo Antônio - JUNHO.pdf"
+    },
+    "15": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "15",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 14:44:00",
+                "codigo_verificacao": "A3408C012"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "47.070.809/0001-53",
+                "cpf_cnpj_sem_mascara": "47070809000153",
+                "inscricao_municipal": "1006695",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "PATRICK CADENA TEIXEIRA MARKETING",
+                "nome_fantasia": "INVICTUS PUBLICIDADE",
+                "endereco": "JACI ,178 ,PIABETA (INHOMIRIM) - Magé-RJ",
+                "email": "PATRICKCADENA2019@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.231.121/0001-03",
+                "cpf_cnpj_sem_mascara": "04231121000103",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "Michel Cunha Silva",
+                "endereco": "ASPÁSIA N° 8 BAIRRO: VILA BERNADETE CIDADE: DUQUE DE CAXIAS - RJ CEP: 25272660",
+                "email": "centrodeformacaocunhasilva@gmail.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Pacote de Marketing Bronze (básico)"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 300.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 300.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 300.0,
+                "aliquota": 2.01,
+                "valor_iss": 6.03,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 300.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2,01 %) Valor Aproximado dos Tributos Federais R$ 40,35 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 14,07 (Alíq IBPT 4,69 IBPT)"
+            }
+        },
+        "diretorio": "teste_batch",
+        "nome_arquivo": "15 Nota Fiscal Eletrônica - CUNHA Julho.pdf"
+    }
+}

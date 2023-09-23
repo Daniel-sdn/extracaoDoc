@@ -1,0 +1,674 @@
+{
+    "20233": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20233",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:04:00",
+                "codigo_verificacao": "178964118"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Fevereiro, 36h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 4532.39
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 4532.39,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 4532.39,
+                "aliquota": 2.01,
+                "valor_iss": 91.1,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 4532.39
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) Valor Aproximado dos Tributos Federais R$ 609,61 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 101,07 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__3.pdf"
+    },
+    "20234": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20234",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:11:00",
+                "codigo_verificacao": "4FDA9FBAE"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "cpf_cnpj_sem_mascara": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Janeiro, 36h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 4280.16
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 4280.16,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 4280.16,
+                "aliquota": 2.01,
+                "valor_iss": 86.03,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 4280.16
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) ESTA NFS-E FOI EMITIDA EM SUBSTITUIÇÃO À NFS-E 20231 Valor Aproximado dos Tributos Federais R$ 575,68 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 95,45 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__4.pdf"
+    },
+    "20237": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20237",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:19:00",
+                "codigo_verificacao": "C45A7FCE4"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "cpf_cnpj_sem_mascara": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Abril, 48h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5706.88
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5706.88,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5706.88,
+                "aliquota": 2.01,
+                "valor_iss": 114.71,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5706.88
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) Valor Aproximado dos Tributos Federais R$ 767,58 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 127,26 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__7.pdf"
+    },
+    "20238": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20238",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:21:00",
+                "codigo_verificacao": "3C86CC2F2"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "cpf_cnpj_sem_mascara": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Maio, 60h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 7133.6
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 7133.6,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 7133.6,
+                "aliquota": 2.01,
+                "valor_iss": 143.39,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 7133.6
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) Valor Aproximado dos Tributos Federais R$ 959,47 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 159,08 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__8.pdf"
+    },
+    "20235": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20235",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:13:00",
+                "codigo_verificacao": "92ED36652"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "cpf_cnpj_sem_mascara": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Fevereiro, 2h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1469.32
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1469.32,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1469.32,
+                "aliquota": 2.01,
+                "valor_iss": 29.53,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1469.32
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) ESTA NFS-E FOI EMITIDA EM SUBSTITUIÇÃO À NFS-E 20232 Valor Aproximado dos Tributos Federais R$ 197,62 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 32,77 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__5.pdf"
+    },
+    "20236": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20236",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 15:16:00",
+                "codigo_verificacao": "3650A24CE"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.921.369/0001-05",
+                "cpf_cnpj_sem_mascara": "50921369000105",
+                "inscricao_municipal": "952538",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297268232",
+                "razao_social": "MEDSORIA CLINICA DE AVALIACAO MEDICA E PSICOLOGICA DO TRAFEGO DE MESQUITA LTDA",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA PROCOPIO ,631 LOJA A ,SANTO ELIAS - Mesquita-RJ",
+                "email": "LARA_VSORIA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.047.087/0033-16",
+                "cpf_cnpj_sem_mascara": "06047087003316",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "REDE D'OR SAO LUIZ S.A.",
+                "endereco": "OLINDA ELLIS N° 93 BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23045160",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Ref a Plantões de Março, 48h no Setor de Radiologia - Médica: Lara Veiga Soria Catuladeira."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5706.88
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5706.88,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5706.88,
+                "aliquota": 2.01,
+                "valor_iss": 114.71,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5706.88
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Mesquita - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 2,01 %) Valor Aproximado dos Tributos Federais R$ 767,58 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 127,26 (Alíq IBPT 2,23 IBPT)"
+            }
+        },
+        "diretorio": "159871",
+        "nome_arquivo": "2023__6.pdf"
+    },
+    "20232": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20232",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 20:00:00",
+                "codigo_verificacao": "DAD4C3BCC"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "51.156.898/0001-22",
+                "cpf_cnpj_sem_mascara": "51156898000122",
+                "inscricao_municipal": "952681",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995883745",
+                "razao_social": "51.156.898 EDVALDO DA COSTA NASCIMENTO",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA LIBANIA I ,112 ,VILA EMIL - Mesquita-RJ",
+                "email": "THALIITA.TCN@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.007.177/0001-10",
+                "cpf_cnpj_sem_mascara": "00007177000110",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "Poli Design Projetos Promoções e Empreendimentos Ltda",
+                "endereco": "AUGUSTO FRANCISCHINELLI N° 239 BAIRRO: VILA ESPERANÇA CIDADE: ITU - SP CEP: 13311610",
+                "email": "maria.carolina@polidesign.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços prestados"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 300.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 300.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 300.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 300.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Rio de Janeiro - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 0 %) Valor Aproximado dos Tributos Federais R$ 40,35 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 14,76 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "160014",
+        "nome_arquivo": "documento_x.pdf"
+    },
+    "20231": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MESQUITA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20231",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 12:54:00",
+                "codigo_verificacao": "42BC784C8"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "51.156.898/0001-22",
+                "cpf_cnpj_sem_mascara": "51156898000122",
+                "inscricao_municipal": "952681",
+                "inscricao_estadual": "NONE",
+                "telefone": "21995883745",
+                "razao_social": "51.156.898 EDVALDO DA COSTA NASCIMENTO",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA LIBANIA I ,112 ,VILA EMIL - Mesquita-RJ",
+                "email": "THALIITA.TCN@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.007.177/0001-10",
+                "cpf_cnpj_sem_mascara": "00007177000110",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "387092369116",
+                "razao_social": "Poli Design Projetos Promoções e Empreendimentos Ltda",
+                "endereco": "AUGUSTO FRANCISCHINELLI N° 239 BAIRRO: VILA ESPERANÇA CIDADE: ITU - SP CEP: 13311610",
+                "email": "maria.carolina@polidesign.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Prestados"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1200.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1200.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1200.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1200.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Rio de Janeiro - RJ",
+                "local_incidencia": "Mesquita - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012. - PRESTADOR OPTANTE DO SIMPLES NACIONAL (ALÍQUOTA: 0 %) Valor Aproximado dos Tributos Federais R$ 161,4 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 59,04 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "160014",
+        "nome_arquivo": "31_07.pdf"
+    }
+}

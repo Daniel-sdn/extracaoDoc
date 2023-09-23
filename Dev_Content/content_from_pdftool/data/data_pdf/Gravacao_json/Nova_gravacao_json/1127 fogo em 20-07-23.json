@@ -1,0 +1,84 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "1127",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "31/07/2023 10:31:00",
+            "codigo_verificacao": "885232F35"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "03.726.851/0001-04",
+            "cpf_cnpj_sem_mascara": "03726851000104",
+            "inscricao_municipal": "7980",
+            "inscricao_estadual": "NONE",
+            "telefone": "2125607986..\n",
+            "razao_social": "DESMAQ SERVICOS E DESMONTES LTDA",
+            "nome_fantasia": "Endereço:",
+            "endereco": "CAPITAO JOSE DE PAULA ,238 SALA 102 ,Surui - Magé-RJ",
+            "email": "MARCO@MBCONTABILRJ.COM.BR"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "16.904.055/0002-47",
+            "cpf_cnpj_sem_mascara": "16904055000247",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "MAGÉ MINERAÇÃO LTDA.",
+            "endereco": "TER SANTOS DUMONT N° 5046 ATUAL ROD.SANTOS DUMONT BAIRRO: VILA INCA CIDADE: MAGÉ - RJ CEP: 25907450",
+            "email": "sergio.araujo@empresascity.com.br"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "SERVIÇO DE DESMONTE DE ROCHA"
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 109342.24
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "4311801 - DEMOLIÇÃO DE EDIFÍCIOS E OUTRAS ESTRUTURAS\n",
+            "item_lista_servicos": "- 7.04 - DEMOLIÇÃO."
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 109342.24,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 109342.24,
+            "aliquota": 3.0,
+            "valor_iss": 0.0,
+            "valor_iss_retido": 3280.27,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 106061.97
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": "DESMONTE EM 20/07/2023 FORMA DE PAGAMENTO 2 PARCELAS 30/60 DIAS IN RFB Nº 1436/2013"
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Sociedade Limitada",
+            "simples_nacional": "Não",
+            "issqn_retido": "Sim",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "- ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 16.904.055/0002-47 Valor Aproximado dos Tributos Federais R$ 14265,34 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 5228,86 (Alíq IBPT 4,93 IBPT)"
+        }
+    }
+}

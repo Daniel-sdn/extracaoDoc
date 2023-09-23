@@ -1,0 +1,81 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "38",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "25/07/2023 13:33:00",
+            "codigo_verificacao": "0897AB668"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "48.693.039/0001-68",
+            "cpf_cnpj_sem_mascara": "48693039000168",
+            "inscricao_municipal": "1007096",
+            "inscricao_estadual": "12.681.275",
+            "telefone": "2126301653..\n",
+            "razao_social": "VIVACE ESTÚDIO DE FISIOTERAPIA E SAÚDE LTDA",
+            "nome_fantasia": "VIVACE",
+            "endereco": "WALDEMAR COLOMBO GARCIA ,167 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+            "email": "NFE@CLINICAVIVACE.COM.BR"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "EDSON JOSE OLIVEIRA DOS SANTOS",
+            "endereco": "NILÓPOLIS N° 35 BAIRRO: VILA VELHA (SANTO ALEIXO) CIDADE: MAGÉ - RJ CEP: 25912167",
+            "email": "edsonsantos140214@gmail.com"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "4 SESSÕES DE PILATES "
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 150.0
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "8650004 - ATIVIDADES DE FISIOTERAPIA\nItem da Lista de Serviços - 4.08 - TERAPIA OCUPACIONAL, FISIOTERAPIA E FONOAUDIOLOGIA.\n \n"
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 150.0,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 150.0,
+            "aliquota": 2.01,
+            "valor_iss": 3.01,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 150.0
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Sociedade Limitada",
+            "simples_nacional": "Sim ( 2,01% )",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2,01 %) Valor Aproximado dos Tributos Federais R$ 20,17 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 3,35 (Alíq IBPT 2,23 IBPT)"
+        }
+    }
+}

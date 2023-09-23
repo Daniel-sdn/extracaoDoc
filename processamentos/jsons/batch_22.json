@@ -1,0 +1,1188 @@
+{
+    "titulo": "Processamento batch_22 - PM_SAO - data:22/09/2023 14:27:53",
+    "batch": "batch_22",
+    "municipio": "São Pedro da Aldeia",
+    "202317": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202317,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 07:03:00",
+                "codigo_verificacao": "AECED0B8C"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "35.461.798/0001-53",
+                "cpf_cnpj_sem_mascara": 35461798000153,
+                "inscricao_municipal": 7717137,
+                "inscricao_estadual": "None",
+                "telefone": "2281241977",
+                "razao_social": "CRJ GESTÃO E ADMINISTRAÇÃO DE PESSOAS LTDA",
+                "nome_fantasia": "CRJ PRESTAÇÃO DE SERVIÇOS",
+                "endereco": "ROD RJ 140 KM 2 ,512 LOJA 05 ,ESTAÇÃO - São Pedro da Aldeia-RJ",
+                "email": "ESKIMOCABOFRIO@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "75.503.821/0035-99",
+                "cpf_cnpj_sem_mascara": 75503821003599,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "COMERCIO E INDUSTRIA DE SORVETE ESKIMO LTDA",
+                "endereco": "RJ-140 N° 512 LOJA 5 BAIRRO: ESTAÇÃO CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28941182",
+                "email": "ESKIMOCABOFRIO@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NF REFERENTE A SERVIÇOS PRESTADOS PRIMEIRA QUINZENA DE JULHO DE 2023. VALOR APROXIMADO DOS TRIBUTOS COM BASE NA LEI 12741/12 R$ 1.359,80 (13,93%) CONTA PARA PAGAMENTO SANTANDER AGENCIA 3071 C/C 13005212-5 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 9761.81
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7820-5/00 - LOCAÇÃO DE MÃO-DE-OBRA TEMPORÁRIA",
+                "item_lista_servicos": "17.05 - FORNECIMENTO DE MÃO-DE-OBRA, MESMO EM CARÁTER TEMPORÁRIO, INCLUSIVE DE EMPREGADOS OU TRABALHADORES, AVULSOS OU TEMPORÁRIOS, CONTRATADOS PELO PRESTADOR DE SERVIÇO."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 9761.81,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 9761.81,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 488.09,
+                "desc_cond": 0,
+                "valor_pis": 63.45,
+                "valor_cofins": 292.85,
+                "valor_ir": 146.43,
+                "valor_inss": 1073.8,
+                "valor_csll": 97.62,
+                "outras_retencoes": 0,
+                "valor_liquido": 7599.57
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 1022,14 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 182,39 (Alíq IBPT 2,4 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11756286",
+        "nome_arquivo": "NF CRJ PRIMEIRA QUINZENA DE JULHO DE 2023.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "923d536b-2f47-4994-8c77-538eab1c3c5f",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202335": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202335,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 08:17:00",
+                "codigo_verificacao": "83CA8BD3E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "36.278.809/0001-27",
+                "cpf_cnpj_sem_mascara": 36278809000127,
+                "inscricao_municipal": 7717192,
+                "inscricao_estadual": "None",
+                "telefone": "2226274526",
+                "razao_social": "THIAGO MARIANO DE JESUS DA SILVA MONSORES 17773116750",
+                "nome_fantasia": "AHMON SERVIÇOS DE INFORMATICA",
+                "endereco": "RUA SAFIRA DE ANDRADE LYRA ,3 A ,JARDIM DAS ACACIAS - São Pedro da Aldeia-RJ",
+                "email": "THIAGOXMONSORES@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "09.639.356/0001-44",
+                "cpf_cnpj_sem_mascara": 9639356000144,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "QUALLIT SERVICOS DE INFORMATICA LTDA.",
+                "endereco": ". AVENIDA PAULISTA, 1439 N° 1439 BAIRRO: BELA VISTA CIDADE: SÃO PAULO - SP CEP: 01311926",
+                "email": "monsores_rj@hotmail.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Referentes à chave de liberação 948-220723 (JDD-998119, JDD-998119). Valor Total R$ 171,00. THIAGO MARIANO DE JESUS DA SILVA MONSORES - CPF: 177731167-50 - BANCO ITAÚ - AGÊNCIA: 6101 - CONTA CORRENTE: 54127-1 - CHAVE PIX: monsores_rj@hotmail.com."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 171.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "9511-8/00 - REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS",
+                "item_lista_servicos": "14.02 - ASSISTÊNCIA TÉCNICA."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 171.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 171.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 171.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não Incidência",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 23 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 8,09 (Alíq IBPT 4,73 IBPT) "
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11766341",
+        "nome_arquivo": "Nota Fiscal Eletrônica Quallit 24072023.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "28303a7b-07ee-49f3-b7d6-7bc0f60baaa9",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "20237": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 20237,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "28/07/2023 15:56:00",
+                "codigo_verificacao": "3006138B4"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "29.555.080/0001-23",
+                "cpf_cnpj_sem_mascara": 29555080000123,
+                "inscricao_municipal": 7715281,
+                "inscricao_estadual": "None",
+                "telefone": "2281386444",
+                "razao_social": "LIGHT TECNOLOGIAS DE INFORMACAO EIRELI",
+                "nome_fantasia": "None",
+                "endereco": "RUA A ,70 ,POCO FUNDO - São Pedro da Aldeia-RJ",
+                "email": "*******"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00000000000000",
+                "cpf_cnpj_sem_mascara": 0,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "DIRECTSTREAMS SAS",
+                "endereco": "RUA 86 RUE DU CADUCÉE N° 34090 FRANCE BAIRRO: MONTPELLIER CIDADE: EXTERIOR - EX CEP: 34090",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇOS REFERENTE A ASSESSORIA EM TECNOLOGIA RELATIVA AO PERÍODO DE JUNHO 2023 (CONTRATO REF. CONTRAT DEPRESTATIONS DE SERVICELT20180129-0001) FATURA COMERCIAL Nº 0007/2023 DATA: 22/07/2023."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 37693.37
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "6204-0/00 - CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO",
+                "item_lista_servicos": "1.06 - ASSESSORIA E CONSULTORIA EM INFORMÁTICA."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 37693.37,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 37693.37,
+                "aliquota": 3.08,
+                "valor_iss": 1160.96,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 37693.37
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Empresa Individual de Resp.Limitada (EIRELI)",
+                "simples_nacional": "Sim (3,08 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 5069,76 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1733,9 (Alíq IBPT 4,6 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11624359",
+        "nome_arquivo": "NFE 20237.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "e8a12fa3-90a8-4317-baaf-799014f95fb5",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202328": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202328,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "26/07/2023 16:51:00",
+                "codigo_verificacao": "B2F1B0ADD"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": 34679651000171,
+                "inscricao_municipal": 7718432,
+                "inscricao_estadual": "None",
+                "telefone": "2226219833..",
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101; 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIX@ID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.351.581/0001-34",
+                "cpf_cnpj_sem_mascara": 19351581000134,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Bruna Caroline Galdino da Silva",
+                "endereco": "DE SÃO BENTO Nº 9550 - DE 8101/8102 AO FIM BAIRRO: JARDIM JOSELY CIDADE: ITAQUAQUECETUBA - SP CEP: 08590315",
+                "email": "ampla@ampla.shop"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gerenciamento de redes sociais | JUL23"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2750.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2750.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 2750.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 2750.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não Incidência",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 369,87 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 128,98 (Alíq IBPT 4,69 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11777624",
+        "nome_arquivo": "Ampla.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "SPA",
+        "document_unique_id": "44eaa169-167f-4a45-b60d-7d4f760a0664",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202326": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202326,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "26/07/2023 16:27:00",
+                "codigo_verificacao": "79C12E052"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": 34679651000171,
+                "inscricao_municipal": 7718432,
+                "inscricao_estadual": "None",
+                "telefone": "2226219833..",
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101; 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIX@ID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "46.152.770/0001-50",
+                "cpf_cnpj_sem_mascara": 46152770000150,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "BEE SOCIAL MARKETING, EDUCAÇÃO E TECNOLOGIA LTDA",
+                "endereco": "DEPUTADO JAMEL CECÍLIO Nº 2690 BAIRRO: JARDIM GOIAS CIDADE: GOIÂNIA - GO CEP: 74810100",
+                "email": "controle@asupernova.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gerenciamento de redes sociais | Dani Noce | JUL2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5000.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 5000.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 5000.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não Incidência",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 672,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 234,5 (Alíq IBPT 4,69 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11777624",
+        "nome_arquivo": "Supernova.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "SPA",
+        "document_unique_id": "80fc007c-a947-470d-923e-dad0b1ed5557",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202325": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202325,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "19/07/2023 22:12:00",
+                "codigo_verificacao": "EE699F6F8"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "34.679.651/0001-71",
+                "cpf_cnpj_sem_mascara": 34679651000171,
+                "inscricao_municipal": 7718432,
+                "inscricao_estadual": "None",
+                "telefone": "2226219833..",
+                "razao_social": "BIANCA MOURA FELIX DE ARAUJO 13573185703",
+                "nome_fantasia": "DOMUM MIDIAS",
+                "endereco": "RUA DOUTOR ANTONIO ALVES ,65 SALA 101; 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "BIANCAFELIX@ID.UFF.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "37.054.110/0001-46",
+                "cpf_cnpj_sem_mascara": 37054110000146,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "BLUE LORD COMERCIO DE ROUPAS E ACESSORIOS LTDA",
+                "endereco": "AVENIDA IGUATEMI, 777 Nº 777 LOJA SUC 23-16 2 PISO BAIRRO: VILA BRANDINA CIDADE: CAMPINAS - SP CEP: 13092902",
+                "email": "carolnatal@yahoo.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Gestão de Tráfego Pago | Serviços prestados em JUN2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7319-0/02 - PROMOÇÃO DE VENDAS",
+                "item_lista_servicos": "17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1000.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 1000.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 1000.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não Incidência",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 134,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 46,9 (Alíq IBPT 4,69 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11777624",
+        "nome_arquivo": "Blue Lord.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "SPA",
+        "document_unique_id": "82fa0c74-b18d-49dd-bafc-3b05ec33edc5",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "2023158": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 2023158,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "27/07/2023 09:06:00",
+                "codigo_verificacao": "BFCD0C7D8"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.785.656/0001-10",
+                "cpf_cnpj_sem_mascara": 10785656000110,
+                "inscricao_municipal": 109016,
+                "inscricao_estadual": "None",
+                "telefone": "2226250293",
+                "razao_social": "L. A. COMERCIO DE PECAS E ACESSORIOS LTDA",
+                "nome_fantasia": "RODA VIVA MOTO BIKE",
+                "endereco": "DES DOS PASSAGEIROS ,1002 LT 10 QD E ,CAMPO REDONDO - São Pedro da Aldeia-RJ",
+                "email": "FISCAL@SMPORTAL.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.074.569/0040-08",
+                "cpf_cnpj_sem_mascara": 74569004008,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "RIO DE JANEIRO REFRESCOS LTDA",
+                "endereco": "AMARAL PEIXOTO N° S/N KM 110 LOTE 6 A 16 BAIRRO: SÃO MATEUS CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28945010",
+                "email": "fdapaz@koandina.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇO TERCEIRIZADO"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 37.4
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4543-9/00 - MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS E MOTONETAS",
+                "item_lista_servicos": "14.01 - LUBRIFICAÇÃO, LIMPEZA, LUSTRAÇÃO, REVISÃO, CARGA E RECARGA, CONSERTO, RESTAURAÇÃO, BLINDAGEM, MANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS, VEÍCULOS, APARELHOS, EQUIPAMENTOS, MOTORES, ELEVADORES OU DE QUALQUE"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 37.4,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 37.4,
+                "aliquota": 3.43,
+                "valor_iss": 1.28,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 37.4
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (3,43 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": " Valor Aproximado dos Tributos Federais R$ 5,03 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1,57 (Alíq IBPT 4,21 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11285853",
+        "nome_arquivo": "NF 2023158.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "6ffe74e6-64f5-421b-b1cc-f2022c3d8928",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "2023157": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 2023157,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "27/07/2023 09:00:00",
+                "codigo_verificacao": "60134A54D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.785.656/0001-10",
+                "cpf_cnpj_sem_mascara": 10785656000110,
+                "inscricao_municipal": 109016,
+                "inscricao_estadual": "None",
+                "telefone": "2226250293",
+                "razao_social": "L. A. COMERCIO DE PECAS E ACESSORIOS LTDA",
+                "nome_fantasia": "RODA VIVA MOTO BIKE",
+                "endereco": "DES DOS PASSAGEIROS ,1002 LT 10 QD E ,CAMPO REDONDO - São Pedro da Aldeia-RJ",
+                "email": "FISCAL@SMPORTAL.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.074.569/0040-08",
+                "cpf_cnpj_sem_mascara": 74569004008,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "RIO DE JANEIRO REFRESCOS LTDA",
+                "endereco": "PRAIA AZUL N° S/N KM 110 LOTE 6 A 16 BAIRRO: BALEIA CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28940090",
+                "email": "fdapaz@koandina.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇO TERCEIRIZADO"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 25.3
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4543-9/00 - MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS E MOTONETAS",
+                "item_lista_servicos": "14.01 - LUBRIFICAÇÃO, LIMPEZA, LUSTRAÇÃO, REVISÃO, CARGA E RECARGA, CONSERTO, RESTAURAÇÃO, BLINDAGEM, MANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS, VEÍCULOS, APARELHOS, EQUIPAMENTOS, MOTORES, ELEVADORES OU DE QUALQUE"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 25.3,
+                "valor_deducao": 0,
+                "desc_incond": 2.55,
+                "base_calculo": 22.75,
+                "aliquota": 3.43,
+                "valor_iss": 0.78,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 22.75
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (3,43 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": " Valor Aproximado dos Tributos Federais R$ 5,03 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1,57 (Alíq IBPT 4,21 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11285853",
+        "nome_arquivo": "NF 2023157.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "ab93e7cb-15de-48ac-a35f-32891b339bbd",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "20236": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 20236,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "28/07/2023 15:55:00",
+                "codigo_verificacao": "0D18AA21D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "44.860.067/0001-71",
+                "cpf_cnpj_sem_mascara": 44860067000171,
+                "inscricao_municipal": 7719219,
+                "inscricao_estadual": "None",
+                "telefone": "2288336339..",
+                "razao_social": "RODRIGO SANTOS OLIVEIRA 17676393760",
+                "nome_fantasia": "Endereço: é",
+                "endereco": "TRV DONA LOLITA ,06 ********** ESTAÇÃO - São Pedro da Aldeia-RJ",
+                "email": "RODRIGOLIVEIRASANTOS11@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "43.515.245/0001-64",
+                "cpf_cnpj_sem_mascara": 43515245000164,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "CAPS Media",
+                "endereco": "VITÓRIA Nº 11 BAIRRO: PALMEIRAS CIDADE: CABO FRIO - RJ CEP: 28911210",
+                "email": "contato@capsmedia.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Desenvolvimento de websites"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5070.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8219-9/99 - PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIO",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDIVEL, REDAÇÃO, EDIÇÃO, INTERPRETAÇÃO, REVISÃO, TRADUÇÃO, APOIO E INFRA-ESTRUTURA ADMINISTRATIVA E CONGENERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5070.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 5070.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 5070.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 681,91 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 210,91 (Alíq IBPT 4,16 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11778425",
+        "nome_arquivo": "nota_07_2023.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "SPA",
+        "document_unique_id": "b639d369-35ac-4271-85fc-f2aed845d19f",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202322": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202322,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "26/07/2023 11:28:00",
+                "codigo_verificacao": "0E1CA73BD"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "43.248.635/0001-15",
+                "cpf_cnpj_sem_mascara": 43248635000115,
+                "inscricao_municipal": 7718810,
+                "inscricao_estadual": "None",
+                "telefone": "2226453944",
+                "razao_social": "SERVICE FARMA GESTÃO EMPRESARIAL E COMERCIAL LTDA",
+                "nome_fantasia": "********",
+                "endereco": "RUA FRANCISCO DOS SANTOS ,159 SALA:101; :CENTRO COMERCIAL;:ESTAÇÃO ,ESTACAO - São Pedro da Aldeia-RJ",
+                "email": "FISCAL@REALLAGOS.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "12.485.505/0001-72",
+                "cpf_cnpj_sem_mascara": 12485505000172,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "DROGARIA VITORIA DE SAO PEDRO DA ALDEIA LTDA ME",
+                "endereco": "RUA ALBERTINO DE ARAÚJO N° 32 BAIRRO: CAMPO REDONDO CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28942226",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Administrativos."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8523.65
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8219-9/99 - PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIO",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO, EDIÇÃO, INTERPRETAÇÃO, REVISÃO, TRADUÇÃO, APOIO E INFRA-ESTRUTURA ADMINISTRATIVA E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 8523.65,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 8523.65,
+                "aliquota": 4.14,
+                "valor_iss": 352.88,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 8523.65
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (4,14 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 1146,43 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 354,58 (Alíq IBPT 4,16 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11778003",
+        "nome_arquivo": "NFS-e 22.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "2dd60abe-6265-4ef0-8c88-fe57951cba63",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202323": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202323,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "26/07/2023 11:29:00",
+                "codigo_verificacao": "E66030296"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "43.248.635/0001-15",
+                "cpf_cnpj_sem_mascara": 43248635000115,
+                "inscricao_municipal": 7718810,
+                "inscricao_estadual": "None",
+                "telefone": "2226453944",
+                "razao_social": "SERVICE FARMA GESTÃO EMPRESARIAL E COMERCIAL LTDA",
+                "nome_fantasia": "********",
+                "endereco": "RUA FRANCISCO DOS SANTOS ,159 SALA:101; :CENTRO COMERCIAL;:ESTAÇÃO ,ESTACAO - São Pedro da Aldeia-RJ",
+                "email": "FISCAL@REALLAGOS.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "35.002.133/0001-81",
+                "cpf_cnpj_sem_mascara": 35002133000181,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "L G FARMA LTDA",
+                "endereco": "RUA MARECHAL JUAREZ TÁVORA N° 381 LOJA QUADRA A LOTE 0036 BAIRRO: SÃO JOÃO CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP:",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços Administrativos"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 3774.43
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8219-9/99 - PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIO",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO, EDIÇÃO, INTERPRETAÇÃO, REVISÃO, TRADUÇÃO, APOIO E INFRA-ESTRUTURA ADMINISTRATIVA E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 3774.43,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 3774.43,
+                "aliquota": 4.14,
+                "valor_iss": 156.26,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 3774.43
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (4,14 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 507,66 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 157,02 (Alíq IBPT 4,16 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11778003",
+        "nome_arquivo": "NFSe-e 23.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "b762be55-5956-4d97-8c01-a2e7f878e724",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202315": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202315,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 09:58:00",
+                "codigo_verificacao": "36C4F410E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "41.955.283/0001-02",
+                "cpf_cnpj_sem_mascara": 41955283000102,
+                "inscricao_municipal": 7718365,
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "NATALIE CHAGAS LOURENÇO CONSULTORIA AMBIENTAL",
+                "nome_fantasia": "None",
+                "endereco": "ROD Amaral Peixoto ,S/N COND:BOSQUE DA LAGOA;QUADRA:H;LOTE:53 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "None"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.174.770/0001-04",
+                "cpf_cnpj_sem_mascara": 10174770000104,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "SAO JOSE DESENVOLVIMENTO IMOBILIARIO 35 S.A.",
+                "endereco": "AVN QUEIROZ FILHO N° 1560 BL. 02 CANÁRIO BAIRRO: VILA HAMBURGUESA CIDADE: SÃO PAULO - SP CEP: 05319000",
+                "email": "luana.santos@sjdi.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Coordenação de Licenciamento e Análise Geográfica."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 8510.64
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7119-7/01 - SERVIÇOS DE CARTOGRAFIA, TOPOGRAFIA E GEODÉSIA",
+                "item_lista_servicos": "7.18 - AEROFOTOGRAMETRIA (INCLUSIVE INTERPRETAÇÃO), CARTOGRAFIA, MAPEAMENTO, LEVANTAMENTOS TOPOGRÁFICOS, BATIMÉTRICOS, GEOGRÁFICOS, GEODÉSICOS, GEOLÓGICOS, GEOFÍSICOS E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 8510.64,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 8510.64,
+                "aliquota": 2.0,
+                "valor_iss": 170.21,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 8510.64
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Microempresário e Empresa de PequenoPorte (ME EPP)",
+                "simples_nacional": "Sim (2 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": " Valor Aproximado dos Tributos Federais R$ 1144,68 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 418,72 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11777556",
+        "nome_arquivo": "NF 202315- SJDI 35 JUL 23.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "0c9b23e9-698c-4936-b4a2-21f9b3c9ed67",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    },
+    "202312": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO ALDEIA",
+                "numero_nota_fiscal": 202312,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "23/07/2023 17:57:00",
+                "codigo_verificacao": "FBEE0BF14"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "49.404.709/0001-41",
+                "cpf_cnpj_sem_mascara": 49404709000141,
+                "inscricao_municipal": 7720298,
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "49.404.709 EMERSON HILLESHEIM",
+                "nome_fantasia": "ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS",
+                "endereco": "AV Porto Feliz ,946 CASA 2 ,Balneário São Pedro - São Pedro da Aldeia-RJ",
+                "email": "EMERSONHILLESHEIM@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.531.128/0001-07",
+                "cpf_cnpj_sem_mascara": 2531128000107,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "HEIDELBERG DO BRASIL SISTEMAS GRAFICOS LTDA",
+                "endereco": "ÁFRICA N° 734 (POLO EMPRESARIAL) BAIRRO: TAMBORÉ CIDADE: SANTANA DE PARNAÍBA - SP CEP: 06543306",
+                "email": "fabio.vital@heidelberg.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA REFERENTE A PO N°455314584, ORDEM DE SERVIÇO N° 503667344. DADOS BANCARIOS PARA DEPOSITO BANCO : C6 AG:0001 Cc:25721262-0 CHAVE PIX: 49404709/0001-41 ENGETECK SERVIÇOS ELETRICOS E ELETRONICOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 6174.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "3314-7/99 - MANUTENÇÃO E REPARAÇÃO DE OUTRAS MÁQUINAS E EQUIPAMENTOS PARA USOS INDUSTRIAIS NÃO ESPECIFICADOS ANT",
+                "item_lista_servicos": "14.01 - LUBRIFICAÇÃO, LIMPEZA, LUSTRAÇÃO, REVISÃO, CARGA E RECARGA, CONSERTO, RESTAURAÇÃO, BLINDAGEM, MANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS, VEÍCULOS, APARELHOS, EQUIPAMENTOS, MOTORES, ELEVADORES OU DE QUALQUE"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6174.0,
+                "valor_deducao": 0,
+                "desc_incond": 0.0,
+                "base_calculo": 6174.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 6174.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "PRESTAÇÃO DE SEVIÇO DE MANUTENÇÃO ELETRICA E ELETRONICA, CONFORME ORDEM DE SERVIÇO: 503667344"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não Incidência",
+                "regime_tributacao": "Microempresário Individual (MEI)",
+                "simples_nacional": "Sim ( 0 %)",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": " Valor Aproximado dos Tributos Federais R$ 830,4 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 259,93 (Alíq IBPT 4,21 IBPT)"
+            }
+        },
+        "batch": "Batch_22",
+        "diretorio": "11779531",
+        "nome_arquivo": "Heidelberg 21 07 2023 NOTA FISCAL.pdf",
+        "pdf_pesquisavel": true,
+        "modelo": "SPA",
+        "document_unique_id": "fcc49b4b-4461-446b-8374-d4fd5bc439e5",
+        "parent_file": "SAO PEDRO DA ALDEIA_PDF_25292023_1443.zip"
+    }
+}

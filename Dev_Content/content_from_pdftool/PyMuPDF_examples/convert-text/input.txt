@@ -1,0 +1,47 @@
+Capítulo 1
+
+O caminho do programa
+
+O objetivo deste livro é ensiná-lo a pensar como um cientista da computação. Esse
+maneira de pensar combina algumas das melhores características da matemática, engenharia,
+e ciências naturais. Como os matemáticos, os cientistas da computação usam
+linguagens para denotar idéias (especificamente cálculos). Como engenheiros, eles
+projetar coisas, montar componentes em sistemas e avaliar compensações entre
+alternativas. Como cientistas, eles observam o comportamento de sistemas complexos,
+formular hipóteses e testar previsões.
+
+A habilidade mais importante para um cientista da computação é a resolução de problemas.
+A resolução de problemas significa a capacidade de formular problemas, pensar criativamente sobre
+soluções e expressar uma solução de forma clara e precisa. Ao que tudo indica, o
+processo de aprender a programar é uma excelente oportunidade para praticar
+habilidades para resolver problemas. É por isso que este capítulo é chamado,
+"O caminho do programa".
+
+Em um nível, você aprenderá a programar, uma habilidade útil por si só. Sobre
+outro nível, você usará a programação como um meio para um fim. À medida que avançamos,
+esse fim ficará mais claro.
+
+1.1 O que é um programa?
+
+Um programa é uma sequência de instruções que especifica como realizar uma
+computação. A computação pode ser algo matemático, como resolver um
+sistema de equações ou encontrar as raízes de um polinômio, mas também pode ser um
+computação simbólica, como pesquisar e substituir texto em um documento ou
+algo gráfico, como processar uma imagem ou reproduzir um vídeo.
+
+Os detalhes parecem diferentes em idiomas diferentes, mas algumas instruções básicas
+aparecem em quase todos os idiomas:
+
+input: Obtenha dados do teclado, de um arquivo, da rede ou de algum outro dispositivo.
+
+saída: Exibir dados na tela, salvá-los em um arquivo, enviá-los pela rede,
+etc.
+
+matemática: execute operações matemáticas básicas, como adição e multiplicação.
+execução condicional: verifique certas condições e execute o código apropriado.
+
+
+Trecho de "Think Python, How to Think Like a Computer Scientist"
+Por Allen Downey
+Publicado por Green Tea Press
+Atribuição-NãoComercial 3.0 Não Adaptado (CC BY-NC 3.0)

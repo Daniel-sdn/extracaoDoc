@@ -1,0 +1,84 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "1717",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "25/07/2023 17:00:00",
+            "codigo_verificacao": "BC82B2B7F"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "08.085.952/0001-67",
+            "cpf_cnpj_sem_mascara": "08085952000167",
+            "inscricao_municipal": "22002",
+            "inscricao_estadual": "78.140.968",
+            "telefone": "2122687853..\n",
+            "razao_social": "INMASP INDÚSTRIA E COMÉRCIO DE EQUIP. CONTRA INCÊNDIO LTDA",
+            "nome_fantasia": "Endereço:",
+            "endereco": "rua MUNICIPAL ADAM BLUMER ,6225 ,JD.ESMERALDA - Magé-RJ",
+            "email": "NONE"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "00.835.301/0006-40",
+            "cpf_cnpj_sem_mascara": "00835301000640",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "BALL EMBALAGENS LTDA",
+            "endereco": "BR-040 N° 650 - DO KM 22,000 AO KM 22,990 BAIRRO: MOURA BRASIL CIDADE: TRÊS RIOS - RJ CEP: 25821490",
+            "email": "NÃO INFORMADO"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "TREINAMENTO DE BRIGADA VOLUNTÁRIA DE INCÊNDIO DE 16 HORAS - 2 TURMAS - 40 ALUNOS PEDIDO DE COMPRA: 4501455396 VENCIMENTO: 26/08/2023 PAGAMENTO ATRAVÉS DE DEPÓSITO BANCÁRIO BANCO CAIXA ECONÔMICA AG: 0228 - C/C: 00002634-9 - OP: 003."
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 16540.0
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "8599604 - TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL\nItem da Lista de Serviços - 8.02 - INSTRUÇÃO, TREINAMENTO, ORIENTAÇÃO PEDAGÓGICA E EDUCACIONAL, AVALIAÇÃO DE CONHECIMENTOS DE\n",
+            "item_lista_servicos": "- 8.02 - INSTRUÇÃO, TREINAMENTO, ORIENTAÇÃO PEDAGÓGICA E EDUCACIONAL, AVALIAÇÃO DE CONHECIMENTOS DE"
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 16540.0,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 16540.0,
+            "aliquota": 3.0,
+            "valor_iss": 496.2,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 107.51,
+            "valor_cofins": 496.2,
+            "valor_ir": 248.1,
+            "valor_inss": 0.0,
+            "valor_csll": 165.4,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 15522.79
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Microempresário e Empresa",
+            "simples_nacional": "Não",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "Valor Aproximado dos Tributos Federais R$ 2087,82 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 484,31 (Alíq IBPT 3,12 IBPT)"
+        }
+    }
+}

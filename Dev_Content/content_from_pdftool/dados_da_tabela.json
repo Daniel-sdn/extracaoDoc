@@ -1,0 +1,162 @@
+{
+    "celula_0": {
+        "coordenadas": [
+            97.20904541015625,
+            280.82220458984375,
+            1969.6219482421875,
+            313.22698974609375
+        ],
+        "label": "table row",
+        "texto": "|Endere\u00e7o: |\n"
+    },
+    "celula_1": {
+        "coordenadas": [
+            94.21946716308594,
+            182.3364715576172,
+            1973.6121826171875,
+            216.0938262939453
+        ],
+        "label": "table projected row header",
+        "texto": "INome/Raz\u00e3o Social: |\n"
+    },
+    "celula_2": {
+        "coordenadas": [
+            93.25059509277344,
+            217.692138671875,
+            1974.2830810546875,
+            250.34490966796875
+        ],
+        "label": "table projected row header",
+        "texto": "| S\u00c3O MARCOS TERRAPLENAGEM E CONSTRU\u00c7\u00c3O LTDA. |\n"
+    },
+    "celula_3": {
+        "coordenadas": [
+            97.76911926269531,
+            183.40240478515625,
+            1969.9603271484375,
+            216.72787475585938
+        ],
+        "label": "table row",
+        "texto": "INome/Raz\u00e3o Social: |\n"
+    },
+    "celula_4": {
+        "coordenadas": [
+            99.61174011230469,
+            122.4183578491211,
+            1968.2620849609375,
+            182.38607788085938
+        ],
+        "label": "table row",
+        "texto": "ii Inscri\u00e7\u00e3o Estadual: |\n"
+    },
+    "celula_5": {
+        "coordenadas": [
+            95.97760009765625,
+            57.1798095703125,
+            517.6304321289062,
+            361.8417053222656
+        ],
+        "label": "table column",
+        "texto": "CPF/CNPJ:\n33.462.862/0001-95\nTelefone:\nNome/Raz\u00e3o Social:\nS\u00c3O MARCOS TERRAPLENAGE\nNome de Fantasia:\nEndere\u00e7o:\nRUA DAS MARGARIDAS ,578 ,S\nF-mail:\n"
+    },
+    "celula_6": {
+        "coordenadas": [
+            98.23562622070312,
+            250.03228759765625,
+            1969.614013671875,
+            281.7132263183594
+        ],
+        "label": "table row",
+        "texto": "|Nome de Fantasia: |]\n"
+    },
+    "celula_7": {
+        "coordenadas": [
+            94.35763549804688,
+            249.95091247558594,
+            1972.213134765625,
+            282.57470703125
+        ],
+        "label": "table projected row header",
+        "texto": "INome de Fantasia: o |\n"
+    },
+    "celula_8": {
+        "coordenadas": [
+            99.95320129394531,
+            57.29751205444336,
+            1965.1324462890625,
+            122.1622085571289
+        ],
+        "label": "table row",
+        "texto": "CPF/CNPJ: Inscri\u00e7\u00e3o Municipal: lei\n33.462.862/0001-95 4337 t\u00e1ai\n"
+    },
+    "celula_9": {
+        "coordenadas": [
+            1254.7294921875,
+            57.12760925292969,
+            1965.051025390625,
+            361.87457275390625
+        ],
+        "label": "table column",
+        "texto": "|\n"
+    },
+    "celula_10": {
+        "coordenadas": [
+            98.22343444824219,
+            309.96588134765625,
+            1967.2652587890625,
+            361.6531677246094
+        ],
+        "label": "table row",
+        "texto": "| RUA DAS MARGARIDAS ,578 ,SANTA DALILA - Mag\u00e9-RJ |\nF-mail:\n"
+    },
+    "celula_11": {
+        "coordenadas": [
+            92.3862075805664,
+            215.4630889892578,
+            1975.061279296875,
+            246.61947631835938
+        ],
+        "label": "table projected row header",
+        "texto": "| S\u00c3O MARCOS TERRAPLENAGEM E CONSTRUC\u00c3O LTDA. |]\n"
+    },
+    "celula_12": {
+        "coordenadas": [
+            520.1808471679688,
+            57.105506896972656,
+            1198.7650146484375,
+            361.211669921875
+        ],
+        "label": "table column",
+        "texto": "Inscri\u00e7\u00e3o Municipal:\n\n4337\n\nInscri\u00e7\u00e3o Estadual:\nM E CONSTRU\u00c7\u00c3O LTDA.\nANTA DALILA - Mag\u00e9-RJ\n"
+    },
+    "celula_13": {
+        "coordenadas": [
+            97.41287994384766,
+            218.5423583984375,
+            1969.83056640625,
+            250.91392517089844
+        ],
+        "label": "table row",
+        "texto": "| S\u00c3O MARCOS TERRAPLENAGEM E CONSTRU\u00c7\u00c3O LTDA. |\n"
+    },
+    "celula_14": {
+        "coordenadas": [
+            93.37564849853516,
+            281.7922668457031,
+            1972.5791015625,
+            313.5451354980469
+        ],
+        "label": "table projected row header",
+        "texto": "|Endere\u00e7o: |\n"
+    },
+    "celula_15": {
+        "coordenadas": [
+            99.88697814941406,
+            57.68329620361328,
+            1966.156494140625,
+            361.50146484375
+        ],
+        "label": "table",
+        "texto": "CPF/CNPJ: Inscri\u00e7\u00e3o Municipal: a\n33.462.862/0001-95 4337 Pai\n\nTelefone: Inscri\u00e7\u00e3o Estadual:\n\nNome/Raz\u00e3o Social:\n\nS\u00c3O MARCOS TERRAPLENAGEM E CONSTRU\u00c7\u00c3O LTDA.\n\nNome de Fantasia:\n\nEndere\u00e7o:\n\nRUA DAS MARGARIDAS ,578 ,SANTA DALILA - Mag\u00e9-RJ\n\nF-mail:\n"
+    }
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.2' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "novo_modelo/images/processadas/sections/Captura de tela 2023-08-22 145943.png"; bbox 0 0 1600 139; ppageno 0; scan_res 144 144'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 15 25 1586 76">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 15 25 1586 76">
+     <span class='ocr_line' id='line_1_1' title="bbox 15 25 1586 51; baseline 0 -5; x_size 31.75; x_descenders 5.5; x_ascenders 8.75">
+      <span class='ocrx_word' id='word_1_1' title='bbox 15 29 92 46; x_wconf 94'>VALOR</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 101 29 141 46; x_wconf 94'>PIS:</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 264 29 341 46; x_wconf 93'>VALOR</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 350 29 442 46; x_wconf 93'>COFINS:</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 458 29 535 46; x_wconf 94'>VALOR</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 544 29 570 46; x_wconf 94'>IR:</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 638 29 716 46; x_wconf 41'>VALOR</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 725 29 783 46; x_wconf 41'>INSS:</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 810 16 825 56; x_wconf 28'>|</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 833 29 980 46; x_wconf 71'>VALORCSLL:</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1014 29 1109 46; x_wconf 91'>OUTRAS</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1119 26 1268 51; x_wconf 87'>RETENGOES:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1401 29 1477 46; x_wconf 93'>VALOR</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1486 25 1586 47; x_wconf 73'>LiQUIDO:</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 16 54 1573 76; baseline 0 -4; x_size 31.75; x_descenders 5.5; x_ascenders 8.75">
+      <span class='ocrx_word' id='word_1_15' title='bbox 16 54 44 75; x_wconf 94'>R$</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 52 55 96 76; x_wconf 95'>0,00</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 266 54 293 75; x_wconf 95'>R$</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 302 55 345 76; x_wconf 96'>0,00</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 460 54 487 74; x_wconf 93'>R$</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 495 55 539 76; x_wconf 96'>0,00</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 640 54 667 75; x_wconf 90'>R$</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 676 55 778 76; x_wconf 90'>11.491,53</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 834 54 862 74; x_wconf 47'>R$</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 870 55 914 76; x_wconf 55'>0,00</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1015 54 1042 75; x_wconf 94'>R$</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1050 55 1094 76; x_wconf 96'>0,00</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1402 54 1429 75; x_wconf 93'>R$</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1439 55 1573 76; x_wconf 92'>1.012.299,33</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,656 @@
+{
+    "202310": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202310",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "23/07/2023 18:25:00",
+                "codigo_verificacao": "26F823266"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.924.479/0001-77",
+                "cpf_cnpj_sem_mascara": "40924479000177",
+                "inscricao_municipal": "7718093",
+                "inscricao_estadual": "NONE",
+                "telefone": "2292092254",
+                "razao_social": "RICHEMOND DACILIEN 09055553174",
+                "nome_fantasia": "RICHEMOND DACILIEN",
+                "endereco": "RUA DAS DÁLIAS ,38 ,CAMPO REDONDO - São Pedro da Aldeia-RJ",
+                "email": "DACILIENR@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "17.484.677/0001-45",
+                "cpf_cnpj_sem_mascara": "17484677000145",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "INSTITUTO MARIA E JOAO ALEIXO",
+                "endereco": "TEIXEIRA RIBEIRO N° 535 - DE 379 AO FIM - LADO ÍMPAR BAIRRO: BONSUCESSO CIDADE: RIO DE JANEIRO - RJ CEP: 21044251",
+                "email": "DACILIENR@GMAIL.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇOS DE PESQUISADOR PARA O PROJETO: MIDEQ DESENVOLVIMENTO IGUALDADE ATRAVÉS DA MIGRAÇÃO. REFERENTE AO MÊS DE JULHO DE 2023. INFORMAÇÕES BANCÁRIAS: BANCO ITAÚ, CONTA CORRENTE 57412-4, AGÊNCIA 6101"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 3500.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 3500.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 3500.0,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 3500.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Não incidencia",
+                "regime_tributacao": "Microempresário",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "São Pedro da Aldeia -"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "RJ"
+            }
+        },
+        "diretorio": "richemound17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "20236": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20236",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 11:08:00",
+                "codigo_verificacao": "E8085C964"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "17.883.962/0001-39",
+                "cpf_cnpj_sem_mascara": "17883962000139",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "JONAS DE FREITAS COSTA 80845363620",
+                "nome_fantasia": "J J DIESEL",
+                "endereco": "RUA 6 ,243 CASA ,BALNEARIO DAS CONCHAS - São Pedro da Aldeia-RJ",
+                "email": "TOMADOR DE SERVIÇOS"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.887.961/0001-13",
+                "cpf_cnpj_sem_mascara": "10887961000113",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "MAYARA COMERCIO DE GENEROS ALIMENTICIOS EIRELI",
+                "endereco": "EST DE IGUABA N° SN LOTES 1 E 2 BAIRRO: BALNEÁRIO SÃO PEDRO CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28948868",
+                "email": "vanuza.ferreira@boibom.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR TOTAL DA NOTA: R$ 2.148,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2148.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "EXIGIBILIDADE ISS\nNão incidencia\nREGIME TRIBUTAÇÃO\nMicroempresário Individual\nSIMPLES NACIONAL\nSim ( 0% )\nISSQN RETIDO\nNão\nLOCAL. PRESTAÇÃO\nSERVIÇO\nLOCAL INCIDÊNCIA\nSão Pedro da Aldeia - RJ"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "jonasdefreitas17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "202313": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202313",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 09:58:00",
+                "codigo_verificacao": "FAAC0ED43"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "35.904.859/0001-00",
+                "cpf_cnpj_sem_mascara": "35904859000100",
+                "inscricao_municipal": "7717117",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297328137",
+                "razao_social": "R R ROMANHA REPRESENTACAO LTDA",
+                "nome_fantasia": "RR REPRESENTACAO",
+                "endereco": "RUA CARMERINDO SANTOS ,74 ******** ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "*******"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "05.588.529/0001-91",
+                "cpf_cnpj_sem_mascara": "05588529000191",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "DC MARQUES",
+                "endereco": "AVN OCEÂNICA N° 1123 BAIRRO: PRAIA DO MORRO CIDADE: GUARAPARI - ES CEP: 29216080",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COMISSÃO REFERENTE A VENDAS REALIZADAS"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 4959.92
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 4959.92,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 4959.92,
+                "aliquota": 2.0,
+                "valor_iss": 99.2,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 4959.92
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 667,11 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 244,03 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "rrromanha17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "202314": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202314",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "29/07/2023 10:04:00",
+                "codigo_verificacao": "E6473DEEC"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "19.018.409/0001-63",
+                "cpf_cnpj_sem_mascara": "19018409000163",
+                "inscricao_municipal": "7710498",
+                "inscricao_estadual": "NONE",
+                "telefone": "2172230730",
+                "razao_social": "LOTERIA SAO JOAO LTDA",
+                "nome_fantasia": "LOTERIA SÃO JOÃO DA SORTE",
+                "endereco": "RUA MARECHAL JUAREZ TAVORA ,505 ,SÃO JOÃO - São Pedro da Aldeia-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.360.305/1243-42",
+                "cpf_cnpj_sem_mascara": "00360305124342",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "CAIXA ECONOMICA FEDERAL SPA",
+                "endereco": "ADOLFO SILVEIRA N° 125 BAIRRO: CENTRO CIDADE: SÃO PEDRO DA ALDEIA - RJ CEP: 28941172",
+                "email": "sr2593rj02@caixa.gov.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS, REFERENTE AO RECEBIMENTO DE CONTAS, DEPÓSITOS EM DINHEIRO, PAGAMENTOS DE BENEFÍCIOS E SAQUES, NO MÊS DE JULHO DE 2023."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 17401.88
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 17401.88,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 17401.88,
+                "aliquota": 2.64,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 459.41,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 16942.47
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "DOCUMENTO EMITIDO POR ME OU EPP PELO SIMPLES. ALERJ: 0800-282-7060, RUA DA ALFÂNDEGA, 08 TÉRREO - PROCON-RJ 151 - RUA DA AJUDA, 05"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,64% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 2340,55 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 833,57 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "Loteriasaojoao17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "2023284": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "2023284",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 18:53:00",
+                "codigo_verificacao": "E45F6A93A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.682.431/0001-79",
+                "cpf_cnpj_sem_mascara": "26682431000179",
+                "inscricao_municipal": "7713820",
+                "inscricao_estadual": "NONE",
+                "telefone": "2297542755",
+                "razao_social": "INSTITUTO INTEGRAR LTDA",
+                "nome_fantasia": "INTEGRAR ESPACO TERAPEUTICO MULTIDISCIPLINAR",
+                "endereco": "RUA Macaé ,10 LOTE:10;QUADRA:C ,ESTAÇÃO - São Pedro da Aldeia-RJ",
+                "email": "KARLAJESSYKA@HOTMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "92.693.118/0001-60",
+                "cpf_cnpj_sem_mascara": "92693118000160",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "BRADESCO SAUDE SA",
+                "endereco": "RUA RIO DE JANEIRO N° 555 BAIRRO: CAJU CIDADE: RIO DE JANEIRO - RJ CEP: 20931675",
+                "email": "espacointegrar@outlook.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "REFERENTE A 8 SESSÕES DE PSICOPEDAGOGIA REALIZADA PELO BENEFICIÁRIO DANIEL CORREA RIBEIRO EM NOSSO ESTABELECIMENTO: 04/07/2023- 2SESSÕES; 11/07/2023-2 SESSÕES; 18/06/2023- 2 SESSÕES; 25/06/2023-2 SESSÕES."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 960.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 960.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 960.0,
+                "aliquota": 2.01,
+                "valor_iss": 19.3,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 960.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 129,12 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 45,12 (Alíq IBPT 4,7 IBPT)"
+            }
+        },
+        "diretorio": "institutointegrar17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "202376": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202376",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 07:38:00",
+                "codigo_verificacao": "750645CC0"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.494.572/0001-68",
+                "cpf_cnpj_sem_mascara": "26494572000168",
+                "inscricao_municipal": "7717554",
+                "inscricao_estadual": "NONE",
+                "telefone": "2233086034",
+                "razao_social": "LUCIANA DE OLIVEIRA SAMPAIO DA SILVA",
+                "nome_fantasia": "RJ LAGOS EMPREENDIMENTOS",
+                "endereco": "RUA GLORIA LOBO ,180 APT 102 ,CENTRO - São Pedro da Aldeia-RJ",
+                "email": "ADMIN@RJLAGOS.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "50.579.429/0001-53",
+                "cpf_cnpj_sem_mascara": "50579429000153",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "262293846",
+                "razao_social": "PROJETO CHINES LTDA",
+                "endereco": "CRISTÓVÃO MACHADO DE CAMPOS N° 221 CASA A2 Q6 BAIRRO: VARGEM GRANDE CIDADE: FLORIANÓPOLIS - SC CEP: 88052601",
+                "email": "projetochines@gmail.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Serviços prestados via Internet conforme Fatura #27158"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 114.8
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 114.8,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 114.8,
+                "aliquota": 0.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 114.8
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário Individual",
+                "simples_nacional": "Sim ( 0% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 15,44 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 3,58 (Alíq IBPT 3,12 IBPT)"
+            }
+        },
+        "diretorio": "lucianadeoliveira17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "202311": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202311",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 21:18:00",
+                "codigo_verificacao": "2A02FD82E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.454.855/0001-07",
+                "cpf_cnpj_sem_mascara": "40454855000107",
+                "inscricao_municipal": "7717933",
+                "inscricao_estadual": "NONE",
+                "telefone": "2134067089",
+                "razao_social": "RAQUEL PONTES PINTO SOLUCOES EMPRESARIAIS",
+                "nome_fantasia": "**************",
+                "endereco": "RUA JOAO GUIMARAES ,245 CASA 1 ,ESTAÇÃO - São Pedro da Aldeia-RJ",
+                "email": "EPXCONTABILIDADE0184@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "MIRTES DE OLIVEIRA VIEIRA",
+                "endereco": "TRAVESSA GEORGE WASHINGTON N° 249 BAIRRO: PRAIA DOS ANJOS CIDADE: ARRAIAL DO CABO - RJ CEP: 28930000",
+                "email": "m.f.o@uol.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇOS ADMINISTRATIVOS "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 750.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 750.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 750.0,
+                "aliquota": 2.01,
+                "valor_iss": 15.07,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 750.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2,01% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "São Pedro da Aldeia - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "4,16 IBPT) Sistema desenvolvido pela Modernização Pública"
+            }
+        },
+        "diretorio": "raquelpontes17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    },
+    "202352": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "202352",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:37:00",
+                "codigo_verificacao": "B5793E789"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "47.945.459/0001-21",
+                "cpf_cnpj_sem_mascara": "47945459000121",
+                "inscricao_municipal": "7719922",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "GOAT SERVICOS E LOCACOES LTDA",
+                "nome_fantasia": "GRUPO HR",
+                "endereco": "RUA Feliciano Sodré ,11 SALA 102 ,Centro - São Pedro da Aldeia-RJ",
+                "email": "FINANCEIRO@GRUPOHRBRASIL.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "31.433.798/0001-99",
+                "cpf_cnpj_sem_mascara": "31433798000199",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "ASSOCIACAO DE MORADORES E AMIGOS DO ARETE - AMA ARETE",
+                "endereco": ". AV JOSE BENTO RIBEIRO DANTAS N° 0 BAIRRO: MANGUINHOS CIDADE: ARMAÇÃO DOS BÚZIOS - RJ CEP: 28950000",
+                "email": "Não Informado"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "NFs referente aos serviços prestados no mês de julho/2023.Posto Contrato de Supervisão"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 3321.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 3321.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 3321.0,
+                "aliquota": 3.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 99.63,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 365.31,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2856.06
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 3% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Armação dos Búzios - RJ",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 384,14 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 68,55 (Alíq IBPT 2,4 IBPT)"
+            }
+        },
+        "diretorio": "goat17082023",
+        "nome_arquivo": "Batch_2_SAO PEDRO DA ALDEIA_PDF_17282023_1532_11282686"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "diretorio": "fwdrenotafiscal",
+    "AZUL.pdf": {
+        "diretorio": "fwdrenotafiscal",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "632",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:08:00",
+                "codigo_verificacao": "5D3D3185D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.448.150/0018-60",
+                "cpf_cnpj_sem_mascara": "33448150001860",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "AZUL CIA DE SEGUROS GERAIS",
+                "endereco": "DA ALFÂNDEGA N° 21 - ATÉ 53/054 BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20070000",
+                "email": "notafiscal.azul@azulseguros.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 57.62
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "6622300 - CORRETORES E AGENTES DE SEGUROS, DE PLANOS DE PREVIDÊNCIA COMPLEMENTAR E DE SAÚDE\nItem da Lista de Serviços - 10.01 - AGENCIAMENTO, CORRETAGEM OU INTERMEDIAÇÃO DE CÂMBIO, DE SEGUROS, DE CARTÕES DE CRÉDITO, DE PLANOS\n",
+                "item_lista_servicos": "- 10.01 - AGENCIAMENTO, CORRETAGEM OU INTERMEDIAÇÃO DE CÂMBIO, DE SEGUROS, DE CARTÕES DE CRÉDITO, DE PLANOS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 57.62,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 57.62,
+                "aliquota": 2.0,
+                "valor_iss": 1.15,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 57.62
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 7,75 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 2,48 (Alíq IBPT 4,3 IBPT)"
+            }
+        }
+    }
+}

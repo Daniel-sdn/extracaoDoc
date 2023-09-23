@@ -1,0 +1,88 @@
+{
+    "diretorio": "fwdnotasficaisessencis",
+    "NOTA - 29096.pdf": {
+        "diretorio": "fwdnotasficaisessencis",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "29096",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 10:18:00",
+                "codigo_verificacao": "B5964C6AF"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.263.170/0008-50",
+                "cpf_cnpj_sem_mascara": "40263170000850",
+                "inscricao_municipal": "2733",
+                "inscricao_estadual": "75.844.174",
+                "telefone": "NONE",
+                "razao_social": "ESSENCIS SOLUÇÕES AMBIENTAIS S.A",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua RIO TERESÓPOLIS ,S/N KM 121,5 BR 116 ,VILA INCA - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "16.328.932/0010-99",
+                "cpf_cnpj_sem_mascara": "16328932001099",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "86577550",
+                "razao_social": "HALLIBURTON PRODUTOS LTDA.",
+                "endereco": ". PREFEITO ARISTEU FERREIRA DA SILVA N° 1000 BAIRRO: GRANJA DOS CAVALEIROS CIDADE: MACAÉ - RJ CEP: 27930070",
+                "email": "SVC_recebimentoxml@halliburton.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "1 - SERVIÇO DE ENGENHARIA PARA TRATAMENTO FINAL DE RESÍDUOS INDUSTRIAIS R$ 32.231,16 Vencimento: 23.10.2023 Pré-autorizacão do documento - 8202489403 ETAPA LOGISTICA - 6.00 - 13323.96 ETAPA LOGISTICA - 6.00 - 16805.88 ETAPA LOGISTICA - 1.00 - 2101.32"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 32231.16
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7112000 - SERVIÇOS DE ENGENHARIA\n \n",
+                "item_lista_servicos": "- 7.01 - ENGENHARIA, AGRONOMIA, AGRIMENSURA, ARQUITETURA, GEOLOGIA, URBANISMO, PAISAGISMO E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 32231.16,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 32231.16,
+                "aliquota": 5.0,
+                "valor_iss": 1611.56,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 209.5,
+                "valor_cofins": 966.93,
+                "valor_ir": 483.47,
+                "valor_inss": 0.0,
+                "valor_csll": 322.31,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 30248.95
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade anônima",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 4068,48 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1464,05 (Alíq IBPT 4,84 IBPT)"
+            }
+        }
+    }
+}

@@ -1,0 +1,2438 @@
+{
+    "1001146": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001146",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 09:44:00",
+                "codigo_verificacao": "2407BB3B7"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.128.491/0001-01",
+                "cpf_cnpj_sem_mascara": "04128491000101",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "77.140.557",
+                "razao_social": "IRMAOS HADDAD CONSTRUTORA LTDA - EPP",
+                "endereco": "MARACANÃ N° 987 - DE 983 A 1529 - LADO ÍMPAR BAIRRO: TIJUCA CIDADE: RIO DE JANEIRO - RJ CEP: 20511000",
+                "email": "orcamento@irmaoshaddad.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.350 lâmpadas com coleta em 03/08/2023 Pedido de compra: 26614 Vencimento do pagamento: 22/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1653.75
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1653.75,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1653.75,
+                "aliquota": 5.0,
+                "valor_iss": 82.69,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1653.75
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 222,43 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 81,03 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001146_2023_irmaos_haddad.pdf"
+    },
+    "1142": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1142",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "21/07/2023 09:58:00",
+                "codigo_verificacao": "ED9F0609D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "02.824.098/0001-27",
+                "cpf_cnpj_sem_mascara": "02824098000127",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "75.904.665",
+                "razao_social": "ALOCAMA LOCAÇÃO DE MÓVEIS LTDA",
+                "endereco": "ANA NERI N° 612 - DE 600 A 856 - LADO PAR BAIRRO: SÃO FRANCISCO XAVIER CIDADE: RIO DE JANEIRO - RJ CEP: 20960003",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.680 lâmpadas com coleta em 17/07/2023 Pedido de compra: N/A Vencimento do pagamento: 04/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2100.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2100.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2100.0,
+                "aliquota": 5.0,
+                "valor_iss": 105.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2100.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 282,45 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 102,9 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1142_2023_alocama.pdf"
+    },
+    "1146": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1146",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 09:29:00",
+                "codigo_verificacao": "7B27D9662"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.711.184/0001-59",
+                "cpf_cnpj_sem_mascara": "04711184000159",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "CONDOMINIO NOVA AMERICA",
+                "endereco": "PASTOR MARTIN LUTHER KING JR N° 126 - ATÉ 02342 - LADO PAR BAIRRO: DEL CASTILHO CIDADE: RIO DE JANEIRO - RJ CEP: 20765000",
+                "email": "tributario.ec@ancar.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 2.215 lâmpadas com coleta em 27/07/2023 Pedido de compra: N/A Vencimento do pagamento: 21/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2768.75
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2768.75,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2768.75,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 138.44,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2630.31
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 04.711.184/0001-59 Valor Aproximado dos Tributos Federais R$ 353,78 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 128,89 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1146_2023_nova_america.pdf"
+    },
+    "1001143": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001143",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 09:34:00",
+                "codigo_verificacao": "DD93960D6"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "30.090.575/0001-03",
+                "cpf_cnpj_sem_mascara": "30090575000103",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "RODOCON CONSTRUÇÕES RODOVIÁRIAS",
+                "endereco": "WASHINGTON LUÍS N° 252 - ATÉ 800/801 BAIRRO: CENTRO CIDADE: NITERÓI - RJ CEP: 24030250",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "FÁBRICA: Serviço de descaracterização e descontaminação de 588 lâmpadas, entregues em Magé/RJ, no dia 02/08/2023 Pedido de compra: N/A Vencimento do pagamento: 22/08/2023 Desconto: R$ 1,00 por unidade. Valor oferecido a clientes que entregam as lâmpadas na fábrica."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 588.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 588.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 588.0,
+                "aliquota": 5.0,
+                "valor_iss": 29.4,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 588.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 79,09 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 28,81 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001143_2023_rodocon.pdf"
+    },
+    "1151": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1151",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 10:30:00",
+                "codigo_verificacao": "3FA264900"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "00.999.042/0001-88",
+                "cpf_cnpj_sem_mascara": "00999042000188",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "85.203.045",
+                "razao_social": "QUAKER CHEMICAL INDUSTRIA E COMERCIO LTDA",
+                "endereco": "BRASIL N° 44178 - DE 37680 A 49798 - LADO PAR BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23078001",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 208 lâmpadas com coleta em 14/07/2023 Pedido de compra: 20642411 Vencimento do pagamento: 31/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 625.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 625.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 625.0,
+                "aliquota": 5.0,
+                "valor_iss": 31.25,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 625.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 84,06 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30,63 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1151_2023_quaker.pdf"
+    },
+    "1155": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1155",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 14:47:00",
+                "codigo_verificacao": "085E1CB41"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "28.829.109/0007-40",
+                "cpf_cnpj_sem_mascara": "28829109000740",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "77279415",
+                "razao_social": "LEXMAR INDUSTRIA E COMERCIO DE MALHAS LTDA",
+                "endereco": "RUA R AUGUSTO SEVERO N° 301 GALPOES 5, 5-A, 6 E 10 BAIRRO: MORIN/PRIMEIRO CIDADE: PETRÓPOLIS - RJ CEP: 25630050",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.129 lâmpadas com coleta em 25/07/2023 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1411.25
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1411.25,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1411.25,
+                "aliquota": 5.0,
+                "valor_iss": 70.56,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1411.25
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 189,81 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 69,15 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1155_2023_lexmar.pdf"
+    },
+    "1001148": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001148",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 13:39:00",
+                "codigo_verificacao": "52BD3565F"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "07.067.001/0001-00",
+                "cpf_cnpj_sem_mascara": "07067001000100",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "90955821-22",
+                "razao_social": "AMBSERV TRATAMENTO DE RESIDUOS LTDA",
+                "endereco": "ALEXANDRE ZANCHETTA N° 337 BAIRRO: CAMPINA CIDADE: SÃO JOSÉ DOS PINHAIS - PR CEP: 83015148",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "FÁBRICA: Serviço de descaracterização e descontaminação de 2.800 lâmpadas, entregues em Magé/RJ, no dia 04/08/2023 Pedido de compra: 2300057 Vencimento do pagamento: 29/08/2023 Desconto: R$ 1,00 por unidade. Valor oferecido a clientes que entregam as lâmpadas na fábrica."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2800.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2800.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2800.0,
+                "aliquota": 5.0,
+                "valor_iss": 140.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2800.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 376,6 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 137,2 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001148_2023_ambserv.pdf"
+    },
+    "1001147": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001147",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 10:45:00",
+                "codigo_verificacao": "CF8190B80"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "03.352.782/0001-16",
+                "cpf_cnpj_sem_mascara": "03352782000116",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "ISENTO",
+                "razao_social": "Condomínio do Itaipu Multicenter",
+                "endereco": "FRANCISCO DA CRUZ NUNES N° 6501 BAIRRO: PIRATININGA CIDADE: NITERÓI - RJ CEP: 24350310",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA FUTURA: Serviço de descaracterização e descontaminação de 100 lâmpadas previstas com coleta em 09/08/2023 Pedido de compra: N/A Vencimento do pagamento: 09/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 625.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 625.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 625.0,
+                "aliquota": 5.0,
+                "valor_iss": 31.25,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 625.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 84,06 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30,63 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001147_2023_itaipu_multicenter.pdf"
+    },
+    "1153": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1153",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 10:59:00",
+                "codigo_verificacao": "2741C365A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "09.478.089/0001-70",
+                "cpf_cnpj_sem_mascara": "09478089000170",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "RENOVE SOLUÇÕES AMBIENTAIS LTDA",
+                "endereco": "MONTE CASTELO N° 1627 - ATÉ 1759/1760 BAIRRO: JARDIM GRAMACHO CIDADE: DUQUE DE CAXIAS - RJ CEP: 25055120",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "FÁBRICA: Serviço de descaracterização e descontaminação de 211 lâmpadas, entregues em Magé/RJ, no dia 18/07/2023 Pedido de compra: N/A Vencimento do pagamento: 29/08/2023 Desconto: R$ 1,00 por unidade. Valor oferecido a clientes que entregam as lâmpadas na fábrica"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 211.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 211.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 211.0,
+                "aliquota": 5.0,
+                "valor_iss": 10.55,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 211.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 28,38 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 10,34 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1153_2023_renove.pdf"
+    },
+    "1156": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1156",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 14:50:00",
+                "codigo_verificacao": "62AE61025"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "07.310.843/0001-33",
+                "cpf_cnpj_sem_mascara": "07310843000133",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "78236671",
+                "razao_social": "IKINHA INDUSTRIA TEXTIL LTDA",
+                "endereco": "PROFESSOR STROELLER N° 953 - ATÉ 953 - LADO ÍMPAR BAIRRO: QUARTEIRÃO BRASILEIRO CIDADE: PETRÓPOLIS - RJ CEP: 25680175",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.475 lâmpadas com coleta em 19/07/2023 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1843.75
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1843.75,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1843.75,
+                "aliquota": 5.0,
+                "valor_iss": 92.19,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1843.75
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 247,98 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 90,34 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1156_2023_ikinha.pdf"
+    },
+    "1148": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1148",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 09:35:00",
+                "codigo_verificacao": "C180A4BF5"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "01.329.144/0001-59",
+                "cpf_cnpj_sem_mascara": "01329144000159",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "ISENTO",
+                "razao_social": "GEOCOBA PROJETOS DE ENGENHARIA LTDA",
+                "endereco": "RUA BUENOS AIRES, 68 N° 68 25 E 29 ANDARES BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20070900",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 300 lâmpadas com coleta em 20/07/2023 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 625.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 625.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 625.0,
+                "aliquota": 5.0,
+                "valor_iss": 31.25,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 625.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 84,06 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 30,63 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1148_2023_geocoba.pdf"
+    },
+    "1143": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1143",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 09:19:00",
+                "codigo_verificacao": "E08EAE27D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "30.998.058/0001-37",
+                "cpf_cnpj_sem_mascara": "30998058000137",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "83.608.579",
+                "razao_social": "G P C ENGENHARIA LTDA",
+                "endereco": "JOSÉ DE FIGUEIREDO N° 320 BAIRRO: BARRA DA TIJUCA CIDADE: RIO DE JANEIRO - RJ CEP: 22793170",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 25.350 lâmpadas com coletas em 18, 20, 24 26/07/2023. Pedido de compra: 69184 Vencimento do pagamento: 30/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 31687.5
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 31687.5,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 31687.5,
+                "aliquota": 5.0,
+                "valor_iss": 1584.38,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 31687.5
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 4261,97 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 1552,69 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1143_2023_gpc.pdf"
+    },
+    "1001145": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001145",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 09:41:00",
+                "codigo_verificacao": "BDBFDA61D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "01.017.610/0001-60",
+                "cpf_cnpj_sem_mascara": "01017610000160",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "ISENTO",
+                "razao_social": "TEKNO SISTEMAS DE ENGENHARIA LTDA",
+                "endereco": "DOS BANDEIRANTES N° 8592 - DE 7930 A 8614 - LADO PAR BAIRRO: JACAREPAGUÁ CIDADE: RIO DE JANEIRO - RJ CEP: 22783110",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 4.000 lâmpadas com coleta em 04/08/2023 Pedido de compra: N/A Vencimento do pagamento: 29/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5000.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5000.0,
+                "aliquota": 5.0,
+                "valor_iss": 250.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5000.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 672,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 245 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001145_2023_tekno.pdf"
+    },
+    "1001144": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001144",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 09:38:00",
+                "codigo_verificacao": "E667639AF"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "24.176.999/0001-92",
+                "cpf_cnpj_sem_mascara": "24176999000192",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "87.099.067",
+                "razao_social": "AMBIENTALIX SOLUÇÕES EM SERVIÇOS DE MANUTENÇÃO LTDA -ME",
+                "endereco": ". FLAMENGO N° 17 LOTE 03B QUADRA 85 BAIRRO: VILA SÃO LUÍS CIDADE: DUQUE DE CAXIAS - RJ CEP: 25086090",
+                "email": "ambientalix@hotmail.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "FÁBRICA: Serviço de descaracterização e descontaminação de 63 lâmpadas, entregues em Magé/RJ, no dia 26/07/2023 Pedido de compra: N/A Vencimento do pagamento: 22/08/2023 Desconto: R$ 1,00 por unidade. Valor oferecido a clientes que entregam as lâmpadas na fábrica."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 63.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 63.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 63.0,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 3.15,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 59.85
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 24.176.999/0001-92 Valor Aproximado dos Tributos Federais R$ 8,05 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 2,93 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1001144_2023_ambientalix.pdf"
+    },
+    "1154": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1154",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 12:12:00",
+                "codigo_verificacao": "E4624472D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.324.624/0001-18",
+                "cpf_cnpj_sem_mascara": "10324624000118",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "CONCESSAO METROVIARIA DO RIO DE JANEIRO S.A",
+                "endereco": "PRESIDENTE VARGAS N° 2700 - DE 1306 AO FIM - LADO PAR BAIRRO: CIDADE NOVA CIDADE: RIO DE JANEIRO - RJ CEP: 20210031",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 6.000 lâmpadas com coleta em 11/07/2023 Pedido de compra: 4500293926 Vencimento do pagamento: 22/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 7500.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 7500.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 7500.0,
+                "aliquota": 5.0,
+                "valor_iss": 375.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 7500.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 1008,75 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 367,5 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1154_2023_metroviaria_rj.pdf"
+    },
+    "1147": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1147",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 09:33:00",
+                "codigo_verificacao": "FD9592506"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "01.679.569/0002-79",
+                "cpf_cnpj_sem_mascara": "01679569000279",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "AMBIENSYS GESTÃO AMBIENTAL",
+                "endereco": "PANAMÁ N° 288 BAIRRO: PENHA CIDADE: RIO DE JANEIRO - RJ CEP: 21020310",
+                "email": "alexandre.barros@ambiensys.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 145 lâmpadas com coleta em 03/07/2023 Pedido de compra: 1597 Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 145.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 145.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 145.0,
+                "aliquota": 5.0,
+                "valor_iss": 7.25,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 145.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 19,5 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 7,11 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1147_2023_ambiensys.pdf"
+    },
+    "1150": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1150",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 10:27:00",
+                "codigo_verificacao": "52457985B"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.128.491/0001-01",
+                "cpf_cnpj_sem_mascara": "04128491000101",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "77.140.557",
+                "razao_social": "IRMAOS HADDAD CONSTRUTORA LTDA - EPP",
+                "endereco": "MARACANÃ N° 987 - DE 983 A 1529 - LADO ÍMPAR BAIRRO: TIJUCA CIDADE: RIO DE JANEIRO - RJ CEP: 20511000",
+                "email": "orcamento@irmaoshaddad.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 4.100 lâmpadas com coleta em 21 E 24/07/2023 Pedido de compra: 26614 Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5022.5
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5022.5,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5022.5,
+                "aliquota": 5.0,
+                "valor_iss": 251.13,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5022.5
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 675,53 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 246,1 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1150_2023_irmos_haddad.pdf"
+    },
+    "1152": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1152",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 10:45:00",
+                "codigo_verificacao": "C059A1C9E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04.504.741/0001-60",
+                "cpf_cnpj_sem_mascara": "04504741000160",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "ISENTO",
+                "razao_social": "CONDOMINIO DO EDIFICIO RIO DESIGN BARRA",
+                "endereco": "DAS AMÉRICAS N° 7777 - DE 6735/6736 A 9301/9302 BAIRRO: BARRA DA TIJUCA CIDADE: RIO DE JANEIRO - RJ CEP: 22793081",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.214 lâmpadas com coleta em 29/11/2022 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1274.7
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1274.7,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1274.7,
+                "aliquota": 5.0,
+                "valor_iss": 63.74,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1274.7
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 171,45 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 62,46 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1152_2023_cond_rio_design_barra.pdf"
+    },
+    "1145": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1145",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 09:23:00",
+                "codigo_verificacao": "D71107241"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "05.353.545/0017-62",
+                "cpf_cnpj_sem_mascara": "05353545001762",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "79.832.022",
+                "razao_social": "NORMATEL ENGENHARIA LTDA",
+                "endereco": "ELEOSINA PEREIRA DE QUEIROS MATOSO N° 130 BAIRRO: SOL E MAR CIDADE: MACAÉ - RJ CEP: 27940050",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.440 lâmpadas com coleta em 28/07/2023 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1800.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1800.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1800.0,
+                "aliquota": 5.0,
+                "valor_iss": 90.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1800.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 242,1 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 88,2 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1145_2023_normatel.pdf"
+    },
+    "1149": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1149",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "01/08/2023 10:01:00",
+                "codigo_verificacao": "5EB7FBE0E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "03.802.753/0001-09",
+                "cpf_cnpj_sem_mascara": "03802753000109",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "77.707.729",
+                "razao_social": "CRR CENTRO DE RECICLAGEM RIO LTDA",
+                "endereco": ". SENADOR VITORINO FREIRE N° 365 GALPÃO BAIRRO: COELHO NETO CIDADE: RIO DE JANEIRO - RJ CEP: 21530220",
+                "email": "tavares@crrreciclagem.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 1.850 lâmpadas com coleta em 21/07/2023 Pedido de compra: N/A Vencimento do pagamento: 15/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2312.5
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2312.5,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2312.5,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 115.63,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2196.87
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 03.802.753/0001-09 Valor Aproximado dos Tributos Federais R$ 295,48 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 107,65 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1149_2023_crr.pdf"
+    },
+    "1144": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1144",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:35:00",
+                "codigo_verificacao": "C7161FA03"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "03.788.266/0001-39",
+                "cpf_cnpj_sem_mascara": "03788266000139",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "OPERACAO RESGATE - TRANSPORTES LTDA EPP",
+                "endereco": "PÇ WASHINGTON LUÍS N° 10 LT 3374 BAIRRO: CENTRO CIDADE: NITERÓI - RJ CEP: 24030250",
+                "email": "empresa@jnolasco.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 7.193 lâmpadas com coletas em 06, 14 e 27/07/2023. Pedido de compra: N/A Vencimento do pagamento: 17/08/2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 9066.25
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 9066.25,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 9066.25,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 453.31,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 8612.94
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 03.788.266/0001-39 Valor Aproximado dos Tributos Federais R$ 1158,44 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 422,03 (Alíq IBPT 4,9 IBPT)"
+            }
+        },
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "nome_arquivo": "nfs_1144_2023_op_resgate.pdf"
+    },
+    "628": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "628",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 14:40:00",
+                "codigo_verificacao": "82B8D34E7"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "92.682.038/0001-00",
+                "cpf_cnpj_sem_mascara": "92682038000100",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "BRADESCO AUTO/RE COMPANHIA DE SEGUROS",
+                "endereco": "RIO DE JANEIRO N° 555 19 ANDAR BAIRRO: CAJU CIDADE: RIO DE JANEIRO - RJ CEP: 20931675",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 6678.13
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 6678.13,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6678.13,
+                "aliquota": 2.0,
+                "valor_iss": 133.56,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 6678.13
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 898,21 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 287,16 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "bradesco_auto.pdf"
+    },
+    "632": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "632",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:08:00",
+                "codigo_verificacao": "5D3D3185D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.448.150/0018-60",
+                "cpf_cnpj_sem_mascara": "33448150001860",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "AZUL CIA DE SEGUROS GERAIS",
+                "endereco": "DA ALFÂNDEGA N° 21 - ATÉ 53/054 BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20070000",
+                "email": "notafiscal.azul@azulseguros.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 57.62
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 57.62,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 57.62,
+                "aliquota": 2.0,
+                "valor_iss": 1.15,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 57.62
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 7,75 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 2,48 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "azul.pdf"
+    },
+    "633": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "633",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:13:00",
+                "codigo_verificacao": "6184D3805"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "16.825.255/0001-23",
+                "cpf_cnpj_sem_mascara": "16825255000123",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "SUHAI SEGURADORA S.A",
+                "endereco": "IRAÉ N° 523 BAIRRO: INDIANÓPOLIS CIDADE: SÃO PAULO - SP CEP: 04075000",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1043.19
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1043.19,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1043.19,
+                "aliquota": 2.0,
+                "valor_iss": 20.86,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1043.19
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 140,31 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 44,86 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "suhai.pdf"
+    },
+    "634": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "634",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:20:00",
+                "codigo_verificacao": "C62665898"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.164.021/0106-79",
+                "cpf_cnpj_sem_mascara": "33164021010679",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "TOKIO MARINE SEGURADORA S.A",
+                "endereco": "DOM WALMOR N° 383 - ATÉ 269/270 BAIRRO: CENTRO CIDADE: NOVA IGUAÇU - RJ CEP: 26215220",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2830.9
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2830.9,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2830.9,
+                "aliquota": 2.0,
+                "valor_iss": 56.62,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2830.9
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 380,76 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 121,73 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "tokio.pdf"
+    },
+    "551": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "551",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 17:07:00",
+                "codigo_verificacao": "EE27CB8B0"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "18.025.316/0001-01",
+                "cpf_cnpj_sem_mascara": "18025316000101",
+                "inscricao_municipal": "240935",
+                "inscricao_estadual": "NONE",
+                "telefone": "NONE",
+                "razao_social": "VIEGAS MATERIAIS DE CONSTRUÇÃO E BAZAR LTDA ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RUA DOZE (JD PRAINHA) ,47 LOJA ,PARQUE DOS ARTISTAS II (VILA INHOMIRIM) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "76.639.285/0001-77",
+                "cpf_cnpj_sem_mascara": "76639285000177",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "FERRAGENS NEGRAO COMERCIAL LTDA",
+                "endereco": "PROFESSOR ALGACYR MUNHOZ MADER N° 2800 - ATÉ 2889/2890 BAIRRO: CIDADE INDUSTRIAL CIDADE: CURITIBA - PR CEP: 81310020",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 4707.25
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 4707.25,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 4707.25,
+                "aliquota": 2.0,
+                "valor_iss": 94.15,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 4707.25
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 633,13 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 231,6 (Alíq IBPT 4,92 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "viegas_nota.pdf"
+    },
+    "629": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "629",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 14:46:00",
+                "codigo_verificacao": "181A37379"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "92.693.118/0001-60",
+                "cpf_cnpj_sem_mascara": "92693118000160",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "BRADESCO SAUDE S/A",
+                "endereco": "RUA BARÃO DE ITAPAGIPE, 225 N° 225 BAIRRO: RIO COMPRIDO CIDADE: RIO DE JANEIRO - RJ CEP: 20261901",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 1524.79
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 1524.79,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 1524.79,
+                "aliquota": 2.0,
+                "valor_iss": 30.5,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 1524.79
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 205,08 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 65,57 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "bradesco_saude.pdf"
+    },
+    "630": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "630",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 14:51:00",
+                "codigo_verificacao": "D8A76503E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "51.990.695/0001-37",
+                "cpf_cnpj_sem_mascara": "51990695000137",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "BRADESCO VIDA E PREVIDENCIA S.A",
+                "endereco": "AVENIDA ALPHAVILLE, 779 N° 779 10 ANDAR LD B SL 1.002 BAIRRO: DEZOITO DO FORTE EMPRESARIAL/ALPHAVILLE. CIDADE: BARUERI",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "10.01 - AGENCIAMENTO, CORRETAGEM OU INTERMEDIAÇÃO DE CÂMBIO, DE SEGUROS, DE CARTÕES DE CRÉDITO, DE PLANOS   "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 3007.94,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 3007.94,
+                "aliquota": 2.0,
+                "valor_iss": 60.16,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 3007.94
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 404,57 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 129,34 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "bradesco_vida.pdf"
+    },
+    "631": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "631",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:05:00",
+                "codigo_verificacao": "4118DC42E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "58.119.199/0001-51",
+                "cpf_cnpj_sem_mascara": "58119199000151",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "ODONTOPREV S.A",
+                "endereco": "MARCOS PENTEADO DE ULHÔA RODRIGUES N° 939 ANDAR 14 CJ 1.401 BAIRRO: TAMBORÉ CIDADE: BARUERI - SP CEP: 06460040",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 243.68
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 243.68,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 243.68,
+                "aliquota": 2.0,
+                "valor_iss": 4.87,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 243.68
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 32,77 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 10,48 (Alíq IBPT 4,3 IBPT)"
+            }
+        },
+        "diretorio": "fwdrenotafiscal",
+        "nome_arquivo": "bradesco_dental.pdf"
+    }
+}

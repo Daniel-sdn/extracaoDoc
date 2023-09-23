@@ -1,0 +1,37 @@
+{
+    "0": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": null,
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS"
+            },
+            "data_observacao": null
+        },
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "doria_marinho_0298_marcelo.pdf",
+        "Batch": "Batch_16",
+        "modelo": "mesquita",
+        "processo": "PDF_Raster"
+    }
+}

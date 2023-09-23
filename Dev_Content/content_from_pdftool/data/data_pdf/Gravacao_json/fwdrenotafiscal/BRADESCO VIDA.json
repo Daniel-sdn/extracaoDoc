@@ -1,0 +1,86 @@
+{
+    "diretorio": "fwdrenotafiscal",
+    "BRADESCO VIDA.pdf": {
+        "diretorio": "fwdrenotafiscal",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "630",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 14:51:00",
+                "codigo_verificacao": "D8A76503E"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.492.677/0001-90",
+                "cpf_cnpj_sem_mascara": "23492677000190",
+                "inscricao_municipal": "242367",
+                "inscricao_estadual": "78.399.031",
+                "telefone": "NONE",
+                "razao_social": "ORLANDO E LUCAS CORRETAGEM DE SEGUROS LTDA -ME",
+                "nome_fantasia": "Endereço:",
+                "endereco": "RUA RANULPHO ALVES DE ARAUJO ,36 L.18 Q.´B´ ,PIABETA - Magé-RJ",
+                "email": "ORLANDO.SCHERRER@TERRA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "51.990.695/0001-37",
+                "cpf_cnpj_sem_mascara": "51990695000137",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "BRADESCO VIDA E PREVIDENCIA S.A",
+                "endereco": "AVENIDA ALPHAVILLE, 779 N° 779 10 ANDAR LD B SL 1.002 BAIRRO: DEZOITO DO FORTE EMPRESARIAL/ALPHAVILLE. CIDADE: BARUERI",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "6622300 - CORRETORES E AGENTES DE SEGUROS, DE PLANOS DE PREVIDÊNCIA COMPLEMENTAR E DE SAÚDE\n"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 3007.94,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 3007.94,
+                "aliquota": 2.0,
+                "valor_iss": 60.16,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 3007.94
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 404,57 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 129,34 (Alíq IBPT 4,3 IBPT)"
+            }
+        }
+    }
+}

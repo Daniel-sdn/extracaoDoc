@@ -1,0 +1,81 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "1018",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "24/07/2023 15:49:00",
+            "codigo_verificacao": "C0EF5CD50"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "04.543.932/0001-31",
+            "cpf_cnpj_sem_mascara": "04543932000131",
+            "inscricao_municipal": "1004370",
+            "inscricao_estadual": "77702555",
+            "telefone": "2125096200..\n",
+            "razao_social": "FLEXPRIN INDUSTRIA COMERCIO E SERVIÇOS MARITIMOS LTDA EPP",
+            "nome_fantasia": "S.O.V. SALVATAGEM",
+            "endereco": "RUA J. B. HENOT ,64 GALPÃO ,JD N SR PIEDADE - Magé-RJ",
+            "email": "SETORFINANCEIRO@FLEXPRIN.COMBR"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "ROGéRIO PAZ DE CARVALHO NETTO",
+            "endereco": "GETÚLIO VARGAS N° 30 BAIRRO: CENTRO CIDADE: ARRAIAL DO CABO - RJ CEP: 28930000",
+            "email": "NÃO INFORMADO"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "REVISÃO EM 02 AFIS EMBARCAÇÃO VO FELICIO "
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 1057.2
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "3317101 - MANUTENÇÃO E REPARAÇÃO DE EMBARCAÇÕES E ESTRUTURAS FLUTUANTES\nItem da Lista de Serviços - 14.01 - LUBRIFICAÇÃO, LIMPEZA, LUSTRAÇÃO, REVISÃO, CARGA E RECARGA, CONSERTO, RESTAURAÇÃO, BLINDAGEM,\nMANUTENÇÃO E CONSERVAÇÃO DE MÁQUINAS, VEÍCULOS, APARELHOS, EQUIPAMENTOS, MOTORES, ELEVADORES OU DE QUALQUE\n \n"
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 1057.2,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 1057.2,
+            "aliquota": 5.0,
+            "valor_iss": 52.86,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 1057.2
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": "06 X CARTAO DE CREDITO."
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Microempresário e Empresa",
+            "simples_nacional": "Não",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "Valor Aproximado dos Tributos Federais R$ 142,19 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 44,51 (Alíq IBPT 4,21 IBPT)"
+        }
+    }
+}

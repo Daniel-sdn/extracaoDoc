@@ -1,0 +1,247 @@
+{
+    "55": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "55",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 100900",
+                "codigo_verificacao": "1418D753D"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.133.033/0001-24",
+                "cpf_cnpj_sem_mascara": "40133033000124",
+                "telefone": null,
+                "prestador_inscricao": "1004813",
+                "inscricao_estadual": null,
+                "razao_social": "RESTITUIÇÃO PINTURAS E REFORMAS LTDA",
+                "nome_fantasia": "Endereço",
+                "endereco": "RUA EVALDO LUIS PEREIRA ,651 CASA02 ,JARDIM SURUI - Magé-RJ",
+                "email": "RAMONGQDEFACTOASSESSORIA.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "20.721.029/0001-70",
+                "cpf_cnpj_sem_mascara": "20721029000170",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "JML CONSULTORIA FINANCEIRA & ENGENHARIA LTDA",
+                "endereco": "REVERENDO ARMANDO FERREIRA Nº 350 LOJA 128 BAIRRO LARGO DA BATALHA CIDADE NITEROI - RJ CEP 24310400",
+                "email": "gerenciaQ)lafac.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CONFECÇÕES DE CAIXAS PV. CONTA BANCÁRIA: BANCO ITAÚ 341 AGÊNCIA: 6802 CONTA: 99625-3 CNPJ 40.133.033/0001-24"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 4782.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "4330402 - INSTALAÇÃO DE PORTAS, JANELAS, TETOS, DIVISÓRIAS E ARMÁRIOS EMBUTIDOS DE QUALQUER MATERIAL                                                                                                                                                                                                                  ",
+                "item_lista_servicos": "7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRÁULICA OU ELÉTRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAGEM E IRRIGAÇÃO, TERRAPLANAGEM, PAVIMENTAÇÃO, CONCRETAGE                                             "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 4782.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 4782.0,
+                "aliquota": 5.0,
+                "valor_iss": 239.1,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 4782.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (5%)",
+                "issqn_retido": "Não",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 643,18 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 235,75 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "1004813",
+        "nome_arquivo": "nf_55_jml.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "processo": "PDF_Raster"
+    },
+    "null": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NES-e",
+                "numero_nota_fiscal": null,
+                "competencia": null,
+                "dt_hr_emissao": null,
+                "codigo_verificacao": null
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "telefone": null,
+                "prestador_inscricao": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "nome_fantasia": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": null,
+                "endereco": null,
+                "email": null
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR TOTAL DA NOTA: R$ 472,00 CNAE “BE 004 ATIVIDADES DX FISIOT ARA em dalitadeSeviços - 4 DE TERAPIA OCUPACIONAL RSCTERAPA E FONDALINO OGIA. WEORSERAÇOS VALOR DEDUÇÃO: DESC INCOND: BASEDE ALIQUO à vao Is VALOR ISS DESC COND 1280 [5 RSS R3040 R$04,00 CALCULO z* msmo RETIDO R$0,00 e; Le R$e7200 R$0,00 TE DAS cd rpm Ter = re a vacas VALOR COFINS: vi OR vADRNSS WEORCSIL  DUTRASRETENÇÕES VALOR LÍQUDO Rs Rasca R$90,00 asc R$200 R$030 atenas"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES"
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": null
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim (5%)",
+                "issqn_retido": "Não",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 643,18 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 235,75 (Alíq IBPT 4,93 IBPT)"
+            }
+        },
+        "diretorio": "11779446",
+        "nome_arquivo": "digitalizacao_26_de_jul_de_20231.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "processo": "PDF_Raster"
+    },
+    "214": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "secretaria": "SECRETARIA MUNICIPAL DA FAZENDA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "214",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 065200",
+                "codigo_verificacao": "539EC106C"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "21.051.320/0001-40",
+                "cpf_cnpj_sem_mascara": "21051320000140",
+                "telefone": null,
+                "prestador_inscricao": "241538",
+                "inscricao_estadual": null,
+                "razao_social": "MM INTELLIGENT SERVICES LTDA -ME.",
+                "nome_fantasia": "Endereço",
+                "endereco": "RUA MARANHAO ,167 FAZENDA SOBRADINHO ,PIABETA - Magé-RJ",
+                "email": null
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.434.458/0001-73",
+                "cpf_cnpj_sem_mascara": "40434458000173",
+                "inscricao_municipal": null,
+                "rg": null,
+                "inscricao_estadual": null,
+                "razao_social": "Promotional Travel Viagens e Turismo LTDA",
+                "endereco": "DA QUITANDA Nº 52 - ATÉ 77/78 BAIRRO CENTRO CIDADE RIO DE JANEIRO - RJ CEP 20011030",
+                "email": "mauricio.maurelio)promotional.com.br"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "REFERENTE JULHO 2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 6000.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8219999 - PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIORMENTE                                                                                                                                                                                                  ",
+                "item_lista_servicos": "17.02 - DATILOGRAFIA, DIGITAÇÃO, ESTENOGRAFIA, EXPEDIENTE, SECRETARIA EM GERAL, RESPOSTA AUDÍVEL, REDAÇÃO, EDIÇÃO, INTERPRETAÇÃO, REVISÃO, TRADUÇÃO, APOIO E INFRA-ESTRUTURA ADMINISTRATIVA E CONGÊNERES.                                                                                                           "
+            },
+            "data_valores": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "valor_servicos": 6000.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 6000.0,
+                "aliquota": 2.0,
+                "valor_iss": 120.0,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 6000.0
+            },
+            "data_dados_complementares": {
+                "section": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "REFERENTE JULHO 2023"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresa municipal",
+                "simples_nacional": "Sim (2%)",
+                "issqn_retido": "Não",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "section": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 807 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 249,6 (Aliq IBPT 4,16 IBPT)"
+            }
+        },
+        "diretorio": "241538",
+        "nome_arquivo": "julh_2023_notafiscal_2.pdf",
+        "Batch": "Batch_14",
+        "modelo": "mage",
+        "processo": "PDF_Raster"
+    }
+}

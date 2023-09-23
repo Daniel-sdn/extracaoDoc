@@ -1,0 +1,90 @@
+{
+    "20237": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "20237",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "25/07/2023 09:47:00",
+                "codigo_verificacao": "0B5632B4C"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "12.984.880/0001-67",
+                "cpf_cnpj_sem_mascara": "12984880000167",
+                "inscricao_municipal": "7717656",
+                "inscricao_estadual": "NONE",
+                "telefone": "2299865377",
+                "razao_social": "FAD METAL COMERCIO DE EQUIPAMENTOS E SERVICOS DE REPAROS LTDA",
+                "nome_fantasia": "FAD METAL REPAROS",
+                "endereco": "RUA CAPITAO FELIPPE JOSE SALES DE ALMEIDA ,3 LOTE 13 QD 3 ,RECANTO DO SOL - São Pedro da Aldeia-RJ",
+                "email": "DEBORA.FERRDASILVA@GMAIL.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "24.832.586/0001-19",
+                "cpf_cnpj_sem_mascara": "24832586000119",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "Nova Caldas Administração e Serviços Hoteleiros Ltda",
+                "endereco": "DAS DUNAS N° SN QUADRA H LOTE 01 BAIRRO: TUCUNS CIDADE: ARMAÇÃO DOS BÚZIOS - RJ CEP: 28954660",
+                "email": "contabilidade@wam.group"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Troca de mancais e troca de correias e pintura externa do exaustor da cozinha central 1."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 2220.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 2220.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 2220.0,
+                "aliquota": 2.0,
+                "valor_iss": 44.4,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 2220.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "Valor a ser pago: 50% para iniciar o serviço e 50% no final. Dados bancários para pagamento: Agência: 1545 C/C: 423445-6 CNPJ: 12.984.880/0001-67 Fad Metal"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Microempresário e Empresa",
+                "simples_nacional": "Sim ( 2% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "LOCAL INCIDÊNCIA",
+                "local_incidencia": "São Pedro da Aldeia - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 298,59 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 93,46 (Alíq IBPT 4,21 IBPT)"
+            }
+        },
+        "diretorio": "Batch_13",
+        "nome_arquivo": "nota_fiscal_eletronica_hotel_novas_caldas.pdf",
+        "Batch": "Batch_13",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    }
+}

@@ -1,0 +1,536 @@
+{
+    "25": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nfse_4411.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "24": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nfse_4405.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "26": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nfse_4414.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "12225": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "12225_cofim__.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "28": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nfse_4416.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    },
+    "29": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA DA CIDADE MAGÉ",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFSe",
+                "numero_nota_fiscal": "29",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "31/07/2023 11:43:00",
+                "codigo_verificacao": "BB3E7430A"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "23.317.112/0001-76",
+                "cpf_cnpj_sem_mascara": "23317112000176",
+                "inscricao_municipal": "242273",
+                "inscricao_estadual": "---",
+                "telefone": "NONE",
+                "endereco": "RUA REPÚBLICA DO LIBANO Nº 48 BAIRRO: V.VITORIA CEP: 25900406 COMPLEMENTO: L.07,Q.04 , N° 48 - L.07,Q.04 -",
+                "email": "NONE",
+                "razao_social": "COFIM CENTRO MEDICO FISIOTERAPICO E EXAMES DE IMAGENS LTDA",
+                "nome_fantasia": "COFIM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "inscricao_municipal": "---",
+                "inscricao_estadual": "---",
+                "endereco": "DEZESSEIS, 400 - PARQUE NOSSA SENHORA DA AJUDA   CEP: 25941450",
+                "email": "NONE",
+                "cpf_cnpj_com_mascara": "39.508.023/0001-47",
+                "cpf_cnpj_sem_mascara": "39508023000147",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "razao_social": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIF.LTDA"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "VALOR DA NOTA: R$ 425,00 VALOR DOS SERVIÇOS: R$ 425,00 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 33.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 33.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 33.0,
+                "aliquota": 3.73,
+                "valor_iss": 1.23,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 33.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 3,73% )",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": ""
+            }
+        },
+        "diretorio": "notas_mage_31082023",
+        "nome_arquivo": "nfse_4417.pdf",
+        "Batch": "Batch_12",
+        "modelo": "mage",
+        "pdf_realmente_pequisavel": true,
+        "processo": "PDF_Pesquisavel"
+    }
+}

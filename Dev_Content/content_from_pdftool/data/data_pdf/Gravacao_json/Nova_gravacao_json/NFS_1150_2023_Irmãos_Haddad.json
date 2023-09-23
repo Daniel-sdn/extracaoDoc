@@ -1,0 +1,84 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "1150",
+            "competencia": "Agosto/2023",
+            "dt_hr_emissao": "01/08/2023 10:27:00",
+            "codigo_verificacao": "52457985B"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+            "cpf_cnpj_sem_mascara": "10875188000175",
+            "inscricao_municipal": "237890",
+            "inscricao_estadual": "78788445",
+            "telefone": "NONE",
+            "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+            "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+            "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+            "email": "NONE"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "04.128.491/0001-01",
+            "cpf_cnpj_sem_mascara": "04128491000101",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "77.140.557",
+            "razao_social": "IRMAOS HADDAD CONSTRUTORA LTDA - EPP",
+            "endereco": "MARACANÃ N° 987 - DE 983 A 1529 - LADO ÍMPAR BAIRRO: TIJUCA CIDADE: RIO DE JANEIRO - RJ CEP: 20511000",
+            "email": "orcamento@irmaoshaddad.com.br"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "COLETA: Serviço de descaracterização e descontaminação de 4.100 lâmpadas com coleta em 21 E 24/07/2023 Pedido de compra: 26614 Vencimento do pagamento: 15/08/2023"
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 5022.5
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "3812200 - COLETA DE RESÍDUOS PERIGOSOS\nItem da Lista de Serviços - 7.09 - VARRIÇÃO, COLETA, REMOÇÃO, INCINERAÇÃO, TRATAMENTO, RECICLAGEM, SEPARAÇÃO E DESTINAÇÃO FINAL DE LIXO,\n",
+            "item_lista_servicos": "- 7.09 - VARRIÇÃO, COLETA, REMOÇÃO, INCINERAÇÃO, TRATAMENTO, RECICLAGEM, SEPARAÇÃO E DESTINAÇÃO FINAL DE LIXO,"
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 5022.5,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 5022.5,
+            "aliquota": 5.0,
+            "valor_iss": 251.13,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 5022.5
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Sociedade Limitada",
+            "simples_nacional": "Sim ( 5% )",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) Valor Aproximado dos Tributos Federais R$ 675,53 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 246,1 (Alíq IBPT 4,9 IBPT)"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "551",
+            "competencia": "Julho/2023",
+            "dt_hr_emissao": "24/07/2023 17:07:00",
+            "codigo_verificacao": "EE27CB8B0"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "18.025.316/0001-01",
+            "cpf_cnpj_sem_mascara": "18025316000101",
+            "inscricao_municipal": "240935",
+            "inscricao_estadual": "NONE",
+            "telefone": "NONE",
+            "razao_social": "VIEGAS MATERIAIS DE CONSTRUÇÃO E BAZAR LTDA ME",
+            "nome_fantasia": "Endereço:",
+            "endereco": "RUA RUA DOZE (JD PRAINHA) ,47 LOJA ,PARQUE DOS ARTISTAS II (VILA INHOMIRIM) - Magé-RJ",
+            "email": "NONE"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "76.639.285/0001-77",
+            "cpf_cnpj_sem_mascara": "76639285000177",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "FERRAGENS NEGRAO COMERCIAL LTDA",
+            "endereco": "PROFESSOR ALGACYR MUNHOZ MADER N° 2800 - ATÉ 2889/2890 BAIRRO: CIDADE INDUSTRIAL CIDADE: CURITIBA - PR CEP: 81310020",
+            "email": "NÃO INFORMADO"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "SERVIÇOS PRESTADOS."
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 4707.25
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "4613300 - REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MADEIRA, MATERIAL DE CONSTRUÇÃO E FERRAGENS\n \n",
+            "item_lista_servicos": "- 10.09 - REPRESENTAÇÃO DE QUALQUER NATUREZA, INCLUSIVE COMERCIAL."
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 4707.25,
+            "valor_deducao": 0.0,
+            "desc_incond": 0.0,
+            "base_calculo": 4707.25,
+            "aliquota": 2.0,
+            "valor_iss": 94.15,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 4707.25
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": ""
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Microempresa municipal",
+            "simples_nacional": "Sim ( 2% )",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Magé - RJ",
+            "local_incidencia": "Magé - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 2 %) Valor Aproximado dos Tributos Federais R$ 633,13 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 231,6 (Alíq IBPT 4,92 IBPT)"
+        }
+    }
+}

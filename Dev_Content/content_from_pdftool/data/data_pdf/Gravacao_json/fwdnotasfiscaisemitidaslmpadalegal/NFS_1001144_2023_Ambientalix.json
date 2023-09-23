@@ -1,0 +1,88 @@
+{
+    "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+    "NFS_1001144_2023_Ambientalix.pdf": {
+        "diretorio": "fwdnotasfiscaisemitidaslmpadalegal",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "1001144",
+                "competencia": "Agosto/2023",
+                "dt_hr_emissao": "08/08/2023 09:38:00",
+                "codigo_verificacao": "E667639AF"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10.875.188/0001-75",
+                "cpf_cnpj_sem_mascara": "10875188000175",
+                "inscricao_municipal": "237890",
+                "inscricao_estadual": "78788445",
+                "telefone": "NONE",
+                "razao_social": "IDEA SERVIÇOS DE COLETA LTDA",
+                "nome_fantasia": "3 RS INDUSTRIA E COMERCIO",
+                "endereco": "RUA WALDEMAR COLOMBO GARCIA ,491 PARTE -PRÉDIO 13 ,ANDORINHAS (SANTO ALEIXO) - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "24.176.999/0001-92",
+                "cpf_cnpj_sem_mascara": "24176999000192",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "87.099.067",
+                "razao_social": "AMBIENTALIX SOLUÇÕES EM SERVIÇOS DE MANUTENÇÃO LTDA -ME",
+                "endereco": ". FLAMENGO N° 17 LOTE 03B QUADRA 85 BAIRRO: VILA SÃO LUÍS CIDADE: DUQUE DE CAXIAS - RJ CEP: 25086090",
+                "email": "ambientalix@hotmail.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "FÁBRICA: Serviço de descaracterização e descontaminação de 63 lâmpadas, entregues em Magé/RJ, no dia 26/07/2023 Pedido de compra: N/A Vencimento do pagamento: 22/08/2023 Desconto: R$ 1,00 por unidade. Valor oferecido a clientes que entregam as lâmpadas na fábrica."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 63.0
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "3812200 - COLETA DE RESÍDUOS PERIGOSOS\nItem da Lista de Serviços - 7.09 - VARRIÇÃO, COLETA, REMOÇÃO, INCINERAÇÃO, TRATAMENTO, RECICLAGEM, SEPARAÇÃO E DESTINAÇÃO FINAL DE LIXO,\n",
+                "item_lista_servicos": "- 7.09 - VARRIÇÃO, COLETA, REMOÇÃO, INCINERAÇÃO, TRATAMENTO, RECICLAGEM, SEPARAÇÃO E DESTINAÇÃO FINAL DE LIXO,"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 63.0,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 63.0,
+                "aliquota": 5.0,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 3.15,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 59.85
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 5% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 5 %) - ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 24.176.999/0001-92 Valor Aproximado dos Tributos Federais R$ 8,05 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 2,93 (Alíq IBPT 4,9 IBPT)"
+            }
+        }
+    }
+}

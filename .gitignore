@@ -1,0 +1,5 @@
+env
+doc_movido
+pipeline_extracao_documentos
+config/log_ocorrencias.log
+modules/__pycache__

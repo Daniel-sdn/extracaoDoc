@@ -1,0 +1,88 @@
+{
+    "diretorio": "fwdnotasficaisessencis",
+    "NOTA - 29089.pdf": {
+        "diretorio": "fwdnotasficaisessencis",
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "29089",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "24/07/2023 15:33:00",
+                "codigo_verificacao": "EE6AC3D5B"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "40.263.170/0008-50",
+                "cpf_cnpj_sem_mascara": "40263170000850",
+                "inscricao_municipal": "2733",
+                "inscricao_estadual": "75.844.174",
+                "telefone": "NONE",
+                "razao_social": "ESSENCIS SOLUÇÕES AMBIENTAIS S.A",
+                "nome_fantasia": "Endereço:",
+                "endereco": "rua RIO TERESÓPOLIS ,S/N KM 121,5 BR 116 ,VILA INCA - Magé-RJ",
+                "email": "NONE"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "33.273.681/0001-10",
+                "cpf_cnpj_sem_mascara": "33273681000110",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "81970661",
+                "razao_social": "FLOWSERVE DO BRASIL LTDA.",
+                "endereco": "DO PEDREGOSO N° 1975 - DE 1000/1001 AO FIM BAIRRO: CAMPO GRANDE CIDADE: RIO DE JANEIRO - RJ CEP: 23078450",
+                "email": "flowservedo@brasil.com"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "1 - SERVIÇO DE ENGENHARIA PARA TRATAMENTO FINAL DE RESÍDUOS INDUSTRIAIS R$ 5.840,94 Vencimento: 07.08.2023"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 5840.94
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "7112000 - SERVIÇOS DE ENGENHARIA\n \n",
+                "item_lista_servicos": "- 7.01 - ENGENHARIA, AGRONOMIA, AGRIMENSURA, ARQUITETURA, GEOLOGIA, URBANISMO, PAISAGISMO E CONGÊNERES."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 5840.94,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 5840.94,
+                "aliquota": 5.0,
+                "valor_iss": 292.05,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 37.96,
+                "valor_cofins": 175.23,
+                "valor_ir": 87.61,
+                "valor_inss": 0.0,
+                "valor_csll": 58.41,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 5481.73
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade anônima",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 737,29 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 265,32 (Alíq IBPT 4,84 IBPT)"
+            }
+        }
+    }
+}

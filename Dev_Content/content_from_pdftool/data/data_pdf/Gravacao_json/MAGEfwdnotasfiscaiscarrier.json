@@ -1,0 +1,88 @@
+{
+    "2023173": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "2023173",
+                "competencia": "JULHO/2023",
+                "dt_hr_emissao": "01/08/2023 03:32:41",
+                "codigo_verificacao": "C64B104C7"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "15.064.270/0001-33",
+                "cpf_cnpj_sem_mascara": "15064270000133",
+                "inscricao_municipal": "5000545",
+                "inscricao_estadual": "NONE",
+                "telefone": "2138480080",
+                "razao_social": "MODERNIZACAO PUBLICA E INFORMATICA LTDA",
+                "nome_fantasia": "Modernização Pública",
+                "endereco": "RUA PREFEITO JOSE MONTES PAIXAO, 1708 SOBRADO CENTRO MESQUITA/RJ CEP: 26553-161",
+                "email": "vm.direcao@yahoo.com.b"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "28.909.604/0001-74",
+                "cpf_cnpj_sem_mascara": "28909604000174",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "PREF.MUN.DE SAO PEDRO DA ALDEIA",
+                "endereco": "Rua Marques da Cruz, 61 CENTRO SAO PEDRO DA ALDEIA/RJ/RJ CEP: 28941-086",
+                "email": "NONE"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "CESSAO DE LICENCIAMENTO DE USO DE SOLUCAO PARA SISTEMA INTEGRADO DE GESTAO PUBLICA CONTRATO 94/2022, PROCESSO 6699/2022 NOTA FISCAL REFERENTE AO MES 07/2023 - CREDITAR NO BANCO BRADESCO AG 6615 C/C 12311-0 OU BANCO DO BRASIL AG 1253-X C/C 125016-7 OU PIX: CNPJ 15.064.270/0001-33"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 206549.00
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "6202300 - DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS",
+                "item_lista_servicos": "1.05 Licenciamento ou cessão de direito de uso de programas de computação."
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 206549.00,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 206549.00,
+                "aliquota": 2.0,
+                "valor_iss": 4130.98,
+                "valor_iss_retido": 0.0,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 3098.23,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 203450.77
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "",
+                "local_prestacao_servico": "SAO PEDRO DA ALDEIA/RJ",
+                "local_incidencia": "MESQUITA/RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "LEI DA TRANSPARÊNCIA FISCAL NR. 12.741, DE 8 DE DEZEMBRO DE 2012"
+            }
+        },
+        "diretorio": "",
+        "nome_arquivo": "272519EC-959B-4460-BBE6-D80D272B9ACD.PDF"
+    }
+}

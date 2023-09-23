@@ -1,0 +1,81 @@
+{
+    "dados_NF_PDF": {
+        "data_cabecalho": {
+            "secao": "1 - CABECALHO",
+            "nome_prefeitura": "PREFEITURA MUNICIPAL DE SAO PEDRO DA ALDEIA",
+            "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+            "numero_nota_fiscal": "2023614",
+            "competencia": "Agosto/2023",
+            "dt_hr_emissao": "03/08/2023 09:01:00",
+            "codigo_verificacao": "3B3835CC5"
+        },
+        "data_prestador": {
+            "secao": "2. PRESTADOR DE SERVIÇO",
+            "cpf_cnpj_com_mascara": "29.067.113/0262-33",
+            "cpf_cnpj_sem_mascara": "29067113026233",
+            "inscricao_municipal": "7713055",
+            "inscricao_estadual": "NONE",
+            "telefone": "1126082651..\n",
+            "razao_social": "POLIMIX CONCRETO LTDA",
+            "nome_fantasia": "POLIMIX",
+            "endereco": "ROD RJ-140 ,SN PARTE ,Campo Redondo - São Pedro da Aldeia-RJ",
+            "email": "NONE"
+        },
+        "data_tomador": {
+            "secao": "3. TOMADOR DE SERVIÇO",
+            "rg": "NONE",
+            "telefone": "NONE",
+            "inscricao_estadual": "NONE",
+            "razao_social": "ANASTACIA CRISTINA MARTINS DO NASCIMENTO",
+            "endereco": "DAMASCENO N° 01 BAIRRO: JARDIM ESPERANÇA CIDADE: CABO FRIO - RJ CEP: 28920320",
+            "email": "Não Informado"
+        },
+        "data_servico": {
+            "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+            "discriminacao_servicos": "Fck 20,0 Mpa BRITA 0 + 1 SLUMP 160 ± 30 MM - 1.900,00 / TAXA DE BOMBA - 600,00 "
+        },
+        "data_valor_total": {
+            "secao": "5. VALOR TOTAL",
+            "valor_total_nota": 2500.0
+        },
+        "data_CNAE": {
+            "Secao": "6. CNAE e Item da Lista de Serviços",
+            "cnae": "4399-1/99 - SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE\nItem da Lista de Serviços - 7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRÁULICA\nOU ELÉTRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAG\n \n"
+        },
+        "data_valores": {
+            "secao": "7. VALORES E IMPOSTOS",
+            "valor_servicos": 2500.0,
+            "valor_deducao": 950.0,
+            "desc_incond": 0.0,
+            "base_calculo": 1550.0,
+            "aliquota": 4.0,
+            "valor_iss": 62.0,
+            "valor_iss_retido": 0.0,
+            "desc_cond": 0.0,
+            "valor_pis": 0.0,
+            "valor_cofins": 0.0,
+            "valor_ir": 0.0,
+            "valor_inss": 0.0,
+            "valor_csll": 0.0,
+            "outras_retencoes": 0.0,
+            "valor_liquido": 2500.0
+        },
+        "data_dados_complementares": {
+            "secao": "8. DADOS COMPLEMENTARES",
+            "dados_complementares": "SERVIÇO DE PRESTAÇÃO DE CONCRETAGEM. (PROCON) RUA FLORISBELA ROSA DA PENHA Nº 292, BRAGA, CABO FRIO-RJ, TEL: (22) 2643-5831.\n(CODECON/ALERJ) RUA DA ALFÂNDEGA Nº 8, TÉRREO, CENTRO, RIO DE JANEIRO-RJ, TEL: 0800-2827060. REFERENTE RPS 614."
+        },
+        "data_outras_informacoes": {
+            "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+            "exigibilidade_iss": "Exigivel",
+            "regime_tributacao": "Sociedade Limitada",
+            "simples_nacional": "Não",
+            "issqn_retido": "Não",
+            "local_prestacao_servico": "Cabo Frio - RJ",
+            "local_incidencia": "Cabo Frio - RJ"
+        },
+        "data_observacao": {
+            "secao": "10. OBSERVACOES",
+            "observacao": "Valor Aproximado dos Tributos Federais R$ 336,25 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 123,25 (Alíq IBPT 4,93 IBPT)"
+        }
+    }
+}

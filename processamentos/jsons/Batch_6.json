@@ -1,0 +1,318 @@
+{
+    "35": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "35",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 10:05:00",
+                "codigo_verificacao": "162953D40"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.127.269/0001-27",
+                "cpf_cnpj_sem_mascara": "26127269000127",
+                "inscricao_municipal": "1004802",
+                "inscricao_estadual": "12.001.894",
+                "telefone": "2126324343",
+                "razao_social": "SPARTA SERVIÇOS ESPECIALIZADOS LTDA",
+                "nome_fantasia": "SPARTA SERVICOS ESPECIALIZADOS",
+                "endereco": "PAPA PIO XII ,554 LOJA:1 ,FIGUEIRA - Magé-RJ",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "72.030.927/0001-85",
+                "cpf_cnpj_sem_mascara": "72030927000185",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "SEEL -SERV.ESPECIAIS DE ENGENHARIA LTDA",
+                "endereco": "PRESIDENTE VARGAS N° 583 - DE 311 A 583 - LADO ÍMPAR BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20071003",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇO DE VIGILANCIA E SEGURANÇA NÃO ARMADA NO PERÍODO DE 01 A 30/06/2023 LOCAL DA PRESTAÇÃO DE SERVIÇOS: RJ Rodovia Rio Santos (BR 101) KMS 436, 463, 464, 453, 459, 456, 466 Angra dos Reis, RJ POSTO 01 PORTEIRO/VIGIA DAS 17:00 ÀS 07:00 SEG A QUI E 16:00 AS 07:00 (EXCETO FERIADO) 01 PORTEIRO/VIGIA DAS 07:00 ÀS 19:00 SAB, DOM E FERIADOS 01 PORTEIRO/VIGIA DAS 19:00 AS 07:00 SAB, DOM E FERIADOS DADOS PARA PAGAMENTO BANCO SICOOB - 756 AG: 3260 C/C: 86425-0"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 71905.9
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 71905.9,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 71905.9,
+                "aliquota": 4.1,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 2948.14,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 7909.65,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 61048.11
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 4,1% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Angra dos Reis - RJ",
+                "local_incidencia": "Angra dos Reis - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 4,1 %)"
+            }
+        },
+        "diretorio": "fwdresnotasausentesnosistema",
+        "nome_arquivo": "NFS-e 35.pdf"
+    },
+    "37": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "37",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 10:12:00",
+                "codigo_verificacao": "8156E38E6"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.127.269/0001-27",
+                "cpf_cnpj_sem_mascara": "26127269000127",
+                "inscricao_municipal": "1004802",
+                "inscricao_estadual": "12.001.894",
+                "telefone": "2126324343",
+                "razao_social": "SPARTA SERVIÇOS ESPECIALIZADOS LTDA",
+                "nome_fantasia": "SPARTA SERVICOS ESPECIALIZADOS",
+                "endereco": "PAPA PIO XII ,554 LOJA:1 ,FIGUEIRA - Magé-RJ",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "72.030.927/0001-85",
+                "cpf_cnpj_sem_mascara": "72030927000185",
+                "rg": "NONE",
+                "telefone": "NONE",
+                "inscricao_estadual": "NONE",
+                "razao_social": "SEEL -SERV.ESPECIAIS DE ENGENHARIA LTDA",
+                "endereco": "PRESIDENTE VARGAS N° 583 - DE 311 A 583 - LADO ÍMPAR BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20071003",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇO DE VIGILANCIA E SEGURANÇA NÃO ARMADA NO PERÍODO DE 01 A 30/06/2023 LOCAL DA PRESTAÇÃO DE SERVIÇOS: RJ Rodovia Presidente Dutra (BR 116), KM 232, PIRAÍ POSTO 01 PORTEIRO/VIGIA DAS 17:00 ÀS 07:00 SEG A QUI E 16:00 AS 07:00 (EXCETO FERIADO) 01 PORTEIRO/VIGIA DAS 07:00 ÀS 19:00 SAB, DOM E FERIADOS 01 PORTEIRO/VIGIA DAS 19:00 AS 07:00 SAB, DOM E FERIADOS DADOS PARA PAGAMENTO BANCO SICOOB - 756 AG: 3260 C/C: 86425-0"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 357.98
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços",
+                "item_lista_servicos": "11.02 - VIGILÂNCIA, SEGURANÇA OU MONITORAMENTO DE BENS, PESSOAS E SEMOVENTES. "
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 357.98,
+                "valor_deducao": 0.0,
+                "desc_incond": 0.0,
+                "base_calculo": 357.98,
+                "aliquota": 4.1,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 14.68,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 39.38,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0,
+                "valor_liquido": 303.92
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigivel",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Sim ( 4,1% )",
+                "issqn_retido": "Sim",
+                "local_prestacao_servico": "Piraí - RJ",
+                "local_incidencia": "Piraí - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "- Prestador Optante do Simples Nacional (Alíquota: 4,1 %)"
+            }
+        },
+        "diretorio": "fwdresnotasausentesnosistema",
+        "nome_arquivo": "NFS-e 37.pdf"
+    },
+    "36": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "36",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "27/07/2023 10:09:00"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.127.269/0001-27",
+                "cpf_cnpj_sem_mascara": "26127269000127",
+                "inscricao_municipal": "1004802",
+                "inscricao_estadual": "12.001.894",
+                "telefone": "NONE",
+                "razao_social": "SPARTA SERVIÇOS ESPECIALIZADOS LTDA",
+                "nome_fantasia": "SPARTA SERVICOS ESPECIALIZADOS",
+                "endereco": "PAPA PIO XII ,554 LOJA:1 ,FIGUEIRA - Magé-RJ",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "72.030.927/0001-85",
+                "cpf_cnpj_sem_mascara": "72030927000185",
+                "rg": "Telef one:",
+                "inscricao_estadual": "NONE",
+                "razao_social": "SEEL -SERV.ESPECIAIS DE ENGENHARIA LTDA",
+                "endereco": "PRESIDENTE VARGAS N° 583 - DE 311 A 583 - LADO ÍMPAR BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20071003",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail:  NÃO INFORMADO DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SERVIÇO DE VIGILANCIA E SEGURANÇA NÃO ARMADA NO PERÍODO DE 01 A 30/06/2023 LOCAL DA PRESTAÇÃO DE SERVIÇOS: RJ Rodov ia Presidente Dutra (BR 116), KM 276, BARRA MANSA POSTO 01 PORTEIRO/VIGIA DAS 17:00 ÀS 07:00 SEG A QUI E 16:00 AS 07:00 (EXCETO FERIADO) 01 PORTEIRO/VIGIA DAS 07:00 ÀS 19:00 SAB, DOM E FERIADOS 01 PORTEIRO/VIGIA DAS 19:00 AS 07:00 SAB, DOM E FERIADOS DADOS PARA PAGAMENTO BANCO SICOOB - 756 AG: 3260 C/C: 86425-0 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 11840.49,
+                "valor_deducao": 0.0,
+                "base_calculo": 11840.49,
+                "aliquota": 4.1,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 485.46,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Exigivel Sociedade Limitada Sim ( 4,1% ) Sim SERVIÇO Barra Mansa - RJ Barra Mansa - RJ Observação:"
+            }
+        },
+        "diretorio": "fwdresnotasausentesnosistema",
+        "nome_arquivo": "NFS-e 36 CANCELADA.pdf"
+    },
+    "38": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "tipo_nota_fiscal": "NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e",
+                "numero_nota_fiscal": "38",
+                "competencia": "Julho/2023",
+                "dt_hr_emissao": "28/07/2023 13:30:00"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "26.127.269/0001-27",
+                "cpf_cnpj_sem_mascara": "26127269000127",
+                "inscricao_municipal": "1004802",
+                "inscricao_estadual": "12.001.894",
+                "telefone": "NONE",
+                "razao_social": "SPARTA SERVIÇOS ESPECIALIZADOS LTDA",
+                "nome_fantasia": "SPARTA SERVICOS ESPECIALIZADOS",
+                "endereco": "PAPA PIO XII ,554 LOJA:1 ,FIGUEIRA - Magé-RJ",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "72.030.927/0001-85",
+                "cpf_cnpj_sem_mascara": "72030927000185",
+                "rg": "Telef one:",
+                "inscricao_estadual": "NONE",
+                "razao_social": "SEEL -SERV.ESPECIAIS DE ENGENHARIA LTDA",
+                "endereco": "PRESIDENTE VARGAS N° 583 - DE 311 A 583 - LADO ÍMPAR BAIRRO: CENTRO CIDADE: RIO DE JANEIRO - RJ CEP: 20071003",
+                "email": "CONTATO@SPARTASERVICOS.COM"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "E-mail:  NÃO INFORMADO DISCRIMINAÇÃO DOS SERVIÇOS PRESTAÇÃO DE SERVIÇO DE VIGILANCIA E SEGURANÇA NÃO ARMADA NO PERÍODO DE 01 A 30/06/2023 LOCAL DA PRESTAÇÃO DE SERVIÇOS: RJ Rodov ia Presidente Dutra (BR 116), KM 276, BARRA MANSA POSTO 01 PORTEIRO/VIGIA DAS 17:00 ÀS 07:00 SEG A QUI E 16:00 AS 07:00 (EXCETO FERIADO) 01 PORTEIRO/VIGIA DAS 07:00 ÀS 19:00 SAB, DOM E FERIADOS 01 PORTEIRO/VIGIA DAS 19:00 AS 07:00 SAB, DOM E FERIADOS. OBS: desconto de R$1.600,00 aplicado, para cobertura parcial de sinistro, em acordo com a empresa. DADOS PARA PAGAMENTO BANCO SICOOB - 756 AG: 3260 C/C: 86425-0 "
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL"
+            },
+            "data_CNAE": {
+                "Secao": "6. CNAE e Item da Lista de Serviços"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 10240.49,
+                "valor_deducao": 0.0,
+                "base_calculo": 10240.49,
+                "aliquota": 4.1,
+                "valor_iss": 0.0,
+                "valor_iss_retido": 419.86,
+                "desc_cond": 0.0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": ""
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Exigivel Sociedade Limitada Sim ( 4,1% ) Sim SERVIÇO Barra Mansa - RJ Barra Mansa - RJ Observação:"
+            }
+        },
+        "diretorio": "fwdresnotasausentesnosistema",
+        "nome_arquivo": "NFS-e 38 CANCELADA.pdf"
+    }
+}

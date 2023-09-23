@@ -1,0 +1,632 @@
+{
+    "297": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 297,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 09:27:00",
+                "codigo_verificacao": "88770AE05"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "09602136782",
+                "cpf_cnpj_sem_mascara": 9602136782,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Raquel Berbat Picanço Teixeira",
+                "endereco": "CARUARU Nº 698 301 BAIRRO: GRAJAU CIDADE: RIO DE JANEIRO - RJ CEP: 20560218",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta média em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM-RJ 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 280.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 280.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 280.0,
+                "aliquota": 3,
+                "valor_iss": 8.4,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 280.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 37,66 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 6,44 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0297 Raquel.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "c0079b1e-669e-4140-804c-6f5d880060a5"
+    },
+    "298": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 298,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 09:29:00",
+                "codigo_verificacao": "6A205FC0F"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "04300643733",
+                "cpf_cnpj_sem_mascara": 4300643733,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Marcelo Schild Arlin",
+                "endereco": "NOSSA SENHORA DE COPACABANA Nº 1118 32 BAIRRO: COPACABANA CIDADE: RIO DE JANEIRO - RJ CEP: 22060002",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta médica em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM-RJ 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 280.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 280.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 280.0,
+                "aliquota": 3,
+                "valor_iss": 8.4,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 280.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 37,66 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 6,44 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0298 Marcelo.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "530cd918-71d7-4f2c-819c-dc7daca355f9"
+    },
+    "295": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 295,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 09:25:00",
+                "codigo_verificacao": "6A8E19B75"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "10298910799",
+                "cpf_cnpj_sem_mascara": 10298910799,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Carlos Leandro Camejo de Souza",
+                "endereco": "PAISSANDU Nº 179 APTO 203 BAIRRO: FLAMENGO CIDADE: RIO DE JANEIRO - RJ CEP: 22210085",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta médica em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 300.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 300.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 300.0,
+                "aliquota": 3,
+                "valor_iss": 9.0,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 300.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 40,35 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 6,9 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0295 Carlos Leandro.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "ad325c14-da9b-43df-8e8d-7cf69f83a0c7"
+    },
+    "300": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 300,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "26/07/2023 09:18:00",
+                "codigo_verificacao": "589FF0507"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "66735521749",
+                "cpf_cnpj_sem_mascara": 66735521749,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Vanisa Moutinho da Costa Sanchez",
+                "endereco": "JUQUIA Nº 68 APT 602 BAIRRO: LEBLON CIDADE: RIO DE JANEIRO - RJ CEP: 22441080",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta médica em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 300.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 300.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 300.0,
+                "aliquota": 3,
+                "valor_iss": 9.0,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 300.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 40,35 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 6,9 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0300 Vanisa.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "a34dd6b4-42a3-424c-9c0f-d2314ccbb39c"
+    },
+    "296": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 296,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "24/07/2023 09:27:00",
+                "codigo_verificacao": "5CC0F0378"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "66735521749",
+                "cpf_cnpj_sem_mascara": 66735521749,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Vanisa Moutinho da Costa Sanchez",
+                "endereco": "JUQUIA Nº 68 APT 602 BAIRRO: LEBLON CIDADE: RIO DE JANEIRO - RJ CEP: 22441080",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta médica em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 300.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 300.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 300.0,
+                "aliquota": 3,
+                "valor_iss": 9.0,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 300.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 40,35 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 6,9 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0296 Vanisa (Cancelada).pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "ada25db3-8bcb-4f0c-9ead-2b575d2f51c2"
+    },
+    "301": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 301,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "27/07/2023 12:30:00",
+                "codigo_verificacao": "443DC6736"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "36.519.791/0001-08",
+                "cpf_cnpj_sem_mascara": 36519791000108,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "ULTRASCAN SERVICO DE IMAGEM LTDA",
+                "endereco": "PORTUGAL Nº 236 PARTE BAIRRO: VALPARAISO CIDADE: PETROPOLIS - RJ CEP: 25655374",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "PRESTAÇÃO DE SERVIÇOS"
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 26005.2
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8640205 - SERVIÇOS DE DIAGNÓSTICO POR IMAGEM COM USO DE RADIAÇÃO IONIZANTE, EXCETO TOMOGRAFIA",
+                "item_lista_servicos": "8640205 - SERVIÇOS DE DIAGNÓSTICO POR IMAGEM COM USO DE RADIAÇÃO IONIZANTE, EXCETO TOMOGRAFIA"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 26005.2,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 26005.2,
+                "aliquota": 3,
+                "valor_iss": 780.16,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 169.03,
+                "valor_cofins": 780.16,
+                "valor_ir": 390.08,
+                "valor_inss": 390.08,
+                "valor_csll": 260.05,
+                "outras_retencoes": 0,
+                "valor_liquido": 24405.88
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "  Valor Aproximado dos Tributos Federais R$ 3282,59 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 549,13 (Alíg IBPT 2,25 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0301 Ultrascan.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "937ed21e-7b9e-4000-ab6a-ffadd90cf2b0"
+    },
+    "299": {
+        "dados_NF_PDF": {
+            "data_cabecalho": {
+                "secao": "1 - CABECALHO",
+                "nome_prefeitura": "PREFEITURA MUNICIPAL DE MAGE",
+                "numero_nota_fiscal": 299,
+                "competencia": "Julho/2023",
+                "dt_hr_emissoa": "25/07/2023 08:58:00",
+                "codigo_verificacao": "112278AC5"
+            },
+            "data_prestador": {
+                "secao": "2. PRESTADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "06.083.610/0001-82",
+                "cpf_cnpj_sem_mascara": 6083610000182,
+                "inscricao_municipal": 20734,
+                "inscricao_estadual": "None",
+                "telefone": 213806370,
+                "razao_social": "DORIA MARINHO CONSULTORIA MEDICA E RADIODIAGNOSTICO LTDA",
+                "nome_fantasia": "None",
+                "endereco": "DOUTOR NILO PECANHA ,137 SALA 101 PARTE ,CENTRO - Magé-RJ",
+                "email": "REGISTROG@LAFSCONTABILIDADE.COM.BR"
+            },
+            "data_tomador": {
+                "secao": "3. TOMADOR DE SERVIÇO",
+                "cpf_cnpj_com_mascara": "17866125775",
+                "cpf_cnpj_sem_mascara": 17866125775,
+                "rg": "None",
+                "inscricao_municipal": "None",
+                "inscricao_estadual": "None",
+                "telefone": "None",
+                "razao_social": "Luciana de Jesus Vianna",
+                "endereco": "PRAIA DE INHAUMA Nº 41 BAIRRO: MARE CIDADE: RIO DE JANEIRO - RJ CEP: 21042130",
+                "email": "NÃO INFORMADO"
+            },
+            "data_servico": {
+                "secao": "4. DESCRIMINACAO DOS SERVIÇOS",
+                "discriminacao_servicos": "Consulta médica em psiquiatria, realizada pelo Dr. Gabriel Dória Marinho (CRM 520105765-0)."
+            },
+            "data_valor_total": {
+                "secao": "5. VALOR TOTAL",
+                "valor_total_nota": 200.0
+            },
+            "data_CNAE": {
+                "secao": "6. CNAE e Item da Lista de Serviços",
+                "cnae": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS",
+                "item_lista_servicos": "8630503 - ATIVIDADE MÉDICA AMBULATORIAL RESTRITA A CONSULTAS"
+            },
+            "data_valores": {
+                "secao": "7. VALORES E IMPOSTOS",
+                "valor_servicos": 200.0,
+                "valor_deducao": 0,
+                "desc_incond": 0,
+                "base_calculo": 200.0,
+                "aliquota": 3,
+                "valor_iss": 6.0,
+                "valor_iss_retido": 0,
+                "desc_cond": 0,
+                "valor_pis": 0.0,
+                "valor_cofins": 0.0,
+                "valor_ir": 0.0,
+                "valor_inss": 0.0,
+                "valor_csll": 0.0,
+                "outras_retencoes": 0,
+                "valor_liquido": 200.0
+            },
+            "data_dados_complementares": {
+                "secao": "8. DADOS COMPLEMENTARES",
+                "dados_complementares": "None"
+            },
+            "data_outras_informacoes": {
+                "secao": "9. OUTRAS INFORMAÇOES / CRITICAS",
+                "exigibilidade_iss": "Exigível",
+                "regime_tributacao": "Sociedade Limitada",
+                "simples_nacional": "Não",
+                "issqn_retido": "Não",
+                "local_prestacao_servico": "Magé - RJ",
+                "local_incidencia": "Magé - RJ"
+            },
+            "data_observacao": {
+                "secao": "10. OBSERVACOES",
+                "observacao": "Valor Aproximado dos Tributos Federais R$ 26,9 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 4,6 (Alíq IBPT 2,3 IBPT)  "
+            }
+        },
+        "batch": "Batch_21",
+        "diretorio": "fwdnotasfaltantesnosistemadeemissoim20734_106187",
+        "nome_arquivo": "Doria Marinho 0299 Luciana.pdf",
+        "pdf_pesquisavel": false,
+        "modelo": "MAGE",
+        "document_unique_id": "d4d68cd7-2d50-4178-89fe-b657f9176e39"
+    }
+}
