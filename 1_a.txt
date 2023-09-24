@@ -1,0 +1,181 @@
+31/07/2023,
+
+17:33
+
+Nota Fiscal de Serviços Eletrônica (NFSe)
+Número da Nota:
+PREFEITURA
+
+MUNICIPAL
+
+DE
+
+MAGE
+
+Competência:
+
+SECRETARIA MUNICIPAL DA FAZENDA
+
+1
+
+Julho/2023
+
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+Data e Hora da Emissão:
+31/07/2023 17:29:00
+
+Código Verificação:
+
+4ADEE6A7B
+
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ:
+51.246.375/0001-77
+
+Inscrição Municipal:
+1007689
+
+Telefone:
+
+Inscrição Estadual:
+
+2176361620..
+
+Nome/Razão Social:
+BOM GOSTO TRANSPORTES E SERVICOS
+Nome de Fantasia:
+BOM GOSTO TRANSPORTES
+Endereço:
+VINTE E CINCO ,115,PARQUE SAYONARA
+E-mail:
+FISCALQATECS.COM.BR
+
+PA
+
+12913222
+
+LTDA
+
+(VILA INHOMIRIM)
+
+- Magé-RJ
+
+TOMADOR
+CPF/CNPJ:
+12.324.674/0001-20
+Telefone:
+
+|
+
+-
+
+INSC:MUNICIPAL:
+
+DE SERVIÇOS
+
+RG:
+Inscrição Estadual:
+
+Nome/Razão Social:
+BOM GOSTO 2010 COMERCIO DE ALIMENTOS LTDA
+Endereço:
+VINTE E UM Nº 125 BAIRRO: PARQUE SAYONARA (VILA INHOMIRIM)
+E-mail:
+fiscalDatecs.com.br
+
+CIDADE:
+
+MAGÉ
+
+.
+
+- RJ CEP: 25935196
+
+DISCRIMINAÇÃO DOS SERVIÇOS
+Serviços prestados conforme contrato. Informações em atendimento a Lei nº 12.741/2012. Valor aproximado dos tributos incidentes nesta operação: Tributos da
+União.............. 3,99% Tributos do Estado............. 0,00% Tributos do Município.......... 2,01% - Dispensa de retenção das Contribuições Sociais(PIS/COFINS/CSLL), conforme
+IN SRF nº 459/2004, art. 3º, Il. - Dispensa de retenção da contribuição previdenciária (INSS),conforme IN RFB nº 971/2009, art.119, por falta de previsão legal. - Dispensa de
+retenção do IRRF, conforme IN RFB nº 765/2007, art. 1º. - DOCUMENTO EMITIDO POR ME OU EPP OPTANTEPELO SIMPLES NACIONAL
+
+VALOR TOTAL DA NOTA: R$ 252.836,00
+CNAE - 4930202 - TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANÇAS, INTERMUNICIPAL, INTERESTADUAL
+Item da Lista de Serviços - 16.01 - SERVIÇOS DE TRANSPORTE COLETIVO MUNICIPAL RODOVIÁRIO, METROVIÁRIO, FERROVIÁRIO E AQUAVIÁRIO DE
+PASSAGEIROS.
+VALOR SERVIÇOS:
+R$ 252.836,00
+
+VALOR |
+DEDUÇÃO:
+R$ 0,00
+
+DESC. INCOND: BASE DE
+R$ 0,00
+CALCULO:
+R$ 252.836,00
+
+ALÍQUOTA:
+2,01%
+
+VALOR ISS:
+R$ 5.082,00
+
+VALOR PIS:
+R$ 0,00
+
+VALOR COFINS:
+R$ 0,00
+
+VALOR IR:
+R$ 0,00
+
+VALOR CSLL:
+R$ 0,00
+
+OUTRAS RETENÇÕES:
+R$ 0,00
+
+VALOR INSS:
+R$ 0,00
+
+VALOR ISS
+RETIDO:
+R$ 0,00
+
+DESC. COND:
+R$ 0,00
+
+VALOR LÍQUIDO:
+R$ 252.836,00
+
+DADOS COMPLEMENTARES
+
+OUTRAS INFORMAÇÕES / CRITICAS
+
+EXIGIBILIDADE ISS
+Exigivel
+
+REGIME TRIBUTAÇÃO
+Sociedade Limitada
+
+SIMPLES NACIONAL
+Sim (2,01% )
+
+ISSQN RETIDO
+Não
+
+LOCAL. PRESTAÇÃO
+SERVIÇO
+
+Magé - RJ
+
+LOCAL INCIDÊNCIA
+Magé - RJ
+
+Observação:
+- Prestador Optante do Simples Nacional (Alíquota: 2,01 %)
+Valor Aproximado dos Tributos Federais R$ 34006,44 (Alíq 13,45), Tributos Estaduais R$ 0,00 (Alíg 0,00 IBPT) e Municipal de R$ 8217,17 (Alíq IBPT 3,25 IBPT)
+
+https://nfs-e.mage.rj.gov.br
+
+

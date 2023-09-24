@@ -1,32 +1,46 @@
+# ------------------------------------------------------------------------------
+# Copyright 2023, Daniel Silva do Nascimento, mailto:danielsdn0725@gmail.com
+#
+# Relacao deferramentas utilizadas na aplicacao
+#
+# Part of "extractNF" project, a Python solution for extracting data from NFS-e
+# for Modernizaçao Informatica
+# -------------------------------------------------------------------------------
+
+import re
+import io
 import os
+import csv
+import json
 import uuid
 import hashlib
 import shutil
 import pandas as pd
 from pathlib import Path
+from urllib import response
+from unicodedata import normalize
 
 
 
 
-
-
-
-# 1. Geraçao do hash do arquivo
 def generate_file_hash(file_path):
-    # Abre o arquivo em modo de leitura de bytes
+    """ Criar hash SHA-256 para um arquivo
+        se o arquivo for renomeado, seu hash se mantera
+        entretanto qualquer muudança no conteúdo do arquivo
+        modificara seu hash
+    """
+    
     with open(file_path, "rb") as f:
-        # Lê o conteúdo do arquivo
         file_data = f.read()
-        # Utiliza o algoritmo SHA-256 para gerar o hash
         file_hash = hashlib.sha256(file_data).hexdigest()
     return file_hash
 
-# 2. Geraçao do Unique_id do arquivo
+
 def generate_unique_id():
     return str(uuid.uuid4())
 
 
-# 3. XXX Busca proximo Batch
+
 def busca_proximo_batch(conf_export_plan_path):
     # Abre o arquivo Excel e lê a coluna 'batch'
     df = pd.read_excel(conf_export_plan_path, usecols=["batch"])

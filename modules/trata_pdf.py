@@ -129,7 +129,7 @@ def split_documentos(qualquer_df, fase, atividade, status):
 
 
 
-def confirma_pdf_pequisavel(file_path):
+def confirma_pdf_pesquisavel(file_path):
     
     pdf_document = fitz.open(file_path)
     # Página do PDF  ATENCAO  (UNICA PAGINA)
