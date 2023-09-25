@@ -1,0 +1,190 @@
+02/08/23, 16:33
+
+Nota Fiscal de Serviços Eletrônica (NFSe)
+Número da Nota:
+
+PREFEITURA MUNICIPAL DE MAGE
+
+ia
+
+Competência:
+
+SECRETARIA MUNICIPAL DA FAZENDA
+
+Agosto/2023
+
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+Data e Hora da Emissão:
+02/08/2023 16:29:00
+
+Código Verificação:
+
+OCDD6FB51
+
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ:
+
+Inscrição Municipal:
+
+Telefone:
+
+Inscrição Estadual:
+
+33.462.862/0001-95
+
+li:
+
+4337
+
+al
+
+Nome/Razão Social:
+SÃO MARCOS TERRAPLENAGEM E CONSTRUÇÃO LTDA.
+Nome de Fantasia:
+Endereço:
+RUA DAS MARGARIDAS ,578 ,SANTA DALILA - Magé-RJ
+E-mail:
+
+TOMADOR DE SERVIÇOS
+CPF/CNPJ:
+29.115.474/0001-60
+HINSC:MUNICIPAL:
+
+RG:
+
+|
+
+Telefone:
+
+Inscrição Estadual:
+
+Nome/Razão Social:
+MUNICÍPIO DE MACAE
+Endereço:
+;
+PRESIDENTE FELICIANO SODRE Nº 534 PAÇO
+E-mail:
+NÃO INFORMADO
+
+MUNICIPAL
+
+BAIRRO:
+
+CENTRO
+
+CIDADE:
+
+MACAE
+
+;
+
+- RJ CEP: 27913080
+
+DISCRIMINAÇÃO DOS SERVIÇOS
+Serviço de Recomposição do Pavimento Asfáltico (Tapa Buraco), na cidade de Macaé/RJ, abrangendo Perímetro Urbano, Região Serrana, conf Boletim de Medição 08 —
+CO 022/2022 — Contrato 045/2022 - . Empenhos 501/2023 e 502/2023. M. Obra (10%)= R$ 104.468,45 Retenção p/ Prev. Social=R$ 11.491,53 Banco: ITAU Agência:
+
+0726 C/Corrente: 35410-3
+
+VALOR TOTAL DA NOTA: R$ 1.044.684,55
+CNAE - 4313400 - OBRAS DE TERRAPLENAGEM
+.
+é
+o
+Item da Lista de Serviços - 7.02 - EXECUÇÃO, POR ADMINISTRAÇÃO, EMPREITADA OU SUBEMPREITADA, DE OBRAS DE CONSTRUÇÃO CIVIL, HIDRAULICA
+OU ELETRICA E DE OUTRAS OBRAS SEMELHANTES, INCLUSIVE SONDAGEM, PERFURAÇÃO DE POÇOS, ESCAVAÇÃO, DRENAG
+
+=
+[m]' vm La [=]
+
+VALOR SERVIÇOS:
+R$ 1.044.684,55
+
+VALOR |
+DEDUÇÃO:
+R$ 0,00
+
+DESC. INCOND: BASE DE
+R$ 0,00
+CALCULO:
+R$ 1.044.684,55
+
+ALÍQUOTA:
+2%
+
+VALOR ISS:
+R$ 0,00
+
+VALOR PIS:
+R$ 0,00
+
+VALOR COFINS:
+R$ 0,00
+
+VALOR IR:
+R$ 0,00
+
+VALOR CSLL:
+R$ 0,00
+
+OUTRAS
+R$ 0,00
+
+eEd Era
+a
+e
+
+[=] Lt
+
+A
+
+="
+
+DADOS
+
+VALOR INSS:
+R$ 11.491,53
+
+VALOR ISS
+RETIDO:
+R$ 20.893,69
+
+RETENÇÕES:
+
+DESC. COND:
+R$ 0,00
+
+VALOR LÍQUIDO:
+R$ 1.012.299,33
+
+COMPLEMENTARES
+
+OUTRAS INFORMAÇÕES / CRITICAS
+EXIGIBILIDADE ISS
+Exigivel
+
+REGIME TRIBUTAÇÃO
+Sociedade Limitada
+
+SIMPLES NACIONAL
+Não
+
+ISSQN RETIDO
+Sim
+
+LOCAL. PRESTAÇÃO
+SERVIÇO
+Macaé - RJ
+
+LOCAL INCIDÊNCIA
+Macaé - RJ
+
+Observação:
+
+- ISS RETIDO PELO TOMADOR DE SERVIÇOS CNPJ: 29.115.474/0001-60 Valor Aproximado dos Tributos Federais R$ 136154,26 (Alíq 13,45), Tributos
+Estaduais R$ 0,00 (Alíq 0,00 IBPT) e Municipal de R$ 49906,36 (Alíq IBPT 4,93 IBPT)
+
+https://nfs-e.mage.rj.gov.br
+
+
