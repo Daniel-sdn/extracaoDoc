@@ -1,0 +1,333 @@
+{
+  "patterns": [
+    {
+      "label": "nome_prefeitura",
+      "pattern": [
+        {
+          "LOWER": "prefeitura"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "mesquita"
+        }
+      ],
+      "id": "PM_MESQUITA"
+    },
+    {
+      "label": "nome_prefeitura",
+      "pattern": [
+        {
+          "LOWER": "prefeitura"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "mage"
+        }
+      ],
+      "id": "PM_MAGE"
+    },
+    {
+      "label": "nome_prefeitura",
+      "pattern": [
+        {
+          "LOWER": "prefeitura"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "sao"
+        },
+        {
+          "LOWER": "pedro"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "aldeia"
+        }
+      ],
+      "id": "PM_SPA"
+    },
+    {
+      "label": "nome_prefeitura",
+      "pattern": [
+        {
+          "LOWER": "prefeitura"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "sao"
+        },
+        {
+          "LOWER": "pedro"
+        },
+        {
+          "LOWER": "da"
+        },
+        {
+          "LOWER": "aldeia"
+        }
+      ],
+      "id": "PM_SPA"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "n\u00famero"
+        },
+        {
+          "LOWER": "da"
+        },
+        {
+          "LOWER": "nota"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "1. CABECALHO"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "prestador"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "servi\u00e7os"
+        }
+      ],
+      "id": "2. PRESTADOR DE SERVI\u00c7O"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "prestador"
+        }
+      ],
+      "id": "2. PRESTADOR DE SERVI\u00c7O"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "tomador"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "servi\u00e7os"
+        }
+      ],
+      "id": "3. TOMADOR DE SERVI\u00c7O"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "tomador"
+        }
+      ],
+      "id": "3. TOMADOR DE SERVI\u00c7O"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "discrimina\u00e7\u00e3o"
+        },
+        {
+          "LOWER": "dos"
+        },
+        {
+          "LOWER": "servi\u00e7os"
+        }
+      ],
+      "id": "4. DESCRIMINACAO DOS SERVI\u00c7OS"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "valor"
+        },
+        {
+          "LOWER": "total"
+        },
+        {
+          "LOWER": "da"
+        },
+        {
+          "LOWER": "nota"
+        }
+      ],
+      "id": "5. VALOR TOTAL"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "cnae"
+        }
+      ],
+      "id": "6. CNAE e Item da Lista de Servi\u00e7os"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "valor"
+        },
+        {
+          "LOWER": "servi\u00e7os"
+        }
+      ],
+      "id": "7. VALORES E IMPOSTOS"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "dados"
+        },
+        {
+          "LOWER": "complementares"
+        }
+      ],
+      "id": "8. DADOS COMPLEMENTARES"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "outras"
+        },
+        {
+          "LOWER": "informa\u00e7\u00f5es"
+        },
+        {
+          "IS_PUNCT": true
+        },
+        {
+          "LOWER": "criticas"
+        }
+      ],
+      "id": "9. OUTRAS INFORMA\u00c7OES / CRITICAS"
+    },
+    {
+      "label": "nome_section",
+      "pattern": [
+        {
+          "LOWER": "observa\u00e7\u00e3o"
+        }
+      ],
+      "id": "10. OBSERVACOES"
+    },
+    {
+      "label": "secretaria",
+      "pattern": [
+        {
+          "LOWER": "secretaria"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "LOWER": "da"
+        },
+        {
+          "LOWER": "fazenda"
+        }
+      ],
+      "id": "SECRETARIA"
+    },
+    {
+      "label": "tipo_documento",
+      "pattern": [
+        {
+          "LOWER": "nota"
+        },
+        {
+          "LOWER": "fiscal"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "servi\u00e7os"
+        },
+        {
+          "LOWER": "eletr\u00f4nica"
+        },
+        {
+          "LOWER": "-"
+        },
+        {
+          "LOWER": "nfs-e"
+        }
+      ],
+      "id": "NFS-e"
+    },
+    {
+      "label": "CNPJ",
+      "pattern": [
+        {
+          "ORTH": {
+            "REGEX": "^\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}$"
+          }
+        }
+      ],
+      "id": "cpf_cnpj_com_mascara"
+    },
+    {
+      "label": "CNPJ",
+      "pattern": [
+        {
+          "ORTH": {
+            "REGEX": "^\\d{2}\\.\\d{3}\\.\\d{3}/$"
+          }
+        },
+        {
+          "ORTH": {
+            "REGEX": "^\\d{4}-\\d{2}$"
+          }
+        }
+      ]
+    }
+  ],
+  "colors": {
+    "secretaria": "linear-gradient(90deg, #2ADB5E, #1FA346)",
+    "tipo_documento": "linear-gradient(90deg, #09D6FF, #08A0D1)",
+    "nome_prefeitura": "linear-gradient(90deg, #aa9cfc, #fc9ce7)",
+    "nome_section": "#FFEA7F",
+    "SAFRA": "#AB9BFC",
+    "CNPJ": "#7AECEC",
+    "NOME": "#EE8AF8"
+  }
+}
