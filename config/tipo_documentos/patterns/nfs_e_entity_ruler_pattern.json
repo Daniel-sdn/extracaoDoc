@@ -185,6 +185,9 @@
         },
         {
           "LOWER": "nota"
+        },
+        {
+          "ORTH": ":"
         }
       ],
       "id": "5. VALOR TOTAL"
@@ -245,6 +248,9 @@
       "pattern": [
         {
           "LOWER": "observa\u00e7\u00e3o"
+        },
+        {
+          "ORTH": ":"
         }
       ],
       "id": "10. OBSERVACOES"
@@ -295,30 +301,256 @@
       "id": "NFS-e"
     },
     {
-      "label": "CNPJ",
+      "label": "encerrador",
       "pattern": [
         {
-          "ORTH": {
-            "REGEX": "^\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}$"
-          }
+          "LOWER": "https"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "encerrador"
+    },
+    {
+      "label": "encerrador",
+      "pattern": [
+        {
+          "LOWER": "https://nfs-e.mage.rj.gov.br"
+        }
+      ],
+      "id": "encerrador"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "telefone"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "telefone"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "nome"
+        },
+        {
+          "ORTH": "/"
+        },
+        {
+          "LOWER": "raz\u00e3o"
+        },
+        {
+          "LOWER": "social"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "razao_social"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "endere\u00e7o"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "endereco"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "e"
+        },
+        {
+          "ORTH": "-"
+        },
+        {
+          "LOWER": "mail"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "email"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "e-mail"
+        }
+      ],
+      "id": "e_mail"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "inscri\u00e7\u00e3o"
+        },
+        {
+          "LOWER": "municipal"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "inscricao_municipal"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "inscri\u00e7\u00e3o"
+        },
+        {
+          "LOWER": "estadual"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "inscricao_estadual"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "rg"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "rg"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "nome"
+        },
+        {
+          "LOWER": "de"
+        },
+        {
+          "LOWER": "fantasia"
+        },
+        {
+          "ORTH": ":"
+        }
+      ],
+      "id": "nome_fantasia"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "cpf"
+        },
+        {
+          "ORTH": "/"
+        },
+        {
+          "LOWER": "cnpj"
+        },
+        {
+          "ORTH": ":"
         }
       ],
       "id": "cpf_cnpj_com_mascara"
     },
     {
-      "label": "CNPJ",
+      "label": "campos",
       "pattern": [
         {
-          "ORTH": {
-            "REGEX": "^\\d{2}\\.\\d{3}\\.\\d{3}/$"
-          }
+          "LOWER": "exigibilidade"
         },
         {
-          "ORTH": {
-            "REGEX": "^\\d{4}-\\d{2}$"
-          }
+          "LOWER": "iss"
         }
-      ]
+      ],
+      "id": "exigibilidade_iss"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "regime"
+        },
+        {
+          "LOWER": "tributa\u00e7\u00e3o"
+        }
+      ],
+      "id": "regime_tributacao"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "simples"
+        },
+        {
+          "LOWER": "nacional"
+        },
+        {
+          "IS_TITLE": "False"
+        }
+      ],
+      "id": "simples_nacional"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "issqn"
+        },
+        {
+          "LOWER": "retido"
+        }
+      ],
+      "id": "issqn_retido"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "local"
+        },
+        {
+          "ORTH": "."
+        },
+        {
+          "LOWER": "presta\u00e7\u00e3o"
+        },
+        {
+          "LOWER": "servi\u00e7o"
+        }
+      ],
+      "id": "local_pretacao_servico"
+    },
+    {
+      "label": "campos",
+      "pattern": [
+        {
+          "LOWER": "local"
+        },
+        {
+          "LOWER": "incid\u00eancia"
+        }
+      ],
+      "id": "local_incidencia"
     }
   ],
   "colors": {
@@ -326,8 +558,10 @@
     "tipo_documento": "linear-gradient(90deg, #09D6FF, #08A0D1)",
     "nome_prefeitura": "linear-gradient(90deg, #aa9cfc, #fc9ce7)",
     "nome_section": "#FFEA7F",
-    "SAFRA": "#AB9BFC",
-    "CNPJ": "#7AECEC",
-    "NOME": "#EE8AF8"
+    "INSC_MUNICIPAL": "#CCA10C",
+    "CPF_CNPJ": "#CCA10C",
+    "campos": "#AB9BFC",
+    "SAFRA": "#7AECEC",
+    "encerrador": "#EE8AF8"
   }
 }
