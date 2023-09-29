@@ -19,6 +19,7 @@ import pandas as pd
 from pathlib import Path
 from urllib import response
 from unicodedata import normalize
+from icecream import ic
 
 
 
@@ -132,7 +133,9 @@ def conv_filename_no_ext(title):
 
 def filtrar_df(df, **kwargs):
     query = " & ".join(f"{key} == @kwargs['{key}']" for key in kwargs)
+    ic(query)
     result = df.query(query)
+    ic(result)
     return result
 
 

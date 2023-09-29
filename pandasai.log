@@ -1,0 +1,577 @@
+2023-09-28 21:33:35 [INFO] Question: What is the index of Pune?
+2023-09-28 21:33:35 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:33:35 [INFO] Prompt ID: 469d294a-5f8e-4c48-b0c9-52289d744c3e
+2023-09-28 21:33:36 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 21:44:55 [INFO] Question: What is the index of Pune?
+2023-09-28 21:44:55 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:44:55 [INFO] Prompt ID: c98bc398-60ac-452d-8ea3-9306ec207a93
+2023-09-28 21:44:55 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 21:45:09 [INFO] Question: What is the index of Pune?
+2023-09-28 21:45:09 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:45:09 [INFO] Prompt ID: 86756d69-984e-4c2a-b8b0-808db2b5ec94
+2023-09-28 21:45:09 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 21:45:10 [INFO] Question: What is the index of Pune?
+2023-09-28 21:45:10 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:45:10 [INFO] Prompt ID: 0491776b-a0eb-4db4-a2ae-fae54f925bc6
+2023-09-28 21:45:10 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 21:45:11 [INFO] Question: What is the index of Pune?
+2023-09-28 21:45:11 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:45:11 [INFO] Prompt ID: 26082451-2414-42a9-aa61-9236c62ffed4
+2023-09-28 21:45:11 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 21:46:37 [INFO] Question: What is the index of Pune?
+2023-09-28 21:46:37 [INFO] Running PandasAI with openai LLM...
+2023-09-28 21:46:37 [INFO] Prompt ID: 15aaf2cb-d477-4b8c-8761-ff983e980749
+2023-09-28 21:46:37 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-09-28 22:30:47 [INFO] Question: What is the index of Pune?
+2023-09-28 22:30:47 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:30:47 [INFO] Prompt ID: c5d7c554-98df-4a1f-94b2-2e187bbf28c5
+2023-09-28 22:30:59 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Check if the dataframe dfs[0] contains the index of Pune
+    if 'Pune' in dfs[0]['country'].values:
+        index = dfs[0][dfs[0]['country'] == 'Pune'].index[0]
+        return {"type": "number", "value": index}
+    else:
+        return {"type": "text", "value": "Pune is not found in the dataframe."}
+```
+
+2023-09-28 22:30:59 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    if 'Pune' in dfs[0]['country'].values:
+        index = dfs[0][dfs[0]['country'] == 'Pune'].index[0]
+        return {'type': 'number', 'value': index}
+    else:
+        return {'type': 'text', 'value': 'Pune is not found in the dataframe.'}
+        ```
+2023-09-28 22:30:59 [INFO] Answer: {'type': 'number', 'value': 6}
+2023-09-28 22:30:59 [INFO] Executed in: 11.796399354934692s
+2023-09-28 22:36:47 [INFO] Question: Me mostre as 5 primeiras linhas em forma tabular.
+2023-09-28 22:36:47 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:36:47 [INFO] Prompt ID: 635bbb42-a01b-471e-9d0a-05b669e6eedc
+2023-09-28 22:36:57 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]
+    
+    # Process
+    # No processing required
+    
+    # Analyze
+    # Get the first 5 rows of the dataframe in tabular form
+    table = df.head(5).to_string(index=False)
+    
+    # Output
+    output = {
+        "type": "text",
+        "value": table
+    }
+    
+    return output
+```
+
+2023-09-28 22:36:57 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    table = df.head(5).to_string(index=False)
+    output = {'type': 'text', 'value': table}
+    return output
+        ```
+2023-09-28 22:36:57 [INFO] Answer: {'type': 'text', 'value': 'country  annual tax collected  happiness_index\n  Delhi          1.929448e+10             9.94\n Mumbai          2.891616e+10             7.16\nKolkata          2.411255e+10             6.35\nChennai          3.435817e+10             8.07\n Jaipur          1.745434e+10             6.98'}
+2023-09-28 22:36:57 [INFO] Executed in: 10.553049802780151s
+2023-09-28 22:37:46 [INFO] Question: Me mostre as ultimas 3 linhas em forma tabular.
+2023-09-28 22:37:46 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:37:46 [INFO] Prompt ID: d84953e4-9886-430b-9735-a20bcb4db077
+2023-09-28 22:37:57 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]
+
+    # Process
+    # No processing required for this question
+
+    # Analyze
+    # Get the last 3 rows of the dataframe
+    last_3_rows = df.tail(3)
+
+    # Output
+    # Convert the last 3 rows to tabular form
+    tabular_form = last_3_rows.to_string(index=False)
+
+    return {"type": "text", "value": tabular_form}
+```
+
+2023-09-28 22:37:57 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    last_3_rows = df.tail(3)
+    tabular_form = last_3_rows.to_string(index=False)
+    return {'type': 'text', 'value': tabular_form}
+        ```
+2023-09-28 22:37:57 [INFO] Answer: {'type': 'text', 'value': ' country  annual tax collected  happiness_index\nAmritsar          4.380757e+10             6.87\n    Agra          1.463184e+11             3.36\n    Kola                   NaN              NaN'}
+2023-09-28 22:37:57 [INFO] Executed in: 11.65681529045105s
+2023-09-28 22:38:23 [INFO] Question: Me mostre a descriçao em forma tabular.
+2023-09-28 22:38:23 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:38:23 [INFO] Prompt ID: b8cc015d-cf59-436e-8976-2c43406be320
+2023-09-28 22:38:35 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]
+    
+    # Process
+    description = df.describe()
+    
+    # Analyze
+    # Convert the description to a tabular form
+    description_tabular = description.to_string()
+    
+    # Output
+    output = {
+        "type": "text",
+        "value": description_tabular
+    }
+    
+    return output
+```
+
+2023-09-28 22:38:35 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    description = df.describe()
+    description_tabular = description.to_string()
+    output = {'type': 'text', 'value': description_tabular}
+    return output
+        ```
+2023-09-28 22:38:35 [INFO] Answer: {'type': 'text', 'value': '       annual tax collected  happiness_index\ncount          1.000000e+01        10.000000\nmean           3.570575e+10         6.728000\nstd            4.010314e+10         1.907149\nmin            1.181205e+10         3.360000\n25%            1.641910e+10         6.162500\n50%            2.170352e+10         6.925000\n75%            3.299767e+10         7.842500\nmax            1.463184e+11         9.940000'}
+2023-09-28 22:38:35 [INFO] Executed in: 11.231016397476196s
+2023-09-28 22:39:13 [INFO] Question: Qual e o formato dos dados?.
+2023-09-28 22:39:13 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:39:13 [INFO] Prompt ID: 123e0c4b-814a-4c02-83b4-bca36b014b7c
+2023-09-28 22:39:23 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare: No preprocessing or cleaning required
+    
+    # Process: No manipulation required
+    
+    # Analyze: Get the format of the data
+    format_data = dfs[0].dtypes
+    
+    # Output: Return the format of the data
+    return {"type": "dataframe", "value": format_data}
+```
+
+2023-09-28 22:39:23 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    format_data = dfs[0].dtypes
+    return {'type': 'dataframe', 'value': format_data}
+        ```
+2023-09-28 22:39:23 [INFO] Answer: {'type': 'dataframe', 'value': country                  object
+annual tax collected    float64
+happiness_index         float64
+dtype: object}
+2023-09-28 22:39:23 [INFO] Executed in: 10.069576501846313s
+2023-09-28 22:41:38 [INFO] Question: Mostre-me as 4 primeiras linhas dos dados.
+2023-09-28 22:41:38 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:41:38 [INFO] Prompt ID: 0a13ca08-dafc-4a28-9f82-22323eb1dfa0
+2023-09-28 22:41:50 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]  # Assuming we are working with the first dataframe in the list
+    
+    # Process
+    df_head = df.head(4)  # Get the first 4 rows of the dataframe
+    
+    # Analyze
+    # Since we only need to show the result, we can directly return the dataframe as the output
+    output = {
+        "type": "dataframe",
+        "value": df_head
+    }
+    
+    return output
+```
+
+2023-09-28 22:41:50 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    df_head = df.head(4)
+    output = {'type': 'dataframe', 'value': df_head}
+    return output
+        ```
+2023-09-28 22:41:50 [INFO] Answer: {'type': 'dataframe', 'value':                      document_unique_id  seq            date_time     batch  \
+0  4433a03b-d30a-4c92-80fc-015912e1f357    1  26/09/2023 16:16:39  Batch_23   
+1  27df9e70-b5fb-45b7-8f59-0c04ed9728e2    2  26/09/2023 16:16:39  Batch_23   
+2  393a4eab-4b10-48e4-8d06-2fecadfa3b48    3  26/09/2023 16:16:50  Batch_23   
+3  ab2457b7-ea5c-4191-acf0-bc8edc04879e    4  26/09/2023 16:16:50  Batch_23   
+
+  sigla_tipo fase_processo nome_atividade    status_documento acao_executada  \
+0      nfs_e       analise   scan_analise        root_analise        Analise   
+1      nfs_e       analise   scan_analise  PREPROCESS_EXTRACT        Analise   
+2      nfs_e       analise   scan_analise        root_analise        Analise   
+3      nfs_e       analise   scan_analise  PREPROCESS_EXTRACT        Analise   
+
+               original_file_name  ... pdf_pesquisavel     score  \
+0  MESQUITA_PDF_31282023_2258.zip  ...             NaN       NaN   
+1                           1.pdf  ...             0.0  0.716463   
+2  Livro de Registro do ISSQN.pdf  ...             NaN       NaN   
+3                     2023 -5.pdf  ...             1.0  0.932860   
+
+   palavra_chave         document_tag          action_item level  \
+0            zip              doc_zip  ARCHIEVE_EXTRACTION     2   
+1        default     prov_nota_fiscal   PREPROCESS_EXTRACT     3   
+2          livro  prov_livro_registro          SPLIT_PAGES     3   
+3        default     prov_nota_fiscal   PREPROCESS_EXTRACT     3   
+
+              parent_document_unique_id  \
+0  511c5820-d1d1-4c39-bfd6-6f6df5975fd4   
+1  511c5820-d1d1-4c39-bfd6-6f6df5975fd4   
+2  511c5820-d1d1-4c39-bfd6-6f6df5975fd4   
+3  511c5820-d1d1-4c39-bfd6-6f6df5975fd4   
+
+                                           file_hash  \
+0  8d7038d712373364fa4c7680a887a0ceed01c8692d6958...   
+1  66a7db9ee1500d5f9fa5da26563cfd7b68f1f5ba3daba2...   
+2  b960962503987f6e05f5646d71a789facfe4e80ccb8890...   
+3  23a28a363c2d2c8b700ac4775164f7c0f0e2d6cef6166d...   
+
+                                           file_path informations  
+0  pipeline_extracao_documentos/2_documentos_para...               
+1  pipeline_extracao_documentos/2_documentos_para...               
+2  pipeline_extracao_documentos/2_documentos_para...               
+3  pipeline_extracao_documentos/2_documentos_para...               
+
+[4 rows x 23 columns]}
+2023-09-28 22:41:50 [INFO] Executed in: 11.635372400283813s
+2023-09-28 22:43:50 [INFO] Question: mostre-me de forma tabulas as 3 primeiras linhas das colunas batch, document_unique_id, original_file_name e document_tag.
+2023-09-28 22:43:50 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:43:50 [INFO] Prompt ID: 14393a37-3aae-480b-afd8-bd58486f4f31
+2023-09-28 22:44:01 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]
+    
+    # Process
+    columns = ['batch', 'document_unique_id', 'original_file_name', 'document_tag']
+    result_df = df[columns].head(3)
+    
+    # Analyze
+    result = {
+        "type": "dataframe",
+        "value": result_df.to_string(index=False)
+    }
+    
+    return result
+```
+
+2023-09-28 22:44:01 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    columns = ['batch', 'document_unique_id', 'original_file_name', 'document_tag']
+    result_df = df[columns].head(3)
+    result = {'type': 'dataframe', 'value': result_df.to_string(index=False)}
+    return result
+        ```
+2023-09-28 22:44:01 [INFO] Answer: {'type': 'dataframe', 'value': '   batch                   document_unique_id             original_file_name        document_tag\nBatch_23 4433a03b-d30a-4c92-80fc-015912e1f357 MESQUITA_PDF_31282023_2258.zip             doc_zip\nBatch_23 27df9e70-b5fb-45b7-8f59-0c04ed9728e2                          1.pdf    prov_nota_fiscal\nBatch_23 393a4eab-4b10-48e4-8d06-2fecadfa3b48 Livro de Registro do ISSQN.pdf prov_livro_registro'}
+2023-09-28 22:44:01 [INFO] Executed in: 10.497116565704346s
+2023-09-28 22:45:03 [INFO] Question: mostre-me de forma tabular as 3 primeiras linhas das colunas 'batch', 'document_unique_id', 'original_file_name' e 'document_tag'
+2023-09-28 22:45:03 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:45:03 [INFO] Prompt ID: 56a680e3-bebe-49d3-972f-78647ed84ce8
+2023-09-28 22:45:14 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    # Prepare
+    df = dfs[0]
+    
+    # Process
+    columns = ['batch', 'document_unique_id', 'original_file_name', 'document_tag']
+    result_df = df[columns].head(3)
+    
+    # Analyze
+    result = {
+        "type": "dataframe",
+        "value": result_df
+    }
+    
+    return result
+```
+
+2023-09-28 22:45:14 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    df = dfs[0]
+    columns = ['batch', 'document_unique_id', 'original_file_name', 'document_tag']
+    result_df = df[columns].head(3)
+    result = {'type': 'dataframe', 'value': result_df}
+    return result
+        ```
+2023-09-28 22:45:14 [INFO] Answer: {'type': 'dataframe', 'value':       batch                    document_unique_id  \
+0  Batch_23  4433a03b-d30a-4c92-80fc-015912e1f357   
+1  Batch_23  27df9e70-b5fb-45b7-8f59-0c04ed9728e2   
+2  Batch_23  393a4eab-4b10-48e4-8d06-2fecadfa3b48   
+
+               original_file_name         document_tag  
+0  MESQUITA_PDF_31282023_2258.zip              doc_zip  
+1                           1.pdf     prov_nota_fiscal  
+2  Livro de Registro do ISSQN.pdf  prov_livro_registro  }
+2023-09-28 22:45:14 [INFO] Executed in: 11.225383520126343s
+2023-09-28 22:47:26 [INFO] Question: filtre para mim pela coluna 'document_tag' onde o valor e igual a 'prov_nota_fiscal' apresente apenas a coluna 'original_file_name'
+2023-09-28 22:47:26 [INFO] Running PandasAI with openai LLM...
+2023-09-28 22:47:26 [INFO] Prompt ID: e9c35bdb-7227-4b87-a890-a8d7c3977d6d
+2023-09-28 22:47:35 [INFO] Code generated:
+```
+# TODO import all the dependencies required
+import pandas as pd
+
+def analyze_data(dfs: list[pd.DataFrame]) -> dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    filtered_df = dfs[0][dfs[0]['document_tag'] == 'prov_nota_fiscal']
+    result_df = filtered_df[['original_file_name']]
+    
+    return {"type": "dataframe", "value": result_df}
+```
+
+2023-09-28 22:47:35 [INFO] 
+Code running:
+```
+def analyze_data(dfs: list[pd.DataFrame]) ->dict:
+    """
+    Analyze the data
+    1. Prepare: Preprocessing and cleaning data if necessary
+    2. Process: Manipulating data for analysis (grouping, filtering, aggregating, etc.)
+    3. Analyze: Conducting the actual analysis (if the user asks to plot a chart save it to an image in /temp_chart.png and do not show the chart.)
+    4. Output: return a dictionary of:
+    - type (possible values "text", "number", "dataframe", "plot")
+    - value (can be a string, a dataframe or the path of the plot, NOT a dictionary)
+    Example output: { "type": "text", "value": "The average loan amount is $15,000." }
+    """
+    filtered_df = dfs[0][dfs[0]['document_tag'] == 'prov_nota_fiscal']
+    result_df = filtered_df[['original_file_name']]
+    return {'type': 'dataframe', 'value': result_df}
+        ```
+2023-09-28 22:47:35 [INFO] Answer: {'type': 'dataframe', 'value':                                    original_file_name
+1                                               1.pdf
+3                                         2023 -5.pdf
+4                                         2023 -7.pdf
+5                                         2023 -4.pdf
+6                                         2023 -6.pdf
+7                                         2023 -3.pdf
+8                                         2023 -8.pdf
+9                                           31-07.pdf
+10  ACFrOgBLgYewSPQAweUd3QJkpDqN5Kp2dFIyNq7d6wJCRY...
+11           41C46D8F-73AB-4906-A4C6-C7DC92C05828.PDF
+12           B4066C58-F309-42E4-A992-55EB8961211E.PDF}
+2023-09-28 22:47:35 [INFO] Executed in: 9.762126445770264s
